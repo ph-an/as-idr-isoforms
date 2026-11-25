@@ -1,0 +1,259 @@
+{
+ "E1_genes_with_age": 10450,
+ "E1_HumanTFs TF": [
+  0.265,
+  2.28e-15,
+  867
+ ],
+ "E1_non-TF": [
+  -0.18,
+  9.12e-71,
+  9583
+ ],
+ "E1_age_on_pct_idr_slope_by_class_Ma_per_pct": {
+  "Metabolic enzymes": [
+   -6.385,
+   -9.115,
+   -3.654
+  ],
+  "Transporters": [
+   -8.216,
+   -12.656,
+   -3.776
+  ],
+  "Secreted": [
+   -2.28,
+   -3.167,
+   -1.394
+  ],
+  "Kinases & phosphatases": [
+   0.247,
+   -5.142,
+   5.636
+  ],
+  "Receptors & channels": [
+   -1.762,
+   -3.713,
+   0.19
+  ],
+  "Other membrane": [
+   -4.518,
+   -5.602,
+   -3.434
+  ],
+  "Cytoskeletal & structural": [
+   -4.787,
+   -5.952,
+   -3.623
+  ],
+  "Other / unclassified": [
+   -8.821,
+   -9.856,
+   -7.786
+  ],
+  "Chromatin & RNA processing": [
+   -9.892,
+   -13.55,
+   -6.234
+  ],
+  "Transcription co-regulators": [
+   -9.693,
+   -12.021,
+   -7.366
+  ],
+  "DNA-binding TFs": [
+   4.153,
+   3.028,
+   5.278
+  ]
+ },
+ "E2_spearman_age_vs_n_iso": [
+  0.0411,
+  0.0
+ ],
+ "E3_core_composition_by_age": {
+  "<100": {
+   "aro": 5.71,
+   "acid": 11.39,
+   "basic": 10.93,
+   "his": 2.47,
+   "pos": 13.4,
+   "pro": 7.68,
+   "st": 15.22,
+   "qn": 8.06,
+   "gly": 7.78,
+   "hyd": 28.44,
+   "cys": 2.32,
+   "ncpr": -0.46,
+   "n": 30400
+  },
+  "100-500": {
+   "aro": 4.99,
+   "acid": 11.76,
+   "basic": 10.77,
+   "his": 2.18,
+   "pos": 12.95,
+   "pro": 9.8,
+   "st": 15.54,
+   "qn": 8.02,
+   "gly": 8.09,
+   "hyd": 27.1,
+   "cys": 1.75,
+   "ncpr": -0.99,
+   "n": 104100
+  },
+  "500-1000": {
+   "aro": 4.83,
+   "acid": 12.29,
+   "basic": 11.4,
+   "his": 2.22,
+   "pos": 13.62,
+   "pro": 9.38,
+   "st": 16.86,
+   "qn": 8.13,
+   "gly": 7.79,
+   "hyd": 25.68,
+   "cys": 1.42,
+   "ncpr": -0.89,
+   "n": 363500
+  },
+  ">1000": {
+   "aro": 4.38,
+   "acid": 14.32,
+   "basic": 12.27,
+   "his": 1.92,
+   "pos": 14.2,
+   "pro": 8.93,
+   "st": 15.98,
+   "qn": 7.91,
+   "gly": 7.74,
+   "hyd": 25.33,
+   "cys": 1.23,
+   "ncpr": -2.04,
+   "n": 117100
+  }
+ },
+ "E3_kruskal_core_by_age": {
+  "aro": 3.51e-12,
+  "acid": 3.01e-16,
+  "basic": 2.59e-09,
+  "his": 4.26e-08,
+  "pos": 4.21e-05,
+  "pro": 1.91e-11,
+  "st": 5.01e-14,
+  "qn": 0.206,
+  "gly": 0.0846,
+  "hyd": 1.34e-09,
+  "cys": 2.27e-24,
+  "ncpr": 0.00692
+ },
+ "E3_young_minus_old_core_pp": {
+  "aro": 0.791,
+  "acid": -2.686,
+  "basic": -1.47,
+  "his": 0.306,
+  "pos": -1.164,
+  "pro": 0.324,
+  "st": -0.622,
+  "qn": 0.084,
+  "gly": 0.294,
+  "hyd": 2.302,
+  "cys": 0.677,
+  "ncpr": 1.216
+ },
+ "E3_similarity": {
+  "features": [
+   "aro",
+   "acid",
+   "basic",
+   "his",
+   "pro",
+   "st",
+   "qn",
+   "gly",
+   "hyd",
+   "cys",
+   "ncpr"
+  ],
+  "spearman_young_old_vs_minority_terminal": [
+   0.4,
+   0.223
+  ],
+  "spearman_young_old_vs_variable_mean": [
+   0.055,
+   0.873
+  ]
+ },
+ "E4": [
+  {
+   "group": "AD only",
+   "genes": 613,
+   "median_pct_idr": 32.2306,
+   "mean_iso": 3.7047,
+   "coupling": 0.168,
+   "lo": 0.1213,
+   "hi": 0.2131,
+   "var_minus_core": 0.1793
+  },
+  {
+   "group": "AR only",
+   "genes": 1314,
+   "median_pct_idr": 16.0606,
+   "mean_iso": 3.1362,
+   "coupling": 0.115,
+   "lo": 0.0923,
+   "hi": 0.1426,
+   "var_minus_core": 0.1027
+  },
+  {
+   "group": "AD and AR",
+   "genes": 201,
+   "median_pct_idr": 18.6704,
+   "mean_iso": 3.607,
+   "coupling": 0.1519,
+   "lo": 0.1058,
+   "hi": 0.2017,
+   "var_minus_core": 0.189
+  },
+  {
+   "group": "no inheritance annotation",
+   "genes": 8404,
+   "median_pct_idr": 24.595,
+   "mean_iso": 3.0297,
+   "coupling": 0.1449,
+   "lo": 0.1351,
+   "hi": 0.1542,
+   "var_minus_core": 0.1146
+  }
+ ],
+ "E4_AD_vs_AR_pct_idr_mwu_p": 1.79e-29,
+ "E4_AD_effect_adjusted_class_length": [
+  6.024,
+  3.789,
+  8.26,
+  1.28e-07
+ ]
+}
+                         pclass  genes    rho      p  median_<100  median_100-500  median_500-1000  median_>1000
+0                           All  10450 -0.192  0.000       29.187          30.079           25.672        13.740
+1             Metabolic enzymes   1824 -0.034  0.143        4.151           6.609           10.246         7.544
+2                  Transporters    481 -0.093  0.040        7.855          14.765           13.670         8.791
+3                      Secreted    540 -0.128  0.003       31.310          20.661           15.744        10.116
+4        Kinases & phosphatases    483 -0.016  0.720       13.896          21.707           18.124        19.249
+5          Receptors & channels    613 -0.158  0.000       23.006          23.077           21.300        14.245
+6                Other membrane    916 -0.228  0.000       31.325          29.853           24.639        14.421
+7     Cytoskeletal & structural    867 -0.267  0.000       40.976          39.287           28.553        20.651
+8          Other / unclassified   2599 -0.262  0.000       42.480          40.834           33.524        16.630
+9    Chromatin & RNA processing    484 -0.183  0.000       57.266          43.471           40.329        26.405
+10  Transcription co-regulators    776 -0.281  0.000       41.783          54.070           47.476        26.358
+11              DNA-binding TFs    867  0.265  0.000       31.986          49.078           65.170        68.809
+    age_bin  genes  mean_iso  frac_ge3_iso  median_idr_range  alt_exon_fraction  coupling  coupling_lo  coupling_hi  dis_core  dis_var  var_minus_core  fate_intact  fate_internal deletion  fate_truncated  fate_removed
+0      <100    579     2.743         0.363             8.760              0.712     0.146        0.095        0.207     0.360    0.526           0.166       56.257                   8.829          24.808        10.106
+1   100-500   1700     2.969         0.451             8.127              0.600     0.136        0.107        0.166     0.377    0.454           0.078       57.916                   8.728          23.035        10.320
+2  500-1000   5919     3.220         0.516             8.011              0.539     0.145        0.133        0.158     0.323    0.447           0.123       64.840                   9.126          16.097         9.938
+3     >1000   2252     2.955         0.480             5.740              0.489     0.115        0.099        0.132     0.194    0.322           0.128       66.599                   7.160          14.741        11.500
+                       group  genes  median_pct_idr  mean_iso  coupling     lo     hi  var_minus_core
+0                    AD only    613          32.231     3.705     0.168  0.121  0.213           0.179
+1                    AR only   1314          16.061     3.136     0.115  0.092  0.143           0.103
+2                  AD and AR    201          18.670     3.607     0.152  0.106  0.202           0.189
+3  no inheritance annotation   8404          24.595     3.030     0.145  0.135  0.154           0.115

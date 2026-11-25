@@ -1,0 +1,20 @@
+{
+ "rows": 295061,
+ "rows_without_cds_coords": 1321,
+ "segments": 115087,
+ "genes": 8141,
+ "segments_alt": 46302,
+ "segments_const": 68785,
+ "id_alt_but_cds_const": 6182,
+ "mean_idr_alt": 0.3615,
+ "mean_idr_const": 0.2534,
+ "diff": 0.1081,
+ "diff_ci95": [
+  0.098,
+  0.118
+ ],
+ "paired_genes": 7681,
+ "paired_frac_alt_higher": 0.514,
+ "paired_wilcoxon_p": 7.8e-126,
+ "odds_ratio_idr_exon": 1.666
+}

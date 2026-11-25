@@ -1,0 +1,266 @@
+{
+ "pairs": 6609,
+ "genes": 4432,
+ "internal_alt_only_residues": {
+  "novel": {
+   "residues": 141152,
+   "disordered": 84340,
+   "frac_disordered": 0.5975,
+   "share_of_disordered": 0.8294
+  },
+  "other frame": {
+   "residues": 26263,
+   "disordered": 16270,
+   "frac_disordered": 0.6195,
+   "share_of_disordered": 0.16
+  },
+  "same frame": {
+   "residues": 2040,
+   "disordered": 1083,
+   "frac_disordered": 0.5309,
+   "share_of_disordered": 0.0106
+  }
+ },
+ "composition": [
+  {
+   "kind": "novel",
+   "feature": "aro",
+   "n": 2010,
+   "diff_pp": 2.1936,
+   "lo": 1.821,
+   "hi": 2.5662,
+   "p": 0.0,
+   "q_BH": 0.0
+  },
+  {
+   "kind": "novel",
+   "feature": "acid",
+   "n": 2010,
+   "diff_pp": -2.2107,
+   "lo": -2.8209,
+   "hi": -1.6004,
+   "p": 0.0,
+   "q_BH": 0.0
+  },
+  {
+   "kind": "novel",
+   "feature": "basic",
+   "n": 2010,
+   "diff_pp": 0.2775,
+   "lo": -0.3052,
+   "hi": 0.8603,
+   "p": 0.3506,
+   "q_BH": 0.3824
+  },
+  {
+   "kind": "novel",
+   "feature": "pro",
+   "n": 2010,
+   "diff_pp": 0.9111,
+   "lo": 0.3963,
+   "hi": 1.4259,
+   "p": 0.0005,
+   "q_BH": 0.0008
+  },
+  {
+   "kind": "novel",
+   "feature": "st",
+   "n": 2010,
+   "diff_pp": 0.488,
+   "lo": -0.1379,
+   "hi": 1.1138,
+   "p": 0.1265,
+   "q_BH": 0.1518
+  },
+  {
+   "kind": "novel",
+   "feature": "qn",
+   "n": 2010,
+   "diff_pp": 0.5367,
+   "lo": 0.1206,
+   "hi": 0.9527,
+   "p": 0.0115,
+   "q_BH": 0.0153
+  },
+  {
+   "kind": "novel",
+   "feature": "gly",
+   "n": 2010,
+   "diff_pp": -0.0182,
+   "lo": -0.5207,
+   "hi": 0.4843,
+   "p": 0.9433,
+   "q_BH": 0.9433
+  },
+  {
+   "kind": "novel",
+   "feature": "hyd",
+   "n": 2010,
+   "diff_pp": -4.8591,
+   "lo": -5.682,
+   "hi": -4.0361,
+   "p": 0.0,
+   "q_BH": 0.0
+  },
+  {
+   "kind": "novel",
+   "feature": "his",
+   "n": 2010,
+   "diff_pp": 1.4098,
+   "lo": 1.1843,
+   "hi": 1.6353,
+   "p": 0.0,
+   "q_BH": 0.0
+  },
+  {
+   "kind": "novel",
+   "feature": "cys",
+   "n": 2010,
+   "diff_pp": 1.2713,
+   "lo": 0.9932,
+   "hi": 1.5493,
+   "p": 0.0,
+   "q_BH": 0.0
+  },
+  {
+   "kind": "novel",
+   "feature": "fcr",
+   "n": 2010,
+   "diff_pp": -1.9331,
+   "lo": -2.7655,
+   "hi": -1.1008,
+   "p": 0.0,
+   "q_BH": 0.0
+  },
+  {
+   "kind": "novel",
+   "feature": "ncpr",
+   "n": 2010,
+   "diff_pp": 2.4882,
+   "lo": 1.6331,
+   "hi": 3.3434,
+   "p": 0.0,
+   "q_BH": 0.0
+  },
+  {
+   "kind": "other frame",
+   "feature": "aro",
+   "n": 492,
+   "diff_pp": 1.3928,
+   "lo": 0.7917,
+   "hi": 1.9938,
+   "p": 0.0,
+   "q_BH": 0.0
+  },
+  {
+   "kind": "other frame",
+   "feature": "acid",
+   "n": 492,
+   "diff_pp": -5.2124,
+   "lo": -5.9551,
+   "hi": -4.4696,
+   "p": 0.0,
+   "q_BH": 0.0
+  },
+  {
+   "kind": "other frame",
+   "feature": "basic",
+   "n": 492,
+   "diff_pp": 1.2483,
+   "lo": 0.268,
+   "hi": 2.2286,
+   "p": 0.0126,
+   "q_BH": 0.0168
+  },
+  {
+   "kind": "other frame",
+   "feature": "pro",
+   "n": 492,
+   "diff_pp": 2.6559,
+   "lo": 1.8215,
+   "hi": 3.4903,
+   "p": 0.0,
+   "q_BH": 0.0
+  },
+  {
+   "kind": "other frame",
+   "feature": "st",
+   "n": 492,
+   "diff_pp": 1.1637,
+   "lo": -0.0128,
+   "hi": 2.3403,
+   "p": 0.0526,
+   "q_BH": 0.0631
+  },
+  {
+   "kind": "other frame",
+   "feature": "qn",
+   "n": 492,
+   "diff_pp": -0.4773,
+   "lo": -1.137,
+   "hi": 0.1824,
+   "p": 0.1562,
+   "q_BH": 0.1704
+  },
+  {
+   "kind": "other frame",
+   "feature": "gly",
+   "n": 492,
+   "diff_pp": 0.4364,
+   "lo": -0.3778,
+   "hi": 1.2507,
+   "p": 0.2935,
+   "q_BH": 0.2935
+  },
+  {
+   "kind": "other frame",
+   "feature": "hyd",
+   "n": 492,
+   "diff_pp": -6.422,
+   "lo": -7.7211,
+   "hi": -5.123,
+   "p": 0.0,
+   "q_BH": 0.0
+  },
+  {
+   "kind": "other frame",
+   "feature": "his",
+   "n": 492,
+   "diff_pp": 2.8228,
+   "lo": 2.2289,
+   "hi": 3.4167,
+   "p": 0.0,
+   "q_BH": 0.0
+  },
+  {
+   "kind": "other frame",
+   "feature": "cys",
+   "n": 492,
+   "diff_pp": 2.3918,
+   "lo": 1.9271,
+   "hi": 2.8565,
+   "p": 0.0,
+   "q_BH": 0.0
+  },
+  {
+   "kind": "other frame",
+   "feature": "fcr",
+   "n": 492,
+   "diff_pp": -3.9641,
+   "lo": -5.1232,
+   "hi": -2.805,
+   "p": 0.0,
+   "q_BH": 0.0
+  },
+  {
+   "kind": "other frame",
+   "feature": "ncpr",
+   "n": 492,
+   "diff_pp": 6.4606,
+   "lo": 5.1638,
+   "hi": 7.7575,
+   "p": 0.0,
+   "q_BH": 0.0
+  }
+ ]
+}

@@ -1,0 +1,672 @@
+{
+ "E1_genes_with_age": 10450,
+ "E1": [
+  {
+   "pclass": "All",
+   "genes": 10450,
+   "rho": -0.1919,
+   "p": 0.0,
+   "kruskal_p": 0.0,
+   "median_<100": 29.1866,
+   "median_100-500": 30.079,
+   "median_500-1000": 25.6722,
+   "median_>1000": 13.7397,
+   "n_<100": 579,
+   "n_100-500": 1700,
+   "n_500-1000": 5919,
+   "n_>1000": 2252
+  },
+  {
+   "pclass": "Metabolic enzymes",
+   "genes": 1824,
+   "rho": -0.0343,
+   "p": 0.1427,
+   "kruskal_p": 0.0,
+   "median_<100": 4.1509,
+   "median_100-500": 6.6087,
+   "median_500-1000": 10.2459,
+   "median_>1000": 7.5437,
+   "n_<100": 76,
+   "n_100-500": 191,
+   "n_500-1000": 945,
+   "n_>1000": 612
+  },
+  {
+   "pclass": "Transporters",
+   "genes": 481,
+   "rho": -0.0935,
+   "p": 0.0404,
+   "kruskal_p": 0.0038,
+   "median_<100": 7.8553,
+   "median_100-500": 14.7655,
+   "median_500-1000": 13.6704,
+   "median_>1000": 8.7912,
+   "n_<100": 12,
+   "n_100-500": 66,
+   "n_500-1000": 240,
+   "n_>1000": 163
+  },
+  {
+   "pclass": "Secreted",
+   "genes": 540,
+   "rho": -0.1283,
+   "p": 0.0028,
+   "kruskal_p": 0.0969,
+   "median_<100": 31.3099,
+   "median_100-500": 20.6612,
+   "median_500-1000": 15.7442,
+   "median_>1000": 10.1156,
+   "n_<100": 47,
+   "n_100-500": 175,
+   "n_500-1000": 306,
+   "n_>1000": 12
+  },
+  {
+   "pclass": "Kinases & phosphatases",
+   "genes": 483,
+   "rho": -0.0164,
+   "p": 0.7195,
+   "kruskal_p": 0.7184,
+   "median_<100": 13.8958,
+   "median_100-500": 21.7073,
+   "median_500-1000": 18.1237,
+   "median_>1000": 19.2488,
+   "n_<100": 7,
+   "n_100-500": 59,
+   "n_500-1000": 298,
+   "n_>1000": 119
+  },
+  {
+   "pclass": "Receptors & channels",
+   "genes": 613,
+   "rho": -0.1576,
+   "p": 0.0001,
+   "kruskal_p": 0.0187,
+   "median_<100": 23.0063,
+   "median_100-500": 23.0769,
+   "median_500-1000": 21.2996,
+   "median_>1000": 14.245,
+   "n_<100": 30,
+   "n_100-500": 165,
+   "n_500-1000": 393,
+   "n_>1000": 25
+  },
+  {
+   "pclass": "Other membrane",
+   "genes": 916,
+   "rho": -0.2276,
+   "p": 0.0,
+   "kruskal_p": 0.0,
+   "median_<100": 31.3253,
+   "median_100-500": 29.853,
+   "median_500-1000": 24.639,
+   "median_>1000": 14.4208,
+   "n_<100": 93,
+   "n_100-500": 214,
+   "n_500-1000": 508,
+   "n_>1000": 101
+  },
+  {
+   "pclass": "Cytoskeletal & structural",
+   "genes": 867,
+   "rho": -0.2673,
+   "p": 0.0,
+   "kruskal_p": 0.0,
+   "median_<100": 40.9756,
+   "median_100-500": 39.287,
+   "median_500-1000": 28.5532,
+   "median_>1000": 20.6506,
+   "n_<100": 11,
+   "n_100-500": 108,
+   "n_500-1000": 626,
+   "n_>1000": 122
+  },
+  {
+   "pclass": "Other / unclassified",
+   "genes": 2599,
+   "rho": -0.2621,
+   "p": 0.0,
+   "kruskal_p": 0.0,
+   "median_<100": 42.4797,
+   "median_100-500": 40.8344,
+   "median_500-1000": 33.5237,
+   "median_>1000": 16.6297,
+   "n_<100": 147,
+   "n_100-500": 381,
+   "n_500-1000": 1418,
+   "n_>1000": 653
+  },
+  {
+   "pclass": "Chromatin & RNA processing",
+   "genes": 484,
+   "rho": -0.1834,
+   "p": 0.0,
+   "kruskal_p": 0.0,
+   "median_<100": 57.2656,
+   "median_100-500": 43.4711,
+   "median_500-1000": 40.3292,
+   "median_>1000": 26.4054,
+   "n_<100": 24,
+   "n_100-500": 41,
+   "n_500-1000": 253,
+   "n_>1000": 166
+  },
+  {
+   "pclass": "Transcription co-regulators",
+   "genes": 776,
+   "rho": -0.2812,
+   "p": 0.0,
+   "kruskal_p": 0.0,
+   "median_<100": 41.7834,
+   "median_100-500": 54.0698,
+   "median_500-1000": 47.4765,
+   "median_>1000": 26.3577,
+   "n_<100": 21,
+   "n_100-500": 93,
+   "n_500-1000": 432,
+   "n_>1000": 230
+  },
+  {
+   "pclass": "DNA-binding TFs",
+   "genes": 867,
+   "rho": 0.2647,
+   "p": 0.0,
+   "kruskal_p": 0.0,
+   "median_<100": 31.9859,
+   "median_100-500": 49.0783,
+   "median_500-1000": 65.17,
+   "median_>1000": 68.8088,
+   "n_<100": 111,
+   "n_100-500": 207,
+   "n_500-1000": 500,
+   "n_>1000": 49
+  }
+ ],
+ "E1_HumanTFs TF": [
+  0.265,
+  2.28e-15,
+  867
+ ],
+ "E1_non-TF": [
+  -0.18,
+  9.12e-71,
+  9583
+ ],
+ "E1_age_on_pct_idr_slope_by_class_Ma_per_pct": {
+  "Metabolic enzymes": [
+   -6.385,
+   -9.115,
+   -3.654
+  ],
+  "Transporters": [
+   -8.216,
+   -12.656,
+   -3.776
+  ],
+  "Secreted": [
+   -2.28,
+   -3.167,
+   -1.394
+  ],
+  "Kinases & phosphatases": [
+   0.247,
+   -5.142,
+   5.636
+  ],
+  "Receptors & channels": [
+   -1.762,
+   -3.713,
+   0.19
+  ],
+  "Other membrane": [
+   -4.518,
+   -5.602,
+   -3.434
+  ],
+  "Cytoskeletal & structural": [
+   -4.787,
+   -5.952,
+   -3.623
+  ],
+  "Other / unclassified": [
+   -8.821,
+   -9.856,
+   -7.786
+  ],
+  "Chromatin & RNA processing": [
+   -9.892,
+   -13.55,
+   -6.234
+  ],
+  "Transcription co-regulators": [
+   -9.693,
+   -12.021,
+   -7.366
+  ],
+  "DNA-binding TFs": [
+   4.153,
+   3.028,
+   5.278
+  ]
+ },
+ "E2": [
+  {
+   "age_bin": "<100",
+   "genes": 579,
+   "mean_iso": 2.7427,
+   "frac_ge3_iso": 0.3627,
+   "median_idr_range": 8.7602,
+   "alt_exon_fraction": 0.7124,
+   "coupling": 0.1465,
+   "coupling_lo": 0.0945,
+   "coupling_hi": 0.2066,
+   "dis_core": 0.3596,
+   "dis_var": 0.5258,
+   "var_minus_core": 0.1662,
+   "fate_intact": 56.2568,
+   "fate_internal deletion": 8.8289,
+   "fate_truncated": 24.8085,
+   "fate_removed": 10.1058
+  },
+  {
+   "age_bin": "100-500",
+   "genes": 1700,
+   "mean_iso": 2.9694,
+   "frac_ge3_iso": 0.4506,
+   "median_idr_range": 8.1274,
+   "alt_exon_fraction": 0.5996,
+   "coupling": 0.1362,
+   "coupling_lo": 0.1074,
+   "coupling_hi": 0.1663,
+   "dis_core": 0.3769,
+   "dis_var": 0.4545,
+   "var_minus_core": 0.0775,
+   "fate_intact": 57.9163,
+   "fate_internal deletion": 8.7285,
+   "fate_truncated": 23.0353,
+   "fate_removed": 10.3199
+  },
+  {
+   "age_bin": "500-1000",
+   "genes": 5919,
+   "mean_iso": 3.22,
+   "frac_ge3_iso": 0.5165,
+   "median_idr_range": 8.0113,
+   "alt_exon_fraction": 0.5395,
+   "coupling": 0.1448,
+   "coupling_lo": 0.1329,
+   "coupling_hi": 0.1575,
+   "dis_core": 0.3235,
+   "dis_var": 0.4465,
+   "var_minus_core": 0.1231,
+   "fate_intact": 64.8399,
+   "fate_internal deletion": 9.1257,
+   "fate_truncated": 16.0966,
+   "fate_removed": 9.9377
+  },
+  {
+   "age_bin": ">1000",
+   "genes": 2252,
+   "mean_iso": 2.9547,
+   "frac_ge3_iso": 0.4796,
+   "median_idr_range": 5.74,
+   "alt_exon_fraction": 0.4887,
+   "coupling": 0.1151,
+   "coupling_lo": 0.099,
+   "coupling_hi": 0.1315,
+   "dis_core": 0.1941,
+   "dis_var": 0.3223,
+   "var_minus_core": 0.1282,
+   "fate_intact": 66.599,
+   "fate_internal deletion": 7.1604,
+   "fate_truncated": 14.7407,
+   "fate_removed": 11.5
+  }
+ ],
+ "E2_spearman_age_vs_n_iso": [
+  0.0411,
+  0.0
+ ],
+ "E3_core_composition_by_age": {
+  "<100": {
+   "aro": 5.71,
+   "acid": 11.39,
+   "basic": 10.93,
+   "his": 2.47,
+   "pos": 13.4,
+   "pro": 7.68,
+   "st": 15.22,
+   "qn": 8.06,
+   "gly": 7.78,
+   "hyd": 28.44,
+   "cys": 2.32,
+   "ncpr": -0.46,
+   "n": 30400
+  },
+  "100-500": {
+   "aro": 4.99,
+   "acid": 11.76,
+   "basic": 10.77,
+   "his": 2.18,
+   "pos": 12.95,
+   "pro": 9.8,
+   "st": 15.54,
+   "qn": 8.02,
+   "gly": 8.09,
+   "hyd": 27.1,
+   "cys": 1.75,
+   "ncpr": -0.99,
+   "n": 104100
+  },
+  "500-1000": {
+   "aro": 4.83,
+   "acid": 12.29,
+   "basic": 11.4,
+   "his": 2.22,
+   "pos": 13.62,
+   "pro": 9.38,
+   "st": 16.86,
+   "qn": 8.13,
+   "gly": 7.79,
+   "hyd": 25.68,
+   "cys": 1.42,
+   "ncpr": -0.89,
+   "n": 363500
+  },
+  ">1000": {
+   "aro": 4.38,
+   "acid": 14.32,
+   "basic": 12.27,
+   "his": 1.92,
+   "pos": 14.2,
+   "pro": 8.93,
+   "st": 15.98,
+   "qn": 7.91,
+   "gly": 7.74,
+   "hyd": 25.33,
+   "cys": 1.23,
+   "ncpr": -2.04,
+   "n": 117100
+  }
+ },
+ "E3_kruskal_core_by_age": {
+  "aro": 3.51e-12,
+  "acid": 3.01e-16,
+  "basic": 2.59e-09,
+  "his": 4.26e-08,
+  "pos": 4.21e-05,
+  "pro": 1.91e-11,
+  "st": 5.01e-14,
+  "qn": 0.206,
+  "gly": 0.0846,
+  "hyd": 1.34e-09,
+  "cys": 2.27e-24,
+  "ncpr": 0.00692
+ },
+ "E3_young_minus_old_core_pp": {
+  "aro": 0.791,
+  "acid": -2.686,
+  "basic": -1.47,
+  "his": 0.306,
+  "pos": -1.164,
+  "pro": 0.324,
+  "st": -0.622,
+  "qn": 0.084,
+  "gly": 0.294,
+  "hyd": 2.302,
+  "cys": 0.677,
+  "ncpr": 1.216
+ },
+ "E3_similarity": {
+  "features": [
+   "aro",
+   "acid",
+   "basic",
+   "his",
+   "pro",
+   "st",
+   "qn",
+   "gly",
+   "hyd",
+   "cys",
+   "ncpr"
+  ],
+  "spearman_young_old_vs_minority_terminal": [
+   0.4,
+   0.223
+  ],
+  "spearman_young_old_vs_variable_mean": [
+   0.055,
+   0.873
+  ]
+ },
+ "E4": [
+  {
+   "group": "AD only",
+   "genes": 613,
+   "median_pct_idr": 32.2306,
+   "median_lo": 28.2323,
+   "median_hi": 35.9649,
+   "mean_iso": 3.7047,
+   "coupling": 0.168,
+   "lo": 0.1213,
+   "hi": 0.2131,
+   "var_minus_core": 0.1793,
+   "vc_lo": 0.1412,
+   "vc_hi": 0.2187,
+   "vc_genes": 499
+  },
+  {
+   "group": "AR only",
+   "genes": 1314,
+   "median_pct_idr": 16.0606,
+   "median_lo": 14.983,
+   "median_hi": 17.3522,
+   "mean_iso": 3.1362,
+   "coupling": 0.115,
+   "lo": 0.0919,
+   "hi": 0.1383,
+   "var_minus_core": 0.1027,
+   "vc_lo": 0.0788,
+   "vc_hi": 0.127,
+   "vc_genes": 1002
+  },
+  {
+   "group": "AD and AR",
+   "genes": 201,
+   "median_pct_idr": 18.6704,
+   "median_lo": 15.122,
+   "median_hi": 23.3831,
+   "mean_iso": 3.607,
+   "coupling": 0.1519,
+   "lo": 0.1038,
+   "hi": 0.1994,
+   "var_minus_core": 0.189,
+   "vc_lo": 0.1266,
+   "vc_hi": 0.2511,
+   "vc_genes": 165
+  },
+  {
+   "group": "disease, inheritance not stated",
+   "genes": 1252,
+   "median_pct_idr": 22.8257,
+   "median_lo": 20.9976,
+   "median_hi": 25.0006,
+   "mean_iso": 3.3347,
+   "coupling": 0.1396,
+   "lo": 0.1117,
+   "hi": 0.164,
+   "var_minus_core": 0.1319,
+   "vc_lo": 0.1069,
+   "vc_hi": 0.1582,
+   "vc_genes": 994
+  },
+  {
+   "group": "no disease text",
+   "genes": 7152,
+   "median_pct_idr": 24.8733,
+   "median_lo": 23.8444,
+   "median_hi": 25.9738,
+   "mean_iso": 2.9764,
+   "coupling": 0.146,
+   "lo": 0.1335,
+   "hi": 0.1588,
+   "var_minus_core": 0.1115,
+   "vc_lo": 0.1009,
+   "vc_hi": 0.1224,
+   "vc_genes": 5385
+  }
+ ],
+ "E4_AD_vs_AR_pct_idr_mwu_p": 1.79e-29,
+ "E4_AD_effect_adjusted_class_length": [
+  6.024,
+  3.789,
+  8.26,
+  1.28e-07
+ ],
+ "E5_tf_exception_kzfp": {
+  "all DNA-binding TFs": {
+   "genes": 867,
+   "rho": 0.265,
+   "p": 2.28e-15,
+   "median_age": 645.0,
+   "median_pct_idr": 56.31,
+   "slope": [
+    4.31,
+    3.197,
+    5.423
+   ],
+   "median_by_age": {
+    "<100": 31.99,
+    "100-500": 49.08,
+    "500-1000": 65.17,
+    ">1000": 68.81
+   },
+   "n_by_age": {
+    "<100": 111,
+    "100-500": 207,
+    "500-1000": 500,
+    ">1000": 49
+   }
+  },
+  "C2H2 zinc-finger family": {
+   "genes": 266,
+   "rho": 0.506,
+   "p": 9.95e-19,
+   "median_age": 168.0,
+   "median_pct_idr": 40.3,
+   "slope": [
+    6.793,
+    5.03,
+    8.556
+   ],
+   "median_by_age": {
+    "<100": 29.45,
+    "100-500": 41.98,
+    "500-1000": 60.64,
+    ">1000": null
+   },
+   "n_by_age": {
+    "<100": 92,
+    "100-500": 114,
+    "500-1000": 60,
+    ">1000": 0
+   }
+  },
+  "other DNA-binding TFs": {
+   "genes": 601,
+   "rho": -0.079,
+   "p": 0.0526,
+   "median_age": 645.0,
+   "median_pct_idr": 65.03,
+   "slope": [
+    -0.482,
+    -1.828,
+    0.864
+   ],
+   "median_by_age": {
+    "<100": 46.27,
+    "100-500": 59.68,
+    "500-1000": 65.5,
+    ">1000": 68.81
+   },
+   "n_by_age": {
+    "<100": 19,
+    "100-500": 93,
+    "500-1000": 440,
+    ">1000": 49
+   }
+  },
+  "interaction_pct_idr_x_kzfp": [
+   7.275,
+   1.29e-10
+  ],
+  "slope_adjusted_for_kzfp": [
+   1.186,
+   0.068,
+   2.304,
+   0.0375
+  ]
+ },
+ "E6_families": 48,
+ "E6_n_positive_q05": 3,
+ "E6_n_negative_q05": 0,
+ "E6_median_rho": -0.065,
+ "E6_frac_negative": 0.625,
+ "E6_significant": [
+  {
+   "family": "Protein kinase superfamily",
+   "genes": 344,
+   "pclass": "Kinases & phosphatases",
+   "rho": 0.1728,
+   "q": 0.0207
+  },
+  {
+   "family": "TRIM/RBCC family",
+   "genes": 43,
+   "pclass": "Metabolic enzymes",
+   "rho": 0.4987,
+   "q": 0.0159
+  },
+  {
+   "family": "Krueppel C2H2-type zinc-finger protein family",
+   "genes": 266,
+   "pclass": "DNA-binding TFs",
+   "rho": 0.5064,
+   "q": 0.0
+  }
+ ],
+ "E6_slope_pct_idr_per_100Myr": {
+  "all genes": [
+   -0.577,
+   -0.621,
+   -0.534,
+   5.93e-149
+  ],
+  "all genes, class fixed effects": [
+   -0.457,
+   -0.502,
+   -0.413,
+   2.87e-91
+  ],
+  "family genes, no family effects": [
+   -0.226,
+   -0.315,
+   -0.137,
+   6.19e-07
+  ],
+  "family genes, family fixed effects": [
+   0.042,
+   -0.046,
+   0.129,
+   0.35
+  ],
+  "family genes": 2048,
+  "families": 49
+ },
+ "E6_between_family_spearman_median_age_vs_median_idr": [
+  -0.271,
+  0.059,
+  49
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "pairs": 6609,
+ "genes": 4432,
+ "internal_alt_only_residues": {
+  "novel": {
+   "residues": 141152,
+   "disordered": 84340,
+   "frac_disordered": 0.5975,
+   "share_of_disordered": 0.8294
+  },
+  "other frame": {
+   "residues": 26263,
+   "disordered": 16270,
+   "frac_disordered": 0.6195,
+   "share_of_disordered": 0.16
+  },
+  "same frame": {
+   "residues": 2040,
+   "disordered": 1083,
+   "frac_disordered": 0.5309,
+   "share_of_disordered": 0.0106
+  }
+ }
+}
+           kind feature     n  diff_pp     lo     hi      p   q_BH
+0         novel     aro  2010    2.194  1.821  2.566  0.000  0.000
+1         novel    acid  2010   -2.211 -2.821 -1.600  0.000  0.000
+2         novel   basic  2010    0.278 -0.305  0.860  0.351  0.382
+3         novel     pro  2010    0.911  0.396  1.426  0.001  0.001
+4         novel      st  2010    0.488 -0.138  1.114  0.126  0.152
+5         novel      qn  2010    0.537  0.121  0.953  0.011  0.015
+6         novel     gly  2010   -0.018 -0.521  0.484  0.943  0.943
+7         novel     hyd  2010   -4.859 -5.682 -4.036  0.000  0.000
+8         novel     his  2010    1.410  1.184  1.635  0.000  0.000
+9         novel     cys  2010    1.271  0.993  1.549  0.000  0.000
+10        novel     fcr  2010   -1.933 -2.765 -1.101  0.000  0.000
+11        novel    ncpr  2010    2.488  1.633  3.343  0.000  0.000
+12  other frame     aro   492    1.393  0.792  1.994  0.000  0.000
+13  other frame    acid   492   -5.212 -5.955 -4.470  0.000  0.000
+14  other frame   basic   492    1.248  0.268  2.229  0.013  0.017
+15  other frame     pro   492    2.656  1.821  3.490  0.000  0.000
+16  other frame      st   492    1.164 -0.013  2.340  0.053  0.063
+17  other frame      qn   492   -0.477 -1.137  0.182  0.156  0.170
+18  other frame     gly   492    0.436 -0.378  1.251  0.293  0.293
+19  other frame     hyd   492   -6.422 -7.721 -5.123  0.000  0.000
+20  other frame     his   492    2.823  2.229  3.417  0.000  0.000
+21  other frame     cys   492    2.392  1.927  2.856  0.000  0.000
+22  other frame     fcr   492   -3.964 -5.123 -2.805  0.000  0.000
+23  other frame    ncpr   492    6.461  5.164  7.758  0.000  0.000

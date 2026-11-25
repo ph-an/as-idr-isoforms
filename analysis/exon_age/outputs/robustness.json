@@ -1,0 +1,286 @@
+{
+ "exons": 90817,
+ "genes": 7977,
+ "flank_medians_by_bin": {
+  "deeply conserved (>=350)": {
+   "flank": 391.0,
+   "iflank": 289.5
+  },
+  "intermediate (100-349)": {
+   "flank": 329.5,
+   "iflank": 229.0
+  },
+  "lineage-restricted (<100)": {
+   "flank": 319.0,
+   "iflank": 185.0
+  }
+ },
+ "Y1_deep_exons": 40837,
+ "Y1_spearman_idr_vs_exonic_flank_deep": [
+  -0.0757,
+  0.0
+ ],
+ "Y1_spearman_idr_vs_intronic_flank_deep": [
+  0.1128,
+  0.0
+ ],
+ "Y1_mean_exonic_flank_deep_by_idr": {
+  "0": {
+   "eflank_weak": 395.20001220703125,
+   "iflank_weak": 302.20001220703125
+  },
+  "(0,0.5]": {
+   "eflank_weak": 393.3999938964844,
+   "iflank_weak": 306.8999938964844
+  },
+  "(0.5,1)": {
+   "eflank_weak": 392.29998779296875,
+   "iflank_weak": 307.29998779296875
+  },
+  "1": {
+   "eflank_weak": 392.29998779296875,
+   "iflank_weak": 320.79998779296875
+  }
+ },
+ "Y1_within_gene_exonic_flank_per_unit_idr_deep": [
+  -5.44,
+  3.72e-145
+ ],
+ "Y1_within_gene_intronic_flank_per_unit_idr_deep": [
+  10.3,
+  4.27e-16
+ ],
+ "Y3_site_deficit_exons": 1453,
+ "Y4_matched": {
+  "pairs": 1210,
+  "genes": 1021,
+  "mean_young": 0.3801,
+  "mean_old": 0.2899,
+  "diff": 0.0902,
+  "lo": 0.064,
+  "hi": 0.117,
+  "wilcoxon_p": 6.04e-12
+ },
+ "models": [
+  {
+   "model": "original (young <100)",
+   "var": "young",
+   "coef": 0.1065,
+   "lo": 0.0866,
+   "hi": 0.1264,
+   "p": 9.31e-26,
+   "genes": 7653,
+   "exons": 90493,
+   "n_young": 1807
+  },
+  {
+   "model": "+ exonic flank covariate",
+   "var": "young",
+   "coef": -0.0877,
+   "lo": -0.1115,
+   "hi": -0.0638,
+   "p": 5.69e-13,
+   "genes": 7653,
+   "exons": 90493,
+   "n_young": 1807
+  },
+  {
+   "model": "+ intronic flank covariate",
+   "var": "young",
+   "coef": 0.1145,
+   "lo": 0.0946,
+   "hi": 0.1344,
+   "p": 1.43e-29,
+   "genes": 7653,
+   "exons": 90493,
+   "n_young": 1807
+  },
+  {
+   "model": "intronic flank >= 100",
+   "var": "young",
+   "coef": 0.1167,
+   "lo": 0.0925,
+   "hi": 0.1409,
+   "p": 3.23e-21,
+   "genes": 7350,
+   "exons": 75687,
+   "n_young": 1215
+  },
+  {
+   "model": "intronic flank >= 150",
+   "var": "young",
+   "coef": 0.1178,
+   "lo": 0.0907,
+   "hi": 0.1449,
+   "p": 1.64e-17,
+   "genes": 7054,
+   "exons": 68646,
+   "n_young": 971
+  },
+  {
+   "model": "intronic flank >= 200",
+   "var": "young",
+   "coef": 0.1104,
+   "lo": 0.0815,
+   "hi": 0.1392,
+   "p": 6.4e-14,
+   "genes": 6821,
+   "exons": 64242,
+   "n_young": 836
+  },
+  {
+   "model": "intronic flank >= 250",
+   "var": "young",
+   "coef": 0.0912,
+   "lo": 0.0589,
+   "hi": 0.1235,
+   "p": 3.13e-08,
+   "genes": 6409,
+   "exons": 56384,
+   "n_young": 651
+  },
+  {
+   "model": "exonic flank >= 200",
+   "var": "young",
+   "coef": 0.0865,
+   "lo": 0.0643,
+   "hi": 0.1086,
+   "p": 2.05e-14,
+   "genes": 7587,
+   "exons": 89399,
+   "n_young": 1373
+  },
+  {
+   "model": "exonic flank >= 300",
+   "var": "young",
+   "coef": 0.0666,
+   "lo": 0.0421,
+   "hi": 0.0912,
+   "p": 1.01e-07,
+   "genes": 7384,
+   "exons": 86558,
+   "n_young": 1022
+  },
+  {
+   "model": "exonic flank >= 350",
+   "var": "young",
+   "coef": 0.0376,
+   "lo": 0.0097,
+   "hi": 0.0655,
+   "p": 0.00818,
+   "genes": 6943,
+   "exons": 79249,
+   "n_young": 708
+  },
+  {
+   "model": "young < 50",
+   "var": "y2",
+   "coef": 0.0975,
+   "lo": 0.0717,
+   "hi": 0.1232,
+   "p": 1.12e-13,
+   "genes": 7653,
+   "exons": 90493,
+   "n_young": 1030
+  },
+  {
+   "model": "young < 150",
+   "var": "y2",
+   "coef": 0.0951,
+   "lo": 0.0781,
+   "hi": 0.112,
+   "p": 4.52e-28,
+   "genes": 7653,
+   "exons": 90493,
+   "n_young": 2549
+  },
+  {
+   "model": "young < 200",
+   "var": "y2",
+   "coef": 0.0988,
+   "lo": 0.0827,
+   "hi": 0.1149,
+   "p": 2.29e-33,
+   "genes": 7653,
+   "exons": 90493,
+   "n_young": 3138
+  },
+  {
+   "model": "acceptor only < 100",
+   "var": "y2",
+   "coef": 0.1004,
+   "lo": 0.074,
+   "hi": 0.1268,
+   "p": 9.11e-14,
+   "genes": 7653,
+   "exons": 90493,
+   "n_young": 1011
+  },
+  {
+   "model": "donor only < 100",
+   "var": "y2",
+   "coef": 0.1068,
+   "lo": 0.0803,
+   "hi": 0.1333,
+   "p": 2.6e-15,
+   "genes": 7653,
+   "exons": 90493,
+   "n_young": 938
+  },
+  {
+   "model": "more conserved site < 100",
+   "var": "y2",
+   "coef": 0.0971,
+   "lo": 0.0305,
+   "hi": 0.1638,
+   "p": 0.00428,
+   "genes": 7653,
+   "exons": 90493,
+   "n_young": 142
+  },
+  {
+   "model": "continuous: per 100 fewer genomes",
+   "var": "y2",
+   "coef": 0.0524,
+   "lo": 0.0471,
+   "hi": 0.0578,
+   "p": 5.08e-82,
+   "genes": 7653,
+   "exons": 90493,
+   "n_young": null
+  },
+  {
+   "model": "continuous + intronic flank",
+   "var": "y2",
+   "coef": 0.0556,
+   "lo": 0.0503,
+   "hi": 0.061,
+   "p": 6.29e-93,
+   "genes": 7653,
+   "exons": 90493,
+   "n_young": null
+  },
+  {
+   "model": "site deficit >= 150 (locus aligns, site absent)",
+   "var": "y2",
+   "coef": 0.1035,
+   "lo": 0.0823,
+   "hi": 0.1246,
+   "p": 8.68e-22,
+   "genes": 7653,
+   "exons": 90493,
+   "n_young": 1432
+  },
+  {
+   "model": "site deficit >= 150, intronic flank >= 200",
+   "var": "y2",
+   "coef": 0.0972,
+   "lo": 0.0753,
+   "hi": 0.1191,
+   "p": 3.42e-18,
+   "genes": 7265,
+   "exons": 73510,
+   "n_young": 1388
+  }
+ ]
+}

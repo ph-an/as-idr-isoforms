@@ -1,0 +1,131 @@
+{
+ "classes_by_median_pct_idr": [
+  "Metabolic enzymes",
+  "Transporters",
+  "Secreted",
+  "Kinases & phosphatases",
+  "Receptors & channels",
+  "Other membrane",
+  "Cytoskeletal & structural",
+  "Other / unclassified",
+  "Chromatin & RNA processing",
+  "Transcription co-regulators",
+  "DNA-binding TFs"
+ ],
+ "I_variance_explained_pct_idr": {
+  "genes": 2076,
+  "family": 0.459,
+  "pclass": 0.331,
+  "family_null_mean": 0.024,
+  "family_null_95": 0.033
+ },
+ "I_variance_explained_idr_range": {
+  "family": 0.054,
+  "family_null_mean": 0.023,
+  "family_null_95": 0.033
+ },
+ "I_family_coupling_vs_disorder_spearman": [
+  0.289,
+  0.042,
+  50
+ ],
+ "K_joint_model": {
+  "n": 9349,
+  "r2": 0.308
+ },
+ "K_r2_class_only": 0.202,
+ "C_coupling_by_age_all": {
+  "<100": {
+   "genes": 390,
+   "diff": 0.1465,
+   "lo": 0.0873,
+   "hi": 0.1985
+  },
+  "100-500": {
+   "genes": 1335,
+   "diff": 0.1362,
+   "lo": 0.1079,
+   "hi": 0.1675
+  },
+  "500-1000": {
+   "genes": 4686,
+   "diff": 0.1448,
+   "lo": 0.1315,
+   "hi": 0.1589
+  },
+  ">1000": {
+   "genes": 1779,
+   "diff": 0.1151,
+   "lo": 0.1008,
+   "hi": 0.1294
+  }
+ }
+}
+                             genes  pct_idr_exon_alt  pct_idr_exon_const   diff  diff_lo  diff_hi  frac_genes_alt_higher  median_alt_exon_fraction
+pclass                                                                                                                                            
+Metabolic enzymes             1401            22.570               8.991  0.131    0.114    0.148                  0.583                     0.500
+Transporters                   392            27.826              11.504  0.153    0.123    0.183                  0.639                     0.467
+Secreted                       397            40.213              30.959  0.086    0.008    0.162                  0.672                     0.600
+Kinases & phosphatases         399            37.329              18.422  0.180    0.146    0.212                  0.706                     0.385
+Receptors & channels           502            40.544              17.116  0.228    0.196    0.261                  0.772                     0.562
+Other membrane                 717            42.180              23.211  0.187    0.149    0.225                  0.631                     0.625
+Cytoskeletal & structural      680            36.173              27.034  0.089    0.054    0.120                  0.617                     0.500
+Other / unclassified          2052            38.899              25.764  0.126    0.108    0.142                  0.566                     0.500
+Chromatin & RNA processing     390            45.908              30.891  0.144    0.108    0.184                  0.696                     0.500
+Transcription co-regulators    601            47.180              35.208  0.119    0.085    0.153                  0.608                     0.476
+DNA-binding TFs                665            60.906              47.655  0.143    0.111    0.172                  0.653                     0.667
+fate                         intact  internal deletion  truncated  removed
+pclass                                                                    
+Metabolic enzymes              62.9                5.9       16.7     14.5
+Transporters                   68.6                4.8       13.6     13.1
+Secreted                       65.3                8.7       16.0     10.0
+Kinases & phosphatases         65.5                7.8       14.5     12.2
+Receptors & channels           74.3                7.2       11.3      7.2
+Other membrane                 63.4                7.7       17.6     11.2
+Cytoskeletal & structural      59.9               10.1       15.9     14.1
+Other / unclassified           63.0                9.3       17.6     10.1
+Chromatin & RNA processing     59.8               12.8       18.0      9.4
+Transcription co-regulators    65.1               12.3       15.7      6.9
+DNA-binding TFs                55.4                8.9       27.2      8.5
+                   feature  genes_in  median_pct_idr_in  median_pct_idr_out  coupling_in  coupling_out  coupling_q
+11          kw_dna_binding      1085             51.581              20.643        0.141         0.139       0.877
+10        kw_transcription      1373             51.522              20.064        0.148         0.140       0.877
+39            many_phospho      2047             46.212              18.767        0.166         0.149       0.203
+20  kw_chromatin_regulator       247             44.816              22.889        0.124         0.145       0.667
+21      kw_mrna_processing       248             43.501              22.877        0.134         0.142       0.890
+26          kw_zinc_finger      1082             40.566              21.168        0.117         0.145       0.230
+22        kw_developmental       576             39.532              22.716        0.171         0.141       0.383
+12          kw_rna_binding       456             39.062              22.788        0.154         0.142       0.780
+0              loc_nucleus      3456             38.288              17.343        0.145         0.139       0.805
+38             coiled_coil      1407             37.253              21.385        0.080         0.156       0.000
+29   kw_signalling_adaptor       170             34.983              23.169        0.108         0.144       0.520
+30         kw_neurogenesis       191             34.819              23.219        0.244         0.141       0.011
+23           kw_cell_cycle       454             32.146              23.026        0.171         0.142       0.434
+8              loc_synapse       359             29.655              23.077        0.190         0.141       0.205
+36                 disprot       832             29.196              22.892        0.160         0.141       0.780
+24      kw_cytoskeleton_kw      1010             28.034              22.846        0.112         0.147       0.182
+40        many_interactors      2431             27.966              22.197        0.157         0.138       0.327
+7         loc_cytoskeleton      1189             27.387              22.727        0.114         0.149       0.182
+37              condensate      2395             24.731              23.062        0.164         0.136       0.035
+1            loc_cytoplasm      4241             24.031              22.675        0.137         0.149       0.425
+25        kw_metal_binding      2438             23.720              23.274        0.143         0.143       0.877
+17          kw_ion_channel       199             21.509              23.486        0.206         0.141       0.053
+15             kw_receptor       576             21.152              23.640        0.234         0.137       0.000
+35                 has_pdb      5257             21.083              26.079        0.141         0.143       0.667
+2        loc_cell_membrane      1964             20.840              24.483        0.207         0.123       0.000
+34                 disease      3380             20.840              24.873        0.135         0.146       0.373
+28             kw_immunity       397             19.708              23.557        0.196         0.141       0.109
+14          kw_phosphatase        99             19.387              23.441        0.188         0.142       0.434
+13               kw_kinase       445             19.175              23.706        0.164         0.141       0.327
+16                 kw_gpcr       114             18.961              23.540        0.211         0.142       0.114
+9              loc_vesicle      1025             18.868              24.115        0.146         0.142       0.582
+33          signal_peptide      1722             18.514              24.825        0.196         0.133       0.002
+19      kw_ubl_conjugation       479             18.358              23.732        0.100         0.145       0.109
+32           transmembrane      2577             17.857              26.677        0.188         0.129       0.000
+27         kw_glycoprotein      2338             16.430              26.717        0.183         0.130       0.001
+6                loc_golgi       697             16.412              24.036        0.115         0.146       0.109
+3             loc_secreted       976             16.181              24.449        0.140         0.144       0.805
+18            kw_transport      1243             15.385              25.293        0.145         0.140       0.780
+4        loc_mitochondrion       811             13.333              24.756        0.190         0.141       0.011
+5                   loc_er       883             12.911              24.788        0.141         0.145       0.877
+31                  enzyme      2841             11.449              29.987        0.128         0.144       0.217

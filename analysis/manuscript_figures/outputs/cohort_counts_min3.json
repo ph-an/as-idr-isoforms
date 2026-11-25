@@ -1,0 +1,18 @@
+{
+ "min_isoforms": 3,
+ "isoforms": 21801,
+ "genes": 5143,
+ "canonical": 5143,
+ "alternative": 16658,
+ "idrs": 36862,
+ "with_candidate_enst": 16249,
+ "exact_match": 15997,
+ "main": 15888,
+ "ambiguous": 68,
+ "scaffold_validated": 15889,
+ "segments": 51955,
+ "coding_exon_rows": 206445,
+ "mapped_genes": 5102,
+ "unique_exons": 80498,
+ "genes_two_plus_mapped": 4564
+}

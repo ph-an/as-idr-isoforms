@@ -1,0 +1,451 @@
+{
+ "R2_codons_spanning_a_junction": {
+  "codons": 146005,
+  "of": 15074103
+ },
+ "R2_first_base_key_shared_but_other_bases_differ": {
+  "pairs_of_residues": 31548854,
+  "differ": 36336,
+  "of_which_amino_acid_differs": 21986,
+  "frac_differ": 0.001152
+ },
+ "R1_runtime_s": 765,
+ "R1_pairs_skipped_for_needle_length": 10,
+ "R1_original_difflib_reproduced": 1.0,
+ "R1_idrs": {
+  "all": 24114,
+  "with_needle": 23849,
+  "genes": 6608
+ },
+ "R1_fate_pct": {
+  "difflib": {
+   "intact": 58.85,
+   "truncated": 8.77,
+   "removed": 10.13,
+   "internal deletion": 22.25
+  },
+  "difflib_autojunk": {
+   "intact": 41.26,
+   "truncated": 16.28,
+   "removed": 28.55,
+   "internal deletion": 13.92
+  },
+  "difflib_min5": {
+   "intact": 58.51,
+   "truncated": 16.19,
+   "removed": 15.46,
+   "internal deletion": 9.84
+  },
+  "difflib_min10": {
+   "intact": 58.46,
+   "truncated": 16.4,
+   "removed": 15.59,
+   "internal deletion": 9.55
+  },
+  "needle": {
+   "intact": 58.57,
+   "truncated": 9.98,
+   "removed": 9.1,
+   "internal deletion": 22.35
+  },
+  "needle_min5": {
+   "intact": 58.57,
+   "truncated": 16.11,
+   "removed": 15.51,
+   "internal deletion": 9.81
+  },
+  "codon_first_base": {
+   "intact": 58.85,
+   "truncated": 16.02,
+   "removed": 15.51,
+   "internal deletion": 9.62
+  },
+  "codon_full": {
+   "intact": 57.25,
+   "truncated": 16.02,
+   "removed": 15.56,
+   "internal deletion": 11.17
+  },
+  "codon_full_same_aa": {
+   "intact": 57.25,
+   "truncated": 16.03,
+   "removed": 15.56,
+   "internal deletion": 11.17
+  }
+ },
+ "R1_fate_pct_gene_weighted": {
+  "difflib": {
+   "intact": 57.28,
+   "truncated": 9.62,
+   "removed": 9.67,
+   "internal deletion": 23.43
+  },
+  "difflib_autojunk": {
+   "intact": 41.44,
+   "truncated": 18.14,
+   "removed": 24.09,
+   "internal deletion": 16.32
+  },
+  "difflib_min5": {
+   "intact": 56.89,
+   "truncated": 18.54,
+   "removed": 15.51,
+   "internal deletion": 9.06
+  },
+  "difflib_min10": {
+   "intact": 56.8,
+   "truncated": 18.82,
+   "removed": 15.65,
+   "internal deletion": 8.74
+  },
+  "needle": {
+   "intact": 56.99,
+   "truncated": 11.09,
+   "removed": 8.62,
+   "internal deletion": 23.29
+  },
+  "needle_min5": {
+   "intact": 56.99,
+   "truncated": 18.39,
+   "removed": 15.54,
+   "internal deletion": 9.08
+  },
+  "codon_first_base": {
+   "intact": 57.22,
+   "truncated": 18.37,
+   "removed": 15.56,
+   "internal deletion": 8.86
+  },
+  "codon_full": {
+   "intact": 55.48,
+   "truncated": 18.42,
+   "removed": 15.63,
+   "internal deletion": 10.47
+  },
+  "codon_full_same_aa": {
+   "intact": 55.47,
+   "truncated": 18.43,
+   "removed": 15.63,
+   "internal deletion": 10.47
+  }
+ },
+ "R1_agreement_with_codon_full": {
+  "difflib": 0.8447,
+  "difflib_autojunk": 0.6593,
+  "difflib_min5": 0.9811,
+  "difflib_min10": 0.9797,
+  "needle": 0.8449,
+  "needle_min5": 0.9808,
+  "codon_first_base": 0.9817,
+  "codon_full": 1.0,
+  "codon_full_same_aa": 1.0
+ },
+ "R1_crosstab_vs_codon_full": {
+  "difflib": {
+   "intact": {
+    "intact": 13652,
+    "internal deletion": 324,
+    "removed": 0,
+    "truncated": 60
+   },
+   "internal deletion": {
+    "intact": 0,
+    "internal deletion": 2324,
+    "removed": 976,
+    "truncated": 2007
+   },
+   "removed": {
+    "intact": 0,
+    "internal deletion": 0,
+    "removed": 2415,
+    "truncated": 0
+   },
+   "truncated": {
+    "intact": 2,
+    "internal deletion": 16,
+    "removed": 319,
+    "truncated": 1754
+   }
+  },
+  "needle": {
+   "intact": {
+    "intact": 13652,
+    "internal deletion": 291,
+    "removed": 0,
+    "truncated": 26
+   },
+   "internal deletion": {
+    "intact": 0,
+    "internal deletion": 2357,
+    "removed": 1155,
+    "truncated": 1819
+   },
+   "removed": {
+    "intact": 0,
+    "internal deletion": 0,
+    "removed": 2167,
+    "truncated": 3
+   },
+   "truncated": {
+    "intact": 2,
+    "internal deletion": 16,
+    "removed": 388,
+    "truncated": 1973
+   }
+  },
+  "needle_min5": {
+   "intact": {
+    "intact": 13652,
+    "internal deletion": 291,
+    "removed": 0,
+    "truncated": 26
+   },
+   "internal deletion": {
+    "intact": 0,
+    "internal deletion": 2304,
+    "removed": 2,
+    "truncated": 34
+   },
+   "removed": {
+    "intact": 0,
+    "internal deletion": 0,
+    "removed": 3686,
+    "truncated": 12
+   },
+   "truncated": {
+    "intact": 2,
+    "internal deletion": 69,
+    "removed": 22,
+    "truncated": 3749
+   }
+  }
+ },
+ "R1_aligned_identical_residues_not_same_codon": {
+  "difflib": {
+   "aligned": 6941434,
+   "different_codon": 58589,
+   "frac": 0.0084
+  },
+  "difflib_autojunk": {
+   "aligned": 4409278,
+   "different_codon": 29125,
+   "frac": 0.0066
+  },
+  "difflib_min5": {
+   "aligned": 6891473,
+   "different_codon": 8801,
+   "frac": 0.0013
+  },
+  "needle": {
+   "aligned": 6800596,
+   "different_codon": 54032,
+   "frac": 0.0079
+  },
+  "needle_min5": {
+   "aligned": 6755603,
+   "different_codon": 9188,
+   "frac": 0.0014
+  }
+ },
+ "R1_internal_deletion_excess_vs_codon_full_pp": {
+  "difflib": [
+   11.08,
+   10.48,
+   11.73
+  ],
+  "difflib_autojunk": [
+   2.75,
+   1.98,
+   3.51
+  ],
+  "difflib_min5": [
+   -1.33,
+   -1.55,
+   -1.13
+  ],
+  "needle": [
+   11.18,
+   10.55,
+   11.83
+  ],
+  "needle_min5": [
+   -1.36,
+   -1.59,
+   -1.15
+  ]
+ },
+ "R3_key_note": "R3 'fate' uses the first-base codon key (as in the paper); R3_full_key_* use all three bases",
+ "R3_full_key_pooled": {
+  "intact": 59.48,
+  "truncated": 16.78,
+  "removed": 10.27,
+  "internal deletion": 13.47
+ },
+ "R3_first_vs_full_key_transitions": {
+  "intact->internal deletion": 4085,
+  "intact->truncated": 369,
+  "internal deletion->truncated": 29,
+  "truncated->internal deletion": 561,
+  "truncated->removed": 59
+ },
+ "R3_idr_comparisons": 98994,
+ "R3_genes": 7195,
+ "R3_pooled": {
+  "intact": 63.98,
+  "truncated": 17.0,
+  "removed": 10.21,
+  "internal deletion": 8.8
+ },
+ "R3_gene_weighted": {
+  "intact": 59.88,
+  "truncated": 19.62,
+  "removed": 14.3,
+  "internal deletion": 6.2
+ },
+ "R3_pooled_ci": {
+  "intact": [
+   61.92,
+   66.2
+  ],
+  "truncated": [
+   15.39,
+   18.63
+  ],
+  "removed": [
+   9.34,
+   11.27
+  ],
+  "internal deletion": [
+   8.05,
+   9.6
+  ]
+ },
+ "R3_gene_weighted_ci": {
+  "intact": [
+   59.13,
+   60.64
+  ],
+  "truncated": [
+   18.96,
+   20.23
+  ],
+  "removed": [
+   13.7,
+   14.93
+  ],
+  "internal deletion": [
+   5.89,
+   6.5
+  ]
+ },
+ "R3_share_of_comparisons_top_1pct_genes": 0.268,
+ "R3_share_of_comparisons_top_5pct_genes": 0.476,
+ "R3_top_genes": {
+  "O43497": 4920,
+  "Q13936": 1512,
+  "O60716": 1281,
+  "Q8WZ42": 935,
+  "Q14934": 880,
+  "Q9ULU4": 720,
+  "Q15149": 688,
+  "Q86U86": 608,
+  "Q86UR5": 539,
+  "P02751": 486
+ },
+ "R3_without_top_5pct_genes": {
+  "intact": 62.86,
+  "truncated": 18.24,
+  "removed": 11.46,
+  "internal deletion": 7.44
+ },
+ "R3_by_isoform_count": {
+  "2": {
+   "genes": 4189,
+   "comparisons": 14034,
+   "intact": 69.74,
+   "truncated": 15.23,
+   "removed": 10.45,
+   "internal deletion": 4.57
+  },
+  "3": {
+   "genes": 1669,
+   "comparisons": 17018,
+   "intact": 66.57,
+   "truncated": 15.98,
+   "removed": 11.14,
+   "internal deletion": 6.32
+  },
+  "4-5": {
+   "genes": 995,
+   "comparisons": 25612,
+   "intact": 62.79,
+   "truncated": 17.88,
+   "removed": 12.02,
+   "internal deletion": 7.31
+  },
+  "6+": {
+   "genes": 342,
+   "comparisons": 42330,
+   "intact": 61.76,
+   "truncated": 17.47,
+   "removed": 8.67,
+   "internal deletion": 12.1
+  }
+ },
+ "R3_one_random_canonical_to_alternative_pair_per_gene": {
+  "genes": 6611,
+  "intact": 61.05,
+  "truncated": 15.4,
+  "removed": 16.02,
+  "internal deletion": 7.54
+ },
+ "R3_by_direction": {
+  "canonical_to_alternative": {
+   "intact": 58.87,
+   "truncated": 15.85,
+   "removed": 15.74,
+   "internal deletion": 9.53
+  },
+  "alternative_to_canonical": {
+   "intact": 78.64,
+   "truncated": 14.82,
+   "removed": 2.83,
+   "internal deletion": 3.71
+  },
+  "alternative_to_alternative": {
+   "intact": 60.68,
+   "truncated": 18.34,
+   "removed": 10.57,
+   "internal deletion": 10.41
+  }
+ },
+ "R4_retained_codons_disordered_in_b": {
+  "intact": {
+   "n": 63340,
+   "mean": 0.9636,
+   "frac_ge_0_9": 0.9416,
+   "frac_eq_1": 0.7254,
+   "frac_lt_0_5": 0.0247
+  },
+  "truncated": {
+   "n": 16771,
+   "mean": 0.7792,
+   "frac_ge_0_9": 0.7172,
+   "frac_eq_1": 0.5188,
+   "frac_lt_0_5": 0.1983
+  },
+  "internal deletion": {
+   "n": 8713,
+   "mean": 0.8813,
+   "frac_ge_0_9": 0.8339,
+   "frac_eq_1": 0.5644,
+   "frac_lt_0_5": 0.1016
+  }
+ },
+ "R4_intact_by_length": {
+  "20-50": 0.9165,
+  "51-100": 0.9486,
+  "101-200": 0.9566,
+  ">200": 0.9807
+ }
+}

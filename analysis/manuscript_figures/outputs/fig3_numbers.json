@@ -1,0 +1,80 @@
+{
+ "n_exons": 124984,
+ "n_alt": 62054,
+ "n_const": 62930,
+ "n_genes": 8196,
+ "mean_alt": 0.38,
+ "mean_const": 0.2373,
+ "frac_idr_exon_alt": 0.3827,
+ "frac_idr_exon_const": 0.2359,
+ "bimodal_frac_le0.1_or_ge0.9": 0.859,
+ "boot": [
+  0.1427,
+  0.1338,
+  0.1519
+ ],
+ "paired": {
+  "n": 7341,
+  "frac_alt_higher": 0.623,
+  "frac_equal": 0.142,
+  "median_delta": 0.1331,
+  "wilcoxon_p": 0.0
+ },
+ "ols_adj": [
+  0.0851,
+  0.0754,
+  0.0947,
+  1.06e-66
+ ],
+ "logit_OR": [
+  1.526,
+  1.452,
+  1.603
+ ],
+ "fixed_effects": [
+  0.1735,
+  0.1657,
+  0.1813,
+  0.0
+ ],
+ "internal_only": {
+  "n": 96462,
+  "mean_alt": 0.3288,
+  "mean_const": 0.2291,
+  "adj": [
+   0.0861,
+   0.0753,
+   0.097
+  ]
+ },
+ "cds_level": {
+  "rows": 295061,
+  "rows_without_cds_coords": 1321,
+  "segments": 115087,
+  "genes": 8141,
+  "segments_alt": 46302,
+  "segments_const": 68785,
+  "id_alt_but_cds_const": 6182,
+  "mean_idr_alt": 0.3615,
+  "mean_idr_const": 0.2534,
+  "diff": 0.1081,
+  "diff_ci95": [
+   0.098,
+   0.118
+  ],
+  "paired_genes": 7681,
+  "paired_frac_alt_higher": 0.514,
+  "paired_wilcoxon_p": 7.8e-126,
+  "odds_ratio_idr_exon": 1.666
+ },
+ "gencode_wide_adj": [
+  0.073,
+  0.0577,
+  0.0883,
+  8.37e-21
+ ],
+ "inclusion_slope": [
+  -0.2581,
+  2.97e-294
+ ]
+}

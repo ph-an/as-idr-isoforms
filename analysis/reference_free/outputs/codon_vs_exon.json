@@ -1,0 +1,19 @@
+{
+ "genes": 8168,
+ "positions": 5608030,
+ "counts": {
+  "shared|alternative": 730132,
+  "isoform_specific|alternative": 1827845,
+  "shared|constitutive": 3045821,
+  "isoform_specific|constitutive": 4232
+ },
+ "reasons": {
+  "shared_in_alt|same coding part, untranslated end differs": 367351,
+  "shared_in_alt|coding boundary shifts": 362781,
+  "specific_in_const|DNA not in every isoform": 4064,
+  "specific_in_const|same DNA, other frame": 168
+ },
+ "pct_isoform_specific_in_alternative_exons": 99.8,
+ "pct_alternative_exon_positions_shared": 28.5,
+ "pct_shared_in_alt_boundary_shift": 49.7
+}

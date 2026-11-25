@@ -1,0 +1,271 @@
+{
+ "genes": 8168,
+ "isoforms": 22638,
+ "isoforms_skipped_length_mismatch": 8,
+ "genes_ge3_isoforms": 3272,
+ "ordered_pairs": 57228,
+ "positions": 5608030,
+ "core_positions": 3775953,
+ "variable_positions": 1832077,
+ "pooled_frac_disordered_by_inclusion": {
+  "core": 0.3191,
+  "half": 0.3907,
+  "majority": 0.3825,
+  "minority": 0.5129
+ },
+ "pooled_positions_by_inclusion": {
+  "core": 3775953,
+  "half": 876806,
+  "majority": 601324,
+  "minority": 353947
+ },
+ "pooled_frac_disordered": {
+  "core": 0.3191,
+  "variable": 0.4116
+ },
+ "gene_paired": {
+  "genes": 8045,
+  "mean_core": 0.3059,
+  "mean_variable": 0.4246,
+  "frac_var_higher": 0.502,
+  "frac_var_lower": 0.351,
+  "wilcoxon_p": 1.16e-129
+ },
+ "pooled_diff_variable_minus_core": [
+  0.0906,
+  0.073,
+  0.1079
+ ],
+ "gene_paired_internal": {
+  "genes": 3730,
+  "mean_variable": 0.3899,
+  "mean_core": 0.3127,
+  "wilcoxon_p": 8.25e-24
+ },
+ "gene_paired_terminal": {
+  "genes": 5573,
+  "mean_variable": 0.4521,
+  "mean_core": 0.3024,
+  "wilcoxon_p": 5.71e-129
+ },
+ "ge3_minority_vs_majority": {
+  "genes": 2647,
+  "mean_minority": 0.5147,
+  "mean_majority": 0.4002,
+  "mean_core": 0.3084,
+  "wilcoxon_p": 8.1e-39
+ },
+ "all_pairs_fate_pct_pooled": {
+  "intact": 64.0,
+  "internal deletion": 8.8,
+  "truncated": 17.0,
+  "removed": 10.2
+ },
+ "all_pairs_fate_pct_gene_weighted": {
+  "intact": 59.9,
+  "internal deletion": 6.2,
+  "truncated": 19.6,
+  "removed": 14.3
+ },
+ "all_pairs_idr_comparisons": 98994,
+ "all_pairs_fate_pct_by_length": {
+  "101-200": {
+   "intact": 58.6,
+   "internal deletion": 11.7,
+   "truncated": 22.6,
+   "removed": 7.1
+  },
+  "20-50": {
+   "intact": 73.3,
+   "internal deletion": 2.7,
+   "truncated": 10.4,
+   "removed": 13.6
+  },
+  "51-100": {
+   "intact": 65.4,
+   "internal deletion": 5.3,
+   "truncated": 18.5,
+   "removed": 10.9
+  },
+  ">200": {
+   "intact": 50.4,
+   "internal deletion": 21.3,
+   "truncated": 22.0,
+   "removed": 6.3
+  }
+ },
+ "all_pairs_disorder": {
+  "pooled_isoform_specific": 0.4558,
+  "pooled_shared": 0.3539
+ },
+ "class_agreement": {
+  "genes": 8045,
+  "agree": 0.807,
+  "crosstab": {
+   "high": {
+    "high": 623,
+    "intermediate": 109,
+    "very low": 17
+   },
+   "intermediate": {
+    "high": 343,
+    "intermediate": 3218,
+    "very low": 716
+   },
+   "very low": {
+    "high": 55,
+    "intermediate": 316,
+    "very low": 2648
+   }
+  },
+  "core_class_sizes": {
+   "intermediate": 3643,
+   "very low": 3381,
+   "high": 1021
+  },
+  "genes_without_core": 123
+ },
+ "exon_alt_minus_const_by_core_class": {
+  "very low": {
+   "genes": 3374,
+   "diff": 0.1747,
+   "lo": 0.1655,
+   "hi": 0.1842
+  },
+  "intermediate": {
+   "genes": 3628,
+   "diff": 0.1567,
+   "lo": 0.1425,
+   "hi": 0.1711
+  },
+  "high": {
+   "genes": 1016,
+   "diff": -0.1671,
+   "lo": -0.1948,
+   "hi": -0.1402
+  }
+ },
+ "exon_alt_minus_const_by_median_class": {
+  "very low": {
+   "genes": 3055,
+   "diff": 0.1164,
+   "lo": 0.1081,
+   "hi": 0.1255
+  },
+  "intermediate": {
+   "genes": 4313,
+   "diff": 0.1665,
+   "lo": 0.1538,
+   "hi": 0.1777
+  },
+  "high": {
+   "genes": 773,
+   "diff": -0.0166,
+   "lo": -0.0407,
+   "hi": 0.0089
+  }
+ },
+ "median_class_sizes": {
+  "intermediate": 4331,
+  "very low": 3060,
+  "high": 777
+ },
+ "all_pairs_fate_pct_by_core_class": {
+  "high": {
+   "intact": 49.2,
+   "internal deletion": 14.1,
+   "truncated": 27.2,
+   "removed": 9.4
+  },
+  "intermediate": {
+   "intact": 71.2,
+   "internal deletion": 9.2,
+   "truncated": 13.6,
+   "removed": 6.1
+  },
+  "very low": {
+   "intact": 58.3,
+   "internal deletion": 5.5,
+   "truncated": 17.6,
+   "removed": 18.6
+  }
+ },
+ "canonical_referenced_for_comparison": {
+  "fate_pct": {
+   "intact": 56.46,
+   "internal deletion": 21.16,
+   "removed": 13.6,
+   "truncated": 8.78
+  },
+  "pooled_disorder": {
+   "c_only": 0.3972,
+   "a_only": 0.6199,
+   "shared": 0.3399
+  }
+ }
+}
+                 kind feature  n_chunks  diff_pp     lo     hi      p   q_BH
+0       half|terminal     aro      2413    0.265  0.085  0.445  0.004  0.005
+1       half|terminal    acid      2413   -1.480 -1.821 -1.138  0.000  0.000
+2       half|terminal   basic      2413    0.501  0.192  0.809  0.001  0.002
+3       half|terminal     pro      2413    0.472  0.203  0.740  0.001  0.001
+5       half|terminal      qn      2413   -0.262 -0.486 -0.039  0.022  0.024
+6       half|terminal     gly      2413    0.513  0.263  0.762  0.000  0.000
+7       half|terminal     hyd      2413   -0.734 -1.159 -0.310  0.001  0.001
+8       half|terminal     his      2413    0.189  0.080  0.297  0.001  0.001
+9       half|terminal     cys      2413    0.331  0.220  0.441  0.000  0.000
+10      half|terminal     fcr      2413   -0.979 -1.426 -0.532  0.000  0.000
+11      half|terminal    ncpr      2413    1.980  1.507  2.453  0.000  0.000
+12  variable|terminal     aro      4214    0.299  0.162  0.436  0.000  0.000
+13  variable|terminal    acid      4214   -1.606 -1.867 -1.344  0.000  0.000
+14  variable|terminal   basic      4214    0.421  0.189  0.652  0.000  0.001
+15  variable|terminal     pro      4214    0.282  0.078  0.485  0.007  0.008
+17  variable|terminal      qn      4214   -0.271 -0.444 -0.099  0.002  0.003
+18  variable|terminal     gly      4214    0.475  0.283  0.667  0.000  0.000
+19  variable|terminal     hyd      4214   -0.397 -0.722 -0.073  0.016  0.018
+20  variable|terminal     his      4214    0.244  0.160  0.327  0.000  0.000
+21  variable|terminal     cys      4214    0.412  0.329  0.496  0.000  0.000
+22  variable|terminal     fcr      4214   -1.185 -1.527 -0.844  0.000  0.000
+23  variable|terminal    ncpr      4214    2.026  1.670  2.383  0.000  0.000
+28  majority|terminal      st      1442    0.832  0.436  1.228  0.000  0.000
+29  majority|terminal      qn      1442    0.379  0.095  0.663  0.009  0.036
+31  majority|terminal     hyd      1442   -1.303 -1.801 -0.806  0.000  0.000
+36  minority|terminal     aro      1555    0.739  0.494  0.984  0.000  0.000
+37  minority|terminal    acid      1555   -2.746 -3.129 -2.362  0.000  0.000
+38  minority|terminal   basic      1555    0.555  0.179  0.931  0.004  0.005
+39  minority|terminal     pro      1555    0.371  0.044  0.698  0.026  0.026
+40  minority|terminal      st      1555    0.565  0.164  0.967  0.006  0.007
+41  minority|terminal      qn      1555   -0.468 -0.734 -0.202  0.001  0.001
+42  minority|terminal     gly      1555    0.375  0.061  0.689  0.019  0.021
+43  minority|terminal     hyd      1555   -0.794 -1.297 -0.291  0.002  0.003
+44  minority|terminal     his      1555    0.575  0.427  0.723  0.000  0.000
+45  minority|terminal     cys      1555    0.829  0.681  0.977  0.000  0.000
+46  minority|terminal     fcr      1555   -2.191 -2.732 -1.649  0.000  0.000
+47  minority|terminal    ncpr      1555    3.301  2.767  3.834  0.000  0.000
+51      half|internal     pro       759    1.184  0.615  1.754  0.000  0.000
+52      half|internal      st       759    2.690  1.971  3.410  0.000  0.000
+53      half|internal      qn       759    0.939  0.446  1.433  0.000  0.000
+55      half|internal     hyd       759   -4.409 -5.209 -3.608  0.000  0.000
+56      half|internal     his       759    0.673  0.404  0.941  0.000  0.000
+58      half|internal     fcr       759   -1.045 -1.945 -0.146  0.023  0.046
+61  variable|internal    acid      1454   -0.727 -1.227 -0.226  0.004  0.008
+62  variable|internal   basic      1454   -0.533 -0.990 -0.076  0.022  0.030
+63  variable|internal     pro      1454    1.203  0.799  1.607  0.000  0.000
+64  variable|internal      st      1454    2.807  2.296  3.318  0.000  0.000
+65  variable|internal      qn      1454    0.803  0.456  1.150  0.000  0.000
+67  variable|internal     hyd      1454   -3.812 -4.406 -3.218  0.000  0.000
+68  variable|internal     his      1454    0.522  0.345  0.699  0.000  0.000
+69  variable|internal     cys      1454   -0.180 -0.328 -0.032  0.017  0.026
+70  variable|internal     fcr      1454   -1.260 -1.930 -0.589  0.000  0.000
+75  majority|internal     pro       547    1.141  0.531  1.752  0.000  0.001
+76  majority|internal      st       547    3.333  2.525  4.140  0.000  0.000
+77  majority|internal      qn       547    1.085  0.545  1.624  0.000  0.000
+78  majority|internal     gly       547   -0.648 -1.176 -0.121  0.016  0.032
+79  majority|internal     hyd       547   -3.963 -4.832 -3.094  0.000  0.000
+81  majority|internal     cys       547   -0.488 -0.697 -0.280  0.000  0.000
+85  minority|internal    acid       363   -1.649 -2.517 -0.781  0.000  0.000
+87  minority|internal     pro       363    1.433  0.612  2.255  0.001  0.001
+88  minority|internal      st       363    3.235  2.267  4.204  0.000  0.000
+91  minority|internal     hyd       363   -3.985 -5.074 -2.896  0.000  0.000
+92  minority|internal     his       363    0.827  0.466  1.189  0.000  0.000
+94  minority|internal     fcr       363   -2.545 -3.784 -1.306  0.000  0.000

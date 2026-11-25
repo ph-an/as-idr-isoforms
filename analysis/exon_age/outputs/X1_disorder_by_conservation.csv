@@ -1,0 +1,4 @@
+,exons,genes,mean_idr,pct_idr_exon,pct_alt,median_len_aa
+lineage-restricted (<100),1842.0,1492.0,0.4264,42.78,71.66,38.0
+intermediate (100-349),6705.0,3359.0,0.3858,38.97,54.72,40.0
+deeply conserved (>=350),82270.0,7598.0,0.2475,24.49,35.51,40.0

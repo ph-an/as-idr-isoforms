@@ -1,0 +1,1224 @@
+gene_id,gene,acc,n_iso,length,n_exons,best_alt_exon_idr,best_alt_exon_aa,best_alt_first_last,canonical_ordered_aa,canonical_idr_frac,protein
+ENSG00000132854,KANK4,Q5T7N3,2,995,9,0.92,629,False,299,0.7,KN motif and ankyrin repeat domain-containing protein 4 (Ank
+ENSG00000151623,NR3C2,P08235,4,984,12,1.0,586,False,322,0.67,Mineralocorticoid receptor (MR) (Nuclear receptor subfamily 
+ENSG00000174576,NPAS4,Q8IUM7,2,802,10,0.98,480,False,328,0.59,Neuronal PAS domain-containing protein 4 (Neuronal PAS4) (Cl
+ENSG00000171560,FGA,P02671,2,866,8,0.9,461,False,378,0.56,Fibrinogen alpha chain [Cleaved into: Fibrinopeptide A; Fibr
+ENSG00000170085,SIMC1,Q8NDZ2,4,872,14,1.0,434,False,375,0.57,SUMO-interacting motif-containing protein 1 (Platform elemen
+ENSG00000113580,NR3C1,P04150,4,777,14,1.0,395,False,327,0.58,Glucocorticoid receptor (GR) (Nuclear receptor subfamily 3 g
+ENSG00000147316,MCPH1,Q8NEM0,3,835,17,1.0,386,False,336,0.6,Microcephalin
+ENSG00000135241,PNPLA8,Q9NP80,3,782,12,1.0,352,False,434,0.45,Calcium-independent phospholipase A2-gamma (EC 3.1.1.-) (EC 
+ENSG00000119508,NR4A3,Q92570,3,626,9,0.92,318,False,304,0.52,Nuclear receptor subfamily 4 group A member 3 (Mitogen-induc
+ENSG00000138376,BARD1,Q99728,3,777,15,0.94,317,False,421,0.46,BRCA1-associated RING domain protein 1 (BARD-1) (EC 2.3.2.27
+ENSG00000015479,MATR3,P43243,2,847,15,0.92,304,False,311,0.63,Matrin-3
+ENSG00000005238,ATOSB,Q7L5A3,2,538,9,1.0,298,False,191,0.65,Atos homolog protein B
+ENSG00000123358,NR4A1,P22736,2,598,8,0.91,293,False,311,0.48,Nuclear receptor subfamily 4immunitygroup A member 1 (Early 
+ENSG00000153234,NR4A2,P43354,2,598,8,0.9,288,False,308,0.49,Nuclear receptor subfamily 4 group A member 2 (Immediate-ear
+ENSG00000143473,KCNH1,O95259,2,989,14,0.93,285,False,684,0.31,Voltage-gated delayed rectifier potassium channel KCNH1 (Eth
+ENSG00000056972,TRAF3IP2,O43734,4,574,12,1.0,280,False,171,0.7,E3 ubiquitin ligase TRAF3IP2 (EC 2.3.2.27) (Adapter protein 
+ENSG00000145103,ILDR1,Q86SU0,4,546,12,1.0,274,False,205,0.63,Immunoglobulin-like domain-containing receptor 1 (Angulin-2)
+ENSG00000163697,APBB2,Q92870,4,758,17,1.0,273,False,361,0.53,Amyloid beta precursor protein binding family B member 2 (Am
+ENSG00000141424,SLC39A6,Q13433,2,755,11,1.0,263,False,275,0.64,Zinc transporter ZIP6 (Estrogen-regulated protein LIV-1) (So
+ENSG00000141655,TNFRSF11A,Q9Y6Q6,4,616,12,1.0,262,False,245,0.61,Tumor necrosis factor receptor superfamily member 11A (Osteo
+ENSG00000102974,CTCF,P49711,2,727,12,1.0,261,False,312,0.57,Transcriptional repressor CTCF (11-zinc finger protein) (CCC
+ENSG00000036672,USP2,O75604,3,605,14,1.0,258,False,343,0.44,Ubiquitin carboxyl-terminal hydrolase 2 (EC 3.4.19.12) (41 k
+ENSG00000114019,AMOTL2,Q9Y2J4,4,779,15,1.0,245,False,256,0.67,Angiomotin-like protein 2 (Leman coiled-coil protein) (LCCP)
+ENSG00000100842,EFS,O43281,3,561,10,1.0,241,False,200,0.64,Embryonal Fyn-associated substrate (hEFS) (Cas scaffolding p
+ENSG00000132405,TBC1D14,Q9P2M4,2,693,15,1.0,241,False,363,0.48,TBC1 domain family member 14
+ENSG00000109686,SH3D19,Q5HYK7,3,790,16,1.0,232,False,345,0.57,SH3 domain-containing protein 19 (ADAM-binding protein Eve-1
+ENSG00000070476,ZXDC,Q2QGD7,2,858,12,1.0,229,False,300,0.65,Zinc finger protein ZXDC (ZXD-like zinc finger protein)
+ENSG00000087266,SH3BP2,P78314,4,561,16,1.0,219,False,243,0.57,SH3 domain-binding protein 2 (3BP-2)
+ENSG00000132692,BCAN,Q96GW7,2,911,14,1.0,216,False,540,0.41,Brevican core protein (Brain-enriched hyaluronan-binding pro
+ENSG00000167995,BEST1,O76090,2,585,12,1.0,214,False,343,0.42,Bestrophin-1 (TU15B) (Vitelliform macular dystrophy protein 
+ENSG00000110042,DTX4,Q9Y2E6,2,619,11,1.0,206,False,378,0.39,E3 ubiquitin-protein ligase DTX4 (EC 2.3.2.27) (Protein delt
+ENSG00000005889,ZFX,P17010,3,805,9,1.0,197,False,386,0.52,Zinc finger X-chromosomal protein
+ENSG00000130762,ARHGEF16,Q5VV41,2,709,16,1.0,196,False,441,0.38,Rho guanine nucleotide exchange factor 16 (Ephexin-4)
+ENSG00000099834,CDHR5,Q9HBB8,3,845,18,1.0,195,False,421,0.5,Cadherin-related family member 5 (Mu-protocadherin) (Mucin a
+ENSG00000067646,ZFY,P08048,3,801,9,1.0,192,False,384,0.52,Zinc finger Y-chromosomal protein
+ENSG00000172765,TMCC1,O94876,2,653,5,1.0,192,False,288,0.56,Transmembrane and coiled-coil domains protein 1
+ENSG00000095397,WHRN,Q9P202,3,907,16,1.0,180,False,531,0.42,Whirlin (Autosomal recessive deafness type 31 protein)
+ENSG00000152492,CCDC50,Q8IVM0,2,306,13,1.0,177,False,192,0.38,Coiled-coil domain-containing protein 50 (Protein Ymer)
+ENSG00000058729,RIOK2,Q9BVS4,2,552,12,1.0,176,False,292,0.48,Serine/threonine-protein kinase RIO2 (EC 2.7.11.1) (RIO kina
+ENSG00000167257,RNF214,Q8ND24,2,703,16,1.0,171,False,327,0.54,RING finger protein 214
+ENSG00000187510,PLEKHG7,Q6ZR37,3,691,18,1.0,169,False,462,0.34,Pleckstrin homology domain-containing family G member 7 (PH 
+ENSG00000204178,MACO1,Q8N5G2,3,664,12,0.98,168,False,433,0.36,Macoilin (Macoilin-1) (Transmembrane protein 57)
+ENSG00000109670,FBXW7,Q969H0,3,707,13,1.0,167,False,482,0.32,F-box/WD repeat-containing protein 7 (Archipelago homolog) (
+ENSG00000134030,CTIF,O43310,2,598,12,1.0,163,False,230,0.62,CBP80/20-dependent translation initiation factor
+ENSG00000125744,RTN2,O75298,3,545,13,1.0,161,False,267,0.52,Reticulon-2 (Neuroendocrine-specific protein-like 1) (NSP-li
+ENSG00000134897,BIVM,Q86UB2,2,503,11,1.0,160,False,249,0.51,Basic immunoglobulin-like variable motif-containing protein
+ENSG00000101343,CRNKL1,Q9BZJ0,3,848,18,1.0,156,False,554,0.35,Crooked neck-like protein 1 (Crooked neck homolog) (hCrn)
+ENSG00000130669,PAK4,O96013,3,591,9,1.0,153,False,293,0.51,Serine/threonine-protein kinase PAK 4 (EC 2.7.11.1) (p21-act
+ENSG00000115841,RMDN2,Q96LZ7,2,410,12,1.0,151,False,244,0.41,Regulator of microtubule dynamics protein 2 (RMD-2) (hRMD-2)
+ENSG00000187017,ESPN,B1AK53,2,854,15,1.0,151,False,338,0.61,Espin (Autosomal recessive deafness type 36 protein) (Ectopl
+ENSG00000083838,ZNF446,Q9NWS9,2,450,8,1.0,149,False,160,0.65,Zinc finger protein 446 (Zinc finger protein with KRAB and S
+ENSG00000112592,TBP,P20226,2,339,8,0.97,148,False,182,0.47,TATA-box-binding protein (TATA sequence-binding protein) (TA
+ENSG00000171004,HS6ST2,Q96MM7,3,605,7,1.0,143,False,377,0.38,Heparan-sulfate 6-O-sulfotransferase 2 (HS6ST-2) (EC 2.8.2.-
+ENSG00000119760,SUPT7L,O94864,3,414,6,0.99,138,False,126,0.7,STAGA complex 65 subunit gamma (Adenocarcinoma antigen ART1)
+ENSG00000127863,TNFRSF19,Q9NS68,3,423,12,1.0,136,False,201,0.53,Tumor necrosis factor receptor superfamily member 19 (TRADE)
+ENSG00000143502,SUSD4,Q5VX71,2,490,10,1.0,129,False,303,0.39,Sushi domain-containing protein 4
+ENSG00000126246,IGFLR1,Q9H665,2,355,6,0.91,127,False,221,0.38,IGF-like family receptor 1 (Transmembrane protein 149) (U2 s
+ENSG00000163728,TTC14,Q96N46,3,770,15,1.0,126,False,396,0.49,Tetratricopeptide repeat protein 14 (TPR repeat protein 14)
+ENSG00000131080,EDA2R,Q9HAV5,2,297,8,1.0,125,False,168,0.44,Tumor necrosis factor receptor superfamily member 27 (X-link
+ENSG00000172262,ZNF131,P52739,2,623,9,1.0,120,False,189,0.7,Zinc finger protein 131
+ENSG00000160284,SPATC1L,Q9H0A9,2,340,6,0.92,118,False,205,0.4,Speriolin-like protein (Spermatogenesis and centriole-associ
+ENSG00000197712,FAM114A1,Q8IWE2,2,563,15,1.0,116,False,290,0.49,Protein NOXP20 (Nervous system overexpressed protein 20) (Pr
+ENSG00000054611,TBC1D22A,Q8WUA7,4,517,17,1.0,115,False,328,0.37,TBC1 domain family member 22A
+ENSG00000126746,ZNF384,Q8TF68,3,577,10,0.98,112,False,262,0.55,Zinc finger protein 384 (CAG repeat protein 1) (CAS-interact
+ENSG00000006837,CDKL3,Q8IVW4,2,592,14,1.0,110,False,310,0.48,Cyclin-dependent kinase-like 3 (EC 2.7.11.22) (Serine/threon
+ENSG00000174606,ANGEL2,Q5VTE6,2,544,11,1.0,110,False,386,0.3,"RNA 2',3'-cyclic phosphatase ANGEL2 (EC 3.-.-.-)"
+ENSG00000149636,DSN1,Q9H410,3,356,12,1.0,108,False,175,0.52,Kinetochore-associated protein DSN1 homolog
+ENSG00000149557,FEZ1,Q99689,2,392,10,1.0,104,False,191,0.52,Fasciculation and elongation protein zeta-1 (Zygin I) (Zygin
+ENSG00000183323,CCDC125,Q86Z20,2,511,13,1.0,102,False,273,0.47,Coiled-coil domain-containing protein 125 (Protein kenae)
+ENSG00000184216,IRAK1,P51617,3,712,19,1.0,101,False,435,0.39,Interleukin-1 receptor-associated kinase 1 (IRAK-1) (EC 2.7.
+ENSG00000136002,ARHGEF4,Q9NR80,2,690,14,1.0,100,False,402,0.42,Rho guanine nucleotide exchange factor 4 (APC-stimulated gua
+ENSG00000067182,TNFRSF1A,P19438,3,455,14,1.0,97,False,303,0.34,Tumor necrosis factor receptor superfamily member 1A (Tumor 
+ENSG00000139926,FRMD6,Q96NE9,3,622,15,1.0,96,False,431,0.31,FERM domain-containing protein 6 (Willin)
+ENSG00000147573,TRIM55,Q9BYV6,4,548,14,1.0,96,False,327,0.41,Tripartite motif-containing protein 55 (EC 2.3.2.27) (Muscle
+ENSG00000182923,CEP63,Q96MT8,4,703,15,1.0,94,False,542,0.23,Centrosomal protein of 63 kDa (Cep63)
+ENSG00000066248,NGEF,Q8N5V2,3,710,17,1.0,90,False,494,0.31,Ephexin-1 (Eph-interacting exchange protein) (Neuronal guani
+ENSG00000121940,CLCC1,Q96S66,4,551,12,1.0,90,False,308,0.44,Chloride channel CLIC-like protein 1 (ER anion channel 1) (E
+ENSG00000130182,ZSCAN10,Q96SZ4,3,780,8,1.0,90,False,439,0.44,Zinc finger and SCAN domain-containing protein 10 (Zinc fing
+ENSG00000020577,SAMD4A,Q9UPU9,2,718,13,1.0,89,False,303,0.58,Protein Smaug homolog 1 (Smaug 1) (hSmaug1) (Sterile alpha m
+ENSG00000056487,PHF21B,Q96EK2,3,531,16,1.0,89,False,185,0.65,PHD finger protein 21B
+ENSG00000154553,PDLIM3,Q53GG5,2,364,10,1.0,89,False,169,0.54,PDZ and LIM domain protein 3 (Actinin-associated LIM protein
+ENSG00000099866,MADCAM1,Q13477,3,382,8,1.0,88,False,156,0.6,Mucosal addressin cell adhesion molecule 1 (MAdCAM-1) (hMAdC
+ENSG00000149927,DOC2A,Q14183,2,400,13,0.99,88,False,317,0.22,Double C2-like domain-containing protein alpha (Doc2) (Doc2-
+ENSG00000104953,TLE6,Q9H808,2,572,17,1.0,86,False,381,0.34,Transducin-like enhancer protein 6
+ENSG00000121152,NCAPH,Q15003,2,741,19,1.0,85,False,443,0.41,Condensin complex subunit 2 (Barren homolog protein 1) (Chro
+ENSG00000162458,FBLIM1,Q8WUP2,3,373,10,1.0,84,False,197,0.48,Filamin-binding LIM protein 1 (FBLP-1) (Migfilin) (Mitogen-i
+ENSG00000196526,AFAP1,Q8N556,2,730,18,1.0,84,False,363,0.51,Actin filament-associated protein 1 (110 kDa actin filament-
+ENSG00000164920,OSR2,Q8N2R0,3,312,7,1.0,83,False,143,0.54,Protein odd-skipped-related 2
+ENSG00000172717,GARIN2,Q8N9W8,2,422,8,1.0,83,False,146,0.66,Golgi-associated RAB2 interactor protein 2
+ENSG00000157152,SYN2,Q92777,2,582,15,1.0,82,False,314,0.47,Synapsin-2 (Synapsin II)
+ENSG00000140632,GLYR1,Q49A26,3,553,20,1.0,81,False,382,0.32,Cytokine-like nuclear factor N-PAC (NPAC) (3-hydroxyisobutyr
+ENSG00000157657,ZNF618,Q5T7W0,3,954,18,1.0,81,False,560,0.42,Zinc finger protein 618
+ENSG00000163145,C1QTNF7,Q9BXJ2,2,289,4,1.0,80,False,152,0.48,Complement C1q tumor necrosis factor-related protein 7
+ENSG00000184588,PDE4B,Q07343,4,736,19,1.0,80,False,367,0.51,"3',5'-cyclic-AMP phosphodiesterase 4B (EC 3.1.4.53) (DPDE4) "
+ENSG00000067840,PDZD4,Q76G19,2,769,8,1.0,79,False,228,0.7,PDZ domain-containing protein 4 (PDZ domain-containing RING 
+ENSG00000110693,SOX6,P35712,4,828,20,1.0,79,False,251,0.7,Transcription factor SOX-6
+ENSG00000111641,NOP2,P46087,4,812,19,1.0,79,False,359,0.56,28S rRNA (cytosine(4447)-C(5))-methyltransferase (EC 2.1.1.-
+ENSG00000136603,SKIL,P12757,3,684,10,1.0,79,False,367,0.47,Ski-like protein (Ski-related oncogene) (Ski-related protein
+ENSG00000188807,TMEM201,Q5SNT2,2,666,13,1.0,79,False,332,0.51,Transmembrane protein 201 (Spindle-associated membrane prote
+ENSG00000089682,RBM41,Q96IZ5,3,413,13,1.0,78,False,207,0.5,RNA-binding protein 41 (RNA-binding motif protein 41)
+ENSG00000089159,PXN,P49023,4,591,14,1.0,76,False,239,0.6,Paxillin
+ENSG00000155975,VPS37A,Q8NEZ2,3,397,15,1.0,76,False,273,0.32,Vacuolar protein sorting-associated protein 37A (hVps37A) (E
+ENSG00000185507,IRF7,Q92985,4,503,14,1.0,76,False,347,0.32,Interferon regulatory factor 7 (IRF-7)
+ENSG00000213066,CEP43,O95684,3,399,17,1.0,76,False,138,0.66,Centrosomal protein 43 (FGFR1 oncogene partner)
+ENSG00000106459,NRF1,Q16656,3,503,12,1.0,75,False,184,0.64,Nuclear respiratory factor 1 (NRF-1) (Alpha palindromic-bind
+ENSG00000111912,NCOA7,Q8NI08,3,942,18,1.0,75,False,393,0.59,Nuclear receptor coactivator 7 (140 kDa estrogen receptor-as
+ENSG00000162236,STX5,Q13190,3,355,12,1.0,75,False,233,0.35,Syntaxin-5
+ENSG00000166762,CATSPER2,Q96P56,3,530,16,1.0,74,False,423,0.22,Cation channel sperm-associated protein 2 (CatSper2)
+ENSG00000198231,DDX42,Q86XP3,2,938,19,1.0,74,False,447,0.53,ATP-dependent RNA helicase DDX42 (EC 3.6.4.13) (DEAD box pro
+ENSG00000084693,AGBL5,Q8NDL9,3,886,17,1.0,73,False,471,0.47,Cytosolic carboxypeptidase-like protein 5 (EC 3.4.17.-) (EC 
+ENSG00000102098,SCML2,Q9UQR0,2,700,16,1.0,73,False,422,0.4,Sex comb on midleg-like protein 2
+ENSG00000118690,ARMC2,Q8NEN0,2,867,19,1.0,73,False,612,0.3,Armadillo repeat-containing protein 2
+ENSG00000158163,DZIP1L,Q8IYY4,2,767,16,1.0,73,False,470,0.39,Cilium assembly protein DZIP1L (DAZ-interacting zinc finger 
+ENSG00000099917,MED15,Q96RN5,3,788,20,1.0,72,False,430,0.46,Mediator of RNA polymerase II transcription subunit 15 (Acti
+ENSG00000151702,FLI1,Q01543,2,452,10,1.0,71,False,182,0.6,Friend leukemia integration 1 transcription factor (Proto-on
+ENSG00000167528,ZNF641,Q96N77,3,438,8,1.0,71,False,190,0.57,Zinc finger protein 641
+ENSG00000171444,MCC,P23508,2,829,20,0.94,71,False,587,0.3,Colorectal mutant cancer protein (Protein MCC)
+ENSG00000184988,TMEM106A,Q96A25,2,262,9,1.0,71,False,194,0.27,Transmembrane protein 106A
+ENSG00000197415,VEPH1,Q14D04,4,833,15,1.0,71,False,663,0.21,Ventricular zone-expressed PH domain-containing protein homo
+ENSG00000203722,RAET1G,Q6H3X3,2,334,7,1.0,71,False,227,0.33,UL-16 binding protein 5 (Retinoic acid early transcript 1G p
+ENSG00000049768,FOXP3,Q9BZS1,4,431,15,1.0,70,False,198,0.54,Forkhead box protein P3 (Scurfin) [Cleaved into: Forkhead bo
+ENSG00000115211,EIF2B4,Q9UI10,3,523,18,1.0,70,False,381,0.28,Translation initiation factor eIF2B subunit delta (eIF2B GDP
+ENSG00000129667,RHBDF2,Q6PJF5,2,856,18,1.0,70,False,464,0.46,Inactive rhomboid protein 2 (iRhom2) (Rhomboid 5 homolog 2) 
+ENSG00000159840,ZYX,Q15942,2,572,10,1.0,70,False,221,0.62,Zyxin (Zyxin-2)
+ENSG00000163694,RBM47,A0AV96,2,593,5,1.0,70,False,265,0.55,RNA-binding protein 47 (RNA-binding motif protein 47)
+ENSG00000196141,SPATS2L,Q9NUQ6,4,558,15,1.0,70,False,203,0.64,SPATS2-like protein (DNA polymerase-transactivated protein 6
+ENSG00000115993,TRAK2,O60296,2,914,16,1.0,69,False,308,0.67,Trafficking kinesin-binding protein 2 (Amyotrophic lateral s
+ENSG00000124214,STAU1,O95793,3,577,15,1.0,69,False,328,0.44,Double-stranded RNA-binding protein Staufen homolog 1
+ENSG00000124256,ZBP1,Q9H171,3,429,11,1.0,69,False,177,0.59,Z-DNA-binding protein 1 (DNA-dependent activator of IFN-regu
+ENSG00000164252,AGGF1,Q8N302,2,714,16,1.0,68,False,228,0.68,Angiogenic factor with G patch and FHA domains 1 (Angiogenic
+ENSG00000197037,ZSCAN25,Q6NSZ9,2,544,7,1.0,68,False,287,0.47,Zinc finger and SCAN domain-containing protein 25 (Zinc fing
+ENSG00000090612,ZNF268,Q14587,3,947,8,1.0,67,False,722,0.24,Zinc finger protein 268 (Zinc finger protein HZF3)
+ENSG00000205683,DPF3,Q92784,3,378,14,1.0,67,False,204,0.47,Zinc finger protein DPF3 (BRG1-associated factor 45C) (BAF45
+ENSG00000131061,ZNF341,Q9BYN7,2,854,17,1.0,66,False,341,0.6,Zinc finger protein 341
+ENSG00000135472,FAIM2,Q9BWQ8,2,316,13,1.0,66,False,231,0.28,Protein lifeguard 2 (Fas apoptotic inhibitory molecule 2) (N
+ENSG00000176029,C11orf16,Q9NQ32,2,467,6,1.0,66,False,279,0.41,Uncharacterized protein C11orf16
+ENSG00000117222,RBBP5,Q15291,2,538,17,1.0,65,False,347,0.37,Retinoblastoma-binding protein 5 (RBBP-5) (Retinoblastoma-bi
+ENSG00000158402,CDC25C,P30307,4,473,18,1.0,65,False,225,0.53,M-phase inducer phosphatase 3 (EC 3.1.3.48) (Dual specificit
+ENSG00000186376,ZNF75D,P51815,2,510,6,1.0,65,False,230,0.55,Zinc finger protein 75D (Zinc finger protein 75) (Zinc finge
+ENSG00000205085,GARIN1A,Q6NXP2,2,309,8,1.0,65,False,190,0.39,Golgi-associated RAB2 interactor protein 1A
+ENSG00000025434,NR1H3,Q13133,3,447,11,1.0,64,False,337,0.25,Oxysterols receptor LXR-alpha (Liver X receptor alpha) (Nucl
+ENSG00000112186,CAP2,P40123,3,477,13,1.0,64,False,363,0.25,Adenylyl cyclase-associated protein 2 (CAP 2)
+ENSG00000115282,TTC31,Q49AM3,2,519,16,1.0,64,False,207,0.6,Tetratricopeptide repeat protein 31 (TPR repeat protein 31)
+ENSG00000118046,STK11,Q15831,2,433,11,1.0,64,False,314,0.29,Serine/threonine-protein kinase STK11 (EC 2.7.11.1) (Liver k
+ENSG00000129159,KCNC1,P48547,2,511,6,1.0,64,False,404,0.21,Voltage-gated potassium channel KCNC1 (NGK2) (Potassium volt
+ENSG00000144645,OSBPL10,Q9BXB5,2,764,14,1.0,64,False,449,0.42,Oxysterol-binding protein-related protein 10 (ORP-10) (OSBP-
+ENSG00000243943,ZNF512,Q96ME7,3,567,17,1.0,64,False,340,0.4,Zinc finger protein 512
+ENSG00000106686,SPATA6L,Q8N4H0,3,392,15,1.0,63,False,148,0.63,Spermatogenesis associated 6-like protein
+ENSG00000160401,CFAP157,Q5JU67,2,520,11,1.0,63,False,382,0.27,Cilia- and flagella-associated protein 157
+ENSG00000064201,TSPAN32,Q96QS1,3,320,14,1.0,62,False,230,0.29,Tetraspanin-32 (Tspan-32) (Protein Phemx)
+ENSG00000133872,SARAF,Q96BY9,2,339,8,1.0,62,False,172,0.5,Store-operated calcium entry-associated regulatory factor (S
+ENSG00000135248,GARIN1B,Q96KD3,3,344,12,0.9,62,False,184,0.47,Golgi-associated RAB2 interactor protein 1B (Testis developm
+ENSG00000137770,CTDSPL2,Q05D32,2,466,13,1.0,62,False,220,0.53,CTD small phosphatase-like protein 2 (CTDSP-like 2) (EC 3.1.
+ENSG00000172819,RARG,P13631,4,454,12,1.0,62,False,312,0.32,Retinoic acid receptor gamma (RAR-gamma) (Nuclear receptor s
+ENSG00000117475,BLZF1,Q9H2G9,2,400,7,1.0,61,False,165,0.59,Golgin-45 (Basic leucine zipper nuclear factor 1) (JEM-1) (p
+ENSG00000120451,SNX19,Q92543,2,992,14,1.0,61,False,541,0.46,Sorting nexin-19
+ENSG00000147457,CHMP7,Q8WUX9,2,453,13,1.0,61,False,332,0.27,Charged multivesicular body protein 7 (Chromatin-modifying p
+ENSG00000163719,MTMR14,Q8NCE2,3,650,20,1.0,61,False,468,0.29,"Phosphatidylinositol-3,5-bisphosphate 3-phosphatase MTMR14 ("
+ENSG00000174292,TNK1,Q13470,2,666,13,1.0,61,False,435,0.35,Non-receptor tyrosine-protein kinase TNK1 (EC 2.7.10.2) (CD3
+ENSG00000077092,RARB,P10826,3,455,10,1.0,60,False,311,0.32,Retinoic acid receptor beta (RAR-beta) (HBV-activated protei
+ENSG00000111727,HCFC2,Q9Y5Z7,2,792,17,1.0,60,False,599,0.25,Host cell factor 2 (HCF-2) (C2 factor)
+ENSG00000131759,RARA,P10276,3,462,9,1.0,60,False,309,0.34,Retinoic acid receptor alpha (RAR-alpha) (Nuclear receptor s
+ENSG00000170265,ZNF282,Q9UDV7,2,671,10,1.0,60,False,244,0.64,Zinc finger protein 282 (HTLV-I U5RE-binding protein 1) (HUB
+ENSG00000198925,ATG9A,Q7Z3C6,3,839,19,1.0,60,False,556,0.34,Autophagy-related protein 9A (APG9-like 1) (mATG9)
+ENSG00000146410,MTFR2,Q6P444,2,385,8,1.0,59,False,167,0.57,Mitochondrial fission regulator 2 (DUF729 domain-containing 
+ENSG00000162298,SYVN1,Q86TM6,3,617,17,1.0,59,False,379,0.4,E3 ubiquitin-protein ligase synoviolin (EC 2.3.2.27) (RING-t
+ENSG00000164458,TBXT,O15178,2,435,9,1.0,59,False,228,0.48,T-box transcription factor T (Brachyury protein) (Protein T)
+ENSG00000198901,PRC1,O43663,3,620,19,1.0,59,False,454,0.27,Protein regulator of cytokinesis 1
+ENSG00000106052,TAX1BP1,Q86VP1,3,789,20,0.91,58,False,597,0.25,Tax1-binding protein 1 (TRAF6-binding protein)
+ENSG00000138709,LARP1B,Q659C4,2,914,19,1.0,58,False,303,0.67,La-related protein 1B (La ribonucleoprotein domain family me
+ENSG00000175110,MRPS22,P82650,2,360,11,1.0,58,False,291,0.2,Small ribosomal subunit protein mS22 (28S ribosomal protein 
+ENSG00000175727,MLXIP,Q9HAP2,2,919,18,1.0,58,False,284,0.69,MLX-interacting protein (Class E basic helix-loop-helix prot
+ENSG00000186090,HTR3D,Q70Z44,3,454,16,1.0,58,False,289,0.37,5-hydroxytryptamine receptor 3D (5-HT3-D) (5-HT3D) (Serotoni
+ENSG00000007392,LUC7L,Q9NQ29,2,371,12,1.0,57,False,236,0.37,Putative RNA-binding protein Luc7-like 1 (Putative SR protei
+ENSG00000121390,PSPC1,Q8WXF1,2,523,11,1.0,57,False,263,0.5,Paraspeckle component 1 (Paraspeckle protein 1)
+ENSG00000127022,CANX,P27824,2,592,16,1.0,57,False,358,0.4,Calnexin (IP90) (Major histocompatibility complex class I an
+ENSG00000132906,CASP9,P55211,3,416,12,1.0,57,False,337,0.2,Caspase-9 (CASP-9) (EC 3.4.22.62) (Apoptotic protease Mch-6)
+ENSG00000160917,CPSF4,O95639,3,269,12,1.0,57,False,175,0.36,Cleavage and polyadenylation specificity factor subunit 4 (C
+ENSG00000175984,DENND2C,Q68D51,2,928,19,1.0,57,False,461,0.51,DENN domain-containing protein 2C
+ENSG00000214021,TTLL3,Q9Y4R7,3,772,16,1.0,57,False,441,0.43,Tubulin monoglycylase TTLL3 (EC 6.3.2.-) (HOTTL) (Tubulin--t
+ENSG00000221818,EBF2,Q9HAK2,2,575,18,1.0,57,False,385,0.34,Transcription factor COE2 (Early B-cell factor 2) (EBF-2)
+ENSG00000115041,KCNIP3,Q9Y2W7,2,256,11,1.0,56,False,177,0.31,Calsenilin (A-type potassium channel modulatory protein 3) (
+ENSG00000125733,TRIP10,Q15642,2,601,17,1.0,56,False,280,0.54,Cdc42-interacting protein 4 (Protein Felic) (Salt tolerant p
+ENSG00000140987,ZSCAN32,Q9NX65,3,697,9,1.0,56,False,244,0.65,Zinc finger and SCAN domain-containing protein 32 (Human cer
+ENSG00000143469,SYT14,Q8NB59,4,555,14,1.0,56,False,262,0.53,Synaptotagmin-14 (Synaptotagmin XIV) (SytXIV)
+ENSG00000156531,PHF6,Q8IWS0,3,365,12,1.0,56,False,247,0.33,PHD finger protein 6 (PHD-like zinc finger protein)
+ENSG00000159708,LRRC36,Q1X8D7,3,754,17,1.0,56,False,276,0.64,Leucine-rich repeat-containing protein 36 (ROR gamma-binding
+ENSG00000163565,IFI16,Q16666,3,785,14,1.0,56,False,457,0.42,Gamma-interferon-inducible protein 16 (Ifi-16) (Interferon-i
+ENSG00000179222,MAGED1,Q9Y5V3,2,778,12,1.0,56,False,317,0.6,Melanoma-associated antigen D1 (MAGE tumor antigen CCF) (MAG
+ENSG00000198929,NOS1AP,O75052,3,506,13,1.0,56,False,262,0.49,Carboxyl-terminal PDZ ligand of neuronal nitric oxide syntha
+ENSG00000278522,POTEB3,A0JP26,2,581,13,1.0,56,False,322,0.45,POTE ankyrin domain family member B3
+ENSG00000000457,SCYL3,Q8IZE3,2,742,14,1.0,55,False,419,0.44,Protein-associating with the carboxyl-terminal domain of ezr
+ENSG00000058799,YIPF1,Q9Y548,2,306,9,1.0,55,False,215,0.3,Protein YIPF1 (YIP1 family member 1)
+ENSG00000060069,CTDP1,Q9Y5B0,2,961,16,1.0,55,False,377,0.61,RNA polymerase II subunit A C-terminal domain phosphatase (E
+ENSG00000065029,ZNF76,P36508,2,570,13,1.0,55,False,205,0.64,Zinc finger protein 76 (Zinc finger protein 523)
+ENSG00000146038,DCDC2,Q9UHG0,2,476,12,1.0,55,False,232,0.52,Doublecortin domain-containing protein 2 (Protein RU2S)
+ENSG00000163576,EFHB,Q8N7U6,2,833,16,1.0,55,False,546,0.35,EF-hand domain-containing family member B (Cilia- and flagel
+ENSG00000181481,RNF135,Q8IUD6,3,432,9,1.0,55,False,269,0.38,E3 ubiquitin-protein ligase RNF135 (EC 2.3.2.27) (RIG-I E3 u
+ENSG00000185019,UBOX5,O94941,2,541,4,1.0,55,False,378,0.3,RING finger protein 37 (EC 2.3.2.27) (RING-type E3 ubiquitin
+ENSG00000107745,MICU1,Q9BPX6,4,476,17,1.0,54,False,370,0.23,"Calcium uptake protein 1, mitochondrial (Atopy-related autoa"
+ENSG00000107864,CPEB3,Q8NE35,2,698,11,1.0,54,False,264,0.62,Cytoplasmic polyadenylation element-binding protein 3 (CPE-B
+ENSG00000112041,TULP1,O00294,2,542,16,1.0,54,False,253,0.54,Tubby-related protein 1 (Tubby-like protein 1)
+ENSG00000112078,KCTD20,Q7Z5Y7,3,419,9,1.0,54,False,255,0.4,BTB/POZ domain-containing protein KCTD20 (Potassium channel 
+ENSG00000114670,NEK11,Q8NG66,4,645,20,1.0,54,False,472,0.28,Serine/threonine-protein kinase Nek11 (EC 2.7.11.1) (Never i
+ENSG00000120875,DUSP4,Q13115,2,394,5,1.0,54,False,272,0.31,Dual specificity protein phosphatase 4 (EC 3.1.3.16) (EC 3.1
+ENSG00000157985,AGAP1,Q9UPQ3,3,857,20,1.0,54,False,568,0.34,"Arf-GAP with GTPase, ANK repeat and PH domain-containing pro"
+ENSG00000198625,MDM4,O15151,3,490,11,1.0,54,False,189,0.62,Protein Mdm4 (Double minute 4 protein) (Mdm2-like p53-bindin
+ENSG00000104450,SPAG1,Q07617,2,926,19,1.0,53,False,576,0.39,Sperm-associated antigen 1 (HSD-3.8) (Infertility-related sp
+ENSG00000130775,THEMIS2,Q5TEJ8,4,643,11,1.0,53,False,507,0.22,Protein THEMIS2 (Induced by contact to basement membrane 1 p
+ENSG00000132964,CDK8,P49336,2,464,15,1.0,53,False,360,0.23,Cyclin-dependent kinase 8 (EC 2.7.11.22) (EC 2.7.11.23) (Cel
+ENSG00000145014,TMEM44,Q2T9K0,4,475,16,1.0,53,False,284,0.4,Transmembrane protein 44
+ENSG00000147124,ZNF41,P51814,4,821,9,1.0,53,False,503,0.39,Zinc finger protein 41
+ENSG00000163795,ZNF513,Q8N8E2,2,541,5,1.0,53,False,198,0.64,Zinc finger protein 513
+ENSG00000164877,MICALL2,Q8IY33,2,904,20,1.0,53,False,320,0.65,MICAL-like protein 2 (Junctional Rab13-binding protein) (Mol
+ENSG00000112530,PACRG,Q96M98,2,296,8,1.0,52,False,234,0.22,Parkin coregulated gene protein (Molecular chaperone/chapero
+ENSG00000124440,HIF3A,Q9Y2N7,3,669,17,1.0,52,False,332,0.51,Hypoxia-inducible factor 3-alpha (HIF-3-alpha) (HIF3-alpha) 
+ENSG00000130695,CEP85,Q6P2H3,3,762,14,1.0,52,False,350,0.54,Centrosomal protein of 85 kDa (Cep85) (Coiled-coil domain-co
+ENSG00000137185,ZSCAN9,O15535,2,394,4,1.0,52,False,258,0.35,Zinc finger and SCAN domain-containing protein 9 (Cell proli
+ENSG00000146285,SCML4,Q8N228,2,414,9,1.0,52,False,186,0.56,Sex comb on midleg-like protein 4
+ENSG00000147140,NONO,Q15233,2,471,12,1.0,52,False,284,0.4,Non-POU domain-containing octamer-binding protein (NonO prot
+ENSG00000153944,MSI2,Q96DH6,3,328,16,1.0,52,False,161,0.52,RNA-binding protein Musashi homolog 2 (Musashi-2)
+ENSG00000167851,CD300A,Q9UGN4,4,299,11,1.0,52,False,125,0.59,CMRF35-like molecule 8 (CLM-8) (CD300 antigen-like family me
+ENSG00000168476,REEP4,Q9H6H4,2,257,10,1.0,52,False,143,0.45,Receptor expression-enhancing protein 4
+ENSG00000172977,KAT5,Q92993,4,513,16,1.0,52,False,358,0.31,Histone acetyltransferase KAT5 (EC 2.3.1.48) (60 kDa Tat-int
+ENSG00000185946,RNPC3,Q96LT9,2,517,16,1.0,52,False,279,0.47,RNA-binding region-containing protein 3 (RNA-binding motif p
+ENSG00000105053,VRK3,Q8IV63,3,474,13,1.0,51,False,322,0.33,Serine/threonine-protein kinase VRK3 (EC 2.7.11.22) (Vaccini
+ENSG00000114745,GORASP1,Q9BQQ3,3,440,13,1.0,51,False,149,0.66,Golgi reassembly-stacking protein 1 (Golgi peripheral membra
+ENSG00000118096,IFT46,Q9NQC8,2,304,12,1.0,51,False,218,0.29,Intraflagellar transport protein 46 homolog
+ENSG00000119946,CNNM1,Q9NRU3,2,951,12,1.0,51,False,555,0.42,Metal transporter CNNM1 (Ancient conserved domain-containing
+ENSG00000159409,CELF3,Q5SZQ8,2,465,12,1.0,51,False,256,0.46,CUGBP Elav-like family member 3 (CELF-3) (Bruno-like protein
+ENSG00000161202,DVL3,Q92997,2,716,17,1.0,51,False,289,0.6,Segment polarity protein dishevelled homolog DVL-3 (Dishevel
+ENSG00000165689,ENTR1,Q96C92,3,435,10,1.0,51,False,177,0.6,Endosome-associated-trafficking regulator 1 (Antigen NY-CO-3
+ENSG00000166025,AMOTL1,Q8IY63,2,956,14,1.0,51,False,314,0.67,Angiomotin-like protein 1
+ENSG00000174516,PELI3,Q8N2H9,4,469,12,1.0,51,False,356,0.24,E3 ubiquitin-protein ligase pellino homolog 3 (Pellino-3) (E
+ENSG00000235109,ZSCAN31,Q96LW9,2,406,5,1.0,51,False,236,0.42,Zinc finger and SCAN domain-containing protein 31 (Zinc fing
+ENSG00000057935,MTA3,Q9BTC8,2,594,19,0.96,50,False,466,0.23,Metastasis-associated protein MTA3
+ENSG00000074660,SCARF1,Q14162,3,830,16,1.0,50,False,382,0.55,Scavenger receptor class F member 1 (Acetyl LDL receptor) (S
+ENSG00000103111,MON1B,Q7L1V2,2,547,6,1.0,50,False,421,0.23,Vacuolar fusion protein MON1 homolog B (HSV-1 stimulation-re
+ENSG00000124193,SRSF6,Q13247,2,344,8,1.0,50,False,134,0.61,Serine/arginine-rich splicing factor 6 (Pre-mRNA-splicing fa
+ENSG00000127334,DYRK2,Q92630,2,601,4,1.0,50,False,377,0.37,Dual specificity tyrosine-phosphorylation-regulated kinase 2
+ENSG00000130307,USHBP1,Q8N6Y0,2,703,13,1.0,50,False,386,0.46,Harmonin-binding protein USHBP1 (AIE-75-binding protein) (Mu
+ENSG00000151445,VIPAS39,Q9H9C1,2,493,19,1.0,50,False,341,0.32,Spermatogenesis-defective protein 39 homolog (hSPE-39) (VPS3
+ENSG00000155307,SAMSN1,Q9NSI8,3,373,10,1.0,50,False,130,0.65,SAM domain-containing protein SAMSN-1 (Hematopoietic adaptor
+ENSG00000161082,CELF5,Q8N6W0,2,485,16,1.0,50,False,233,0.53,CUGBP Elav-like family member 5 (CELF-5) (Bruno-like protein
+ENSG00000189298,ZKSCAN3,Q9BRR0,2,538,7,1.0,50,False,269,0.5,Zinc finger protein with KRAB and SCAN domains 3 (Zinc finge
+ENSG00000047579,DTNBP1,Q96EV8,2,351,12,1.0,49,False,184,0.49,Dysbindin (Biogenesis of lysosome-related organelles complex
+ENSG00000089225,TBX5,Q99593,3,518,11,1.0,49,False,190,0.64,T-box transcription factor TBX5 (T-box protein 5)
+ENSG00000106477,CEP41,Q9BYV8,4,373,15,1.0,49,False,195,0.49,Centrosomal protein of 41 kDa (Cep41) (Testis-specific gene 
+ENSG00000114790,ARHGEF26,Q96DR7,3,871,17,1.0,49,False,411,0.53,Rho guanine nucleotide exchange factor 26 (SH3 domain-contai
+ENSG00000116001,TIA1,P31483,3,386,15,1.0,49,False,265,0.33,Cytotoxic granule associated RNA binding protein TIA1 (Nucle
+ENSG00000138750,NUP54,Q7Z3B4,2,507,14,1.0,49,False,384,0.25,Nucleoporin p54 (54 kDa nucleoporin)
+ENSG00000139197,PEX5,P50542,4,639,18,1.0,49,False,377,0.42,Peroxisomal targeting signal 1 receptor (PTS1 receptor) (PTS
+ENSG00000152583,SPARCL1,Q14515,2,664,12,1.0,49,False,241,0.64,SPARC-like protein 1 (High endothelial venule protein) (Hevi
+ENSG00000177427,MIEF2,Q96C03,3,454,6,1.0,49,False,334,0.27,Mitochondrial dynamics protein MID49 (Mitochondrial dynamics
+ENSG00000177683,THAP5,Q7Z6K1,2,395,5,1.0,49,False,165,0.58,THAP domain-containing protein 5
+ENSG00000186265,BTLA,Q7Z6A9,2,289,7,1.0,49,False,132,0.55,B- and T-lymphocyte attenuator (B- and T-lymphocyte-associat
+ENSG00000186496,ZNF396,Q96N95,3,335,6,1.0,49,False,158,0.53,Zinc finger protein 396 (Zinc finger and SCAN domain-contain
+ENSG00000278318,ZNF229,Q9UJW7,2,825,6,1.0,49,False,480,0.42,Zinc finger protein 229
+ENSG00000002016,RAD52,P43351,4,418,16,1.0,48,False,168,0.6,DNA repair protein RAD52 homolog
+ENSG00000065328,MCM10,Q7L590,2,875,20,1.0,48,False,309,0.65,Protein MCM10 homolog (HsMCM10)
+ENSG00000091073,DTX2,Q86UW9,2,622,11,1.0,48,False,399,0.36,Probable E3 ubiquitin-protein ligase DTX2 (EC 2.3.2.27) (Pro
+ENSG00000114354,TFG,Q92734,4,400,10,1.0,48,False,122,0.7,Protein TFG (TRK-fused gene protein)
+ENSG00000116809,ZBTB17,Q13105,3,803,18,1.0,48,False,418,0.49,Zinc finger and BTB domain-containing protein 17 (Myc-intera
+ENSG00000123600,METTL8,Q9H825,2,291,8,0.94,48,False,171,0.42,"tRNA N(3)-cytidine methyltransferase METTL8, mitochondrial ("
+ENSG00000160856,FCRL3,Q96P31,4,734,18,1.0,48,False,551,0.26,Fc receptor-like protein 3 (FcR-like protein 3) (FcRL3) (Fc 
+ENSG00000182957,SPATA13,Q96N96,4,652,16,1.0,48,False,425,0.35,Spermatogenesis-associated protein 13 (APC-stimulated guanin
+ENSG00000186812,ZNF397,Q8NF99,3,534,7,1.0,48,False,329,0.39,Zinc finger protein 397 (Zinc finger and SCAN domain-contain
+ENSG00000197857,ZNF44,P15621,3,663,8,1.0,48,False,426,0.36,Zinc finger protein 44 (Gonadotropin-inducible ovary transcr
+ENSG00000005175,RPAP3,Q9H6T3,3,665,18,1.0,47,False,446,0.34,RNA polymerase II-associated protein 3
+ENSG00000056558,TRAF1,Q13077,2,416,8,1.0,47,False,301,0.28,TNF receptor-associated factor 1 (Epstein-Barr virus-induced
+ENSG00000077279,DCX,O43602,2,365,7,1.0,47,False,195,0.47,Neuronal migration protein doublecortin (Doublin) (Lissencep
+ENSG00000113758,DBN1,Q16643,3,649,18,1.0,47,False,200,0.69,Drebrin (Developmentally-regulated brain protein)
+ENSG00000116833,NR5A2,O00482,3,541,11,1.0,47,False,369,0.32,Nuclear receptor subfamily 5 group A member 2 (Alpha-1-fetop
+ENSG00000116885,OSCP1,Q8WVF1,3,389,14,1.0,47,False,267,0.32,Protein OSCP1 (hOSCP1) (Organic solute transport protein 1) 
+ENSG00000120539,MASTL,Q96GX5,3,879,15,1.0,47,False,301,0.66,Serine/threonine-protein kinase greatwall (GW) (GWL) (hGWL) 
+ENSG00000127084,FGD3,Q5JSP0,3,725,18,1.0,47,False,406,0.44,"FYVE, RhoGEF and PH domain-containing protein 3 (Zinc finger"
+ENSG00000132305,IMMT,Q16891,4,758,20,1.0,47,False,559,0.27,MICOS complex subunit MIC60 (Cell proliferation-inducing gen
+ENSG00000137413,TAF8,Q7Z7C8,3,310,13,1.0,47,False,166,0.47,Transcription initiation factor TFIID subunit 8 (Protein tau
+ENSG00000144366,GULP1,Q9UBP9,4,304,13,1.0,47,False,198,0.35,PTB domain-containing engulfment adapter protein 1 (Cell dea
+ENSG00000148482,SLC39A12,Q504Y0,4,691,15,1.0,47,False,531,0.24,Zinc transporter ZIP12 (LIV-1 subfamily of ZIP zinc transpor
+ENSG00000164649,CDCA7L,Q96GN5,4,454,16,1.0,47,False,170,0.63,Cell division cycle-associated 7-like protein (Protein JPO2)
+ENSG00000165322,ARHGAP12,Q8IWW6,4,846,19,1.0,47,False,288,0.66,Rho GTPase-activating protein 12 (Rho-type GTPase-activating
+ENSG00000187778,MCRS1,Q96EZ8,3,462,18,1.0,47,False,341,0.27,Microspherule protein 1 (58 kDa microspherule protein) (Cell
+ENSG00000008323,PLEKHG6,Q3KR16,3,790,17,1.0,46,False,429,0.46,Pleckstrin homology domain-containing family G member 6 (PH 
+ENSG00000090565,RAB11FIP3,O75154,3,756,19,1.0,46,False,364,0.52,Rab11 family-interacting protein 3 (FIP3) (FIP3-Rab11) (Rab1
+ENSG00000103168,TAF1C,Q15572,4,869,20,1.0,46,False,571,0.35,TATA box-binding protein-associated factor RNA polymerase I 
+ENSG00000114904,NEK4,P51957,3,841,20,1.0,46,False,385,0.54,Serine/threonine-protein kinase Nek4 (EC 2.7.11.1) (Never in
+ENSG00000123240,OPTN,Q96CV9,2,577,15,1.0,46,False,357,0.39,Optineurin (E3-14.7K-interacting protein) (FIP-2) (Huntingti
+ENSG00000132471,WBP2,Q969T9,2,261,10,1.0,46,False,133,0.5,WW domain-binding protein 2 (WBP-2)
+ENSG00000137269,LRRC1,Q9BTT6,2,524,16,1.0,46,False,411,0.23,Leucine-rich repeat-containing protein 1 (LANO adapter prote
+ENSG00000139625,MAP3K12,Q12852,2,859,15,1.0,46,False,401,0.54,Mitogen-activated protein kinase kinase kinase 12 (EC 2.7.11
+ENSG00000148019,CEP78,Q5JTW2,4,689,20,1.0,46,False,412,0.41,Centrosomal protein of 78 kDa (Cep78)
+ENSG00000151577,DRD3,P35462,2,400,8,0.96,46,False,283,0.3,D(3) dopamine receptor (Dopamine D3 receptor)
+ENSG00000154328,NEIL2,Q969S2,3,332,7,1.0,46,False,207,0.38,Endonuclease 8-like 2 (EC 3.2.2.-) (EC 4.2.99.18) (DNA glyco
+ENSG00000154743,TSEN2,Q8NCE0,4,465,16,0.93,46,False,305,0.35,tRNA-splicing endonuclease subunit Sen2 (EC 4.6.1.16) (tRNA-
+ENSG00000165105,RASEF,Q8IZ41,2,740,19,1.0,46,False,477,0.36,Ras and EF-hand domain-containing protein (EC 3.6.5.2) (Ras-
+ENSG00000165675,ENOX2,Q16206,2,610,14,1.0,46,False,470,0.24,Ecto-NOX disulfide-thiol exchanger 2 (APK1 antigen) (Cytosol
+ENSG00000189410,SH2D5,Q6ZV89,2,423,11,1.0,46,False,297,0.3,SH2 domain-containing protein 5
+ENSG00000197647,ZNF433,Q8N7K0,2,673,5,1.0,46,False,536,0.21,Zinc finger protein 433
+ENSG00000197822,OCLN,Q16625,3,522,9,1.0,46,False,281,0.46,Occludin
+ENSG00000043143,JADE2,Q9NQC1,2,790,11,1.0,45,False,352,0.56,E3 ubiquitin-protein ligase Jade-2 (EC 2.3.2.27) (Jade famil
+ENSG00000116151,MORN1,Q5T089,2,497,16,1.0,45,False,311,0.39,MORN repeat-containing protein 1
+ENSG00000147364,FBXO25,Q8TCJ0,3,367,11,1.0,45,False,288,0.22,F-box only protein 25
+ENSG00000160691,SHC1,P29353,4,583,15,1.0,45,False,296,0.5,SHC-transforming protein 1 (SHC-transforming protein 3) (SHC
+ENSG00000244486,SCARF2,Q96GP6,2,871,13,1.0,45,False,407,0.54,Scavenger receptor class F member 2 (SRECRP-1) (Scavenger re
+ENSG00000105699,LSR,Q86X29,3,649,14,1.0,44,False,256,0.61,Lipolysis-stimulated lipoprotein receptor (Angulin-1)
+ENSG00000105705,SUGP1,Q8IWZ8,2,645,15,1.0,44,False,292,0.55,SURP and G-patch domain-containing protein 1 (RNA-binding pr
+ENSG00000141255,SPATA22,Q8NHS9,3,363,9,1.0,44,False,153,0.58,Spermatogenesis-associated protein 22 (Testis development pr
+ENSG00000159110,IFNAR2,P48551,3,515,11,1.0,44,False,199,0.62,Interferon alpha/beta receptor 2 (IFN-R-2) (IFN-alpha bindin
+ENSG00000169925,BRD3,Q15059,2,726,12,1.0,44,False,273,0.63,Bromodomain-containing protein 3 (RING3-like protein)
+ENSG00000184371,CSF1,P09603,3,554,12,1.0,44,False,197,0.64,Macrophage colony-stimulating factor 1 (CSF-1) (M-CSF) (MCSF
+ENSG00000198466,ZNF587,Q96SQ5,2,575,5,1.0,44,False,336,0.42,Zinc finger protein 587
+ENSG00000221923,ZNF880,Q6PDB4,2,577,7,1.0,44,False,371,0.36,Zinc finger protein 880
+ENSG00000235718,MFRP,Q9BY79,2,579,16,1.0,44,False,431,0.27,Membrane frizzled-related protein (Membrane-type frizzled-re
+ENSG00000010539,ZNF200,P98182,3,395,7,1.0,43,False,148,0.63,Zinc finger protein 200
+ENSG00000083828,ZNF586,Q9NXT0,3,402,7,1.0,43,False,286,0.29,Zinc finger protein 586
+ENSG00000100644,HIF1A,Q16665,3,826,20,1.0,43,False,338,0.6,Hypoxia-inducible factor 1-alpha (HIF-1-alpha) (HIF1-alpha) 
+ENSG00000105618,PRPF31,Q8WWY3,2,499,15,1.0,43,False,295,0.41,U4/U6 small nuclear ribonucleoprotein Prp31 (Pre-mRNA-proces
+ENSG00000127081,ZNF484,Q5JVG2,3,852,7,1.0,43,False,421,0.51,Zinc finger protein 484
+ENSG00000135960,EDAR,Q9UNE0,2,448,12,1.0,43,False,252,0.45,Tumor necrosis factor receptor superfamily member EDAR (Anhi
+ENSG00000136870,ZNF189,O75820,3,626,7,1.0,43,False,450,0.28,Zinc finger protein 189
+ENSG00000157510,AFAP1L1,Q8TED9,2,768,20,1.0,43,False,396,0.49,Actin filament-associated protein 1-like 1 (AFAP1-like prote
+ENSG00000160908,ZNF394,Q53GI3,2,561,5,1.0,43,False,291,0.48,Zinc finger protein 394 (Zinc finger protein with KRAB and S
+ENSG00000162419,GMEB1,Q9Y692,2,573,11,1.0,43,False,186,0.68,Glucocorticoid modulatory element-binding protein 1 (GMEB-1)
+ENSG00000167562,ZNF701,Q9NV72,2,531,6,1.0,43,False,282,0.47,Zinc finger protein 701
+ENSG00000169891,REPS2,Q8NFH8,2,660,20,1.0,43,False,255,0.62,RalBP1-associated Eps domain-containing protein 2 (Partner o
+ENSG00000181085,MAPK15,Q8TD08,3,544,18,1.0,43,False,349,0.37,Mitogen-activated protein kinase 15 (MAP kinase 15) (MAPK 15
+ENSG00000188629,ZNF177,Q13360,2,481,6,1.0,43,False,200,0.59,Zinc finger protein 177
+ENSG00000198429,ZNF69,Q9UC07,2,566,7,1.0,43,False,378,0.33,Zinc finger protein 69 (hZNF3)
+ENSG00000051108,HERPUD1,Q15011,4,391,12,1.0,42,False,146,0.63,Homocysteine-responsive endoplasmic reticulum-resident ubiqu
+ENSG00000085433,WDR47,O94967,4,919,17,1.0,42,False,619,0.33,WD repeat-containing protein 47 (Neuronal enriched MAP-inter
+ENSG00000100266,PACSIN2,Q9UNF0,2,486,11,1.0,42,False,375,0.24,Protein kinase C and casein kinase substrate in neurons prot
+ENSG00000101811,CSTF2,P33240,2,577,15,1.0,42,False,199,0.66,Cleavage stimulation factor subunit 2 (CF-1 64 kDa subunit) 
+ENSG00000102878,HSF4,Q9ULV5,2,492,17,1.0,42,False,195,0.61,Heat shock factor protein 4 (HSF 4) (hHSF4) (Heat shock tran
+ENSG00000104313,EYA1,Q99502,3,592,19,1.0,42,False,277,0.54,Protein phosphatase EYA1 (EC 3.1.3.16) (EC 3.1.3.48) (Eyes a
+ENSG00000123119,NECAB1,Q8N987,2,351,14,1.0,42,False,281,0.22,N-terminal EF-hand calcium-binding protein 1 (EF-hand calciu
+ENSG00000141084,RANBP10,Q6VN20,2,620,15,1.0,42,False,426,0.32,Ran-binding protein 10 (RanBP10)
+ENSG00000166140,ZFYVE19,Q96K21,4,471,17,1.0,42,False,211,0.56,Abscission/NoCut checkpoint regulator (ANCHR) (MLL partner c
+ENSG00000174225,ARL13A,Q5H913,2,290,8,1.0,42,False,199,0.32,ADP-ribosylation factor-like protein 13A (ARF-like GTPase 13
+ENSG00000178125,PPP1R42,Q7Z4L9,2,309,8,1.0,42,False,250,0.2,Protein phosphatase 1 regulatory subunit 42 (Leucine-rich re
+ENSG00000179526,SHARPIN,Q9H0F6,2,387,10,1.0,42,False,250,0.36,Sharpin (Shank-associated RH domain-interacting protein) (Sh
+ENSG00000189337,KAZN,Q674X7,4,775,20,1.0,42,False,429,0.45,Kazrin
+ENSG00000198315,ZKSCAN8,Q15776,2,578,7,1.0,42,False,350,0.4,Zinc finger protein with KRAB and SCAN domains 8 (LD5-1) (Zi
+ENSG00000048740,CELF2,O95319,3,508,18,1.0,41,False,279,0.46,CUGBP Elav-like family member 2 (CELF-2) (Bruno-like protein
+ENSG00000050730,TNIP3,Q96KP6,3,325,17,1.0,41,False,208,0.36,TNFAIP3-interacting protein 3 (A20-binding inhibitor of NF-k
+ENSG00000100335,MIEF1,Q9NQG6,2,463,5,1.0,41,False,338,0.27,Mitochondrial dynamics protein MIEF1 (Mitochondrial dynamics
+ENSG00000107742,SPOCK2,Q92563,2,424,12,1.0,41,False,235,0.45,"Testican-2 (SPARC/osteonectin, CWCV, and Kazal-like domains "
+ENSG00000108587,GOSR1,O95249,2,250,10,1.0,41,False,193,0.25,Golgi SNAP receptor complex member 1 (28 kDa Golgi SNARE pro
+ENSG00000111837,MAK,P20794,3,623,14,1.0,41,False,284,0.55,Serine/threonine-protein kinase MAK (EC 2.7.11.1) (Male germ
+ENSG00000120669,SOHLH2,Q9NX45,2,425,13,1.0,41,False,309,0.28,Spermatogenesis- and oogenesis-specific basic helix-loop-hel
+ENSG00000147862,NFIB,O00712,3,420,16,1.0,41,False,186,0.56,Nuclear factor 1 B-type (NF1-B) (Nuclear factor 1/B) (CCAAT-
+ENSG00000160570,DEDD2,Q8WXF8,2,326,5,1.0,41,False,236,0.28,DNA-binding death effector domain-containing protein 2 (DED-
+ENSG00000170873,MTSS1,O43312,4,755,20,1.0,41,False,233,0.69,Protein MTSS 1 (Metastasis suppressor YGL-1) (Metastasis sup
+ENSG00000175920,DOK7,Q18PE1,2,504,12,1.0,41,False,216,0.58,Protein Dok-7 (Downstream of tyrosine kinase 7)
+ENSG00000004809,SLC22A16,Q86VW1,2,577,11,1.0,40,False,400,0.31,Solute carrier family 22 member 16 (Carnitine transporter 2)
+ENSG00000088876,ZNF343,Q6P1L6,3,599,7,1.0,40,False,407,0.32,Zinc finger protein 343
+ENSG00000100395,L3MBTL2,Q969R5,2,705,19,1.0,40,False,512,0.28,Lethal(3)malignant brain tumor-like protein 2 (H-l(3)mbt-lik
+ENSG00000107242,PIP5K1B,O14986,3,540,15,1.0,40,False,321,0.41,Phosphatidylinositol 4-phosphate 5-kinase type-1 beta (PIP5K
+ENSG00000148343,MIGA2,Q7L4E1,3,593,19,1.0,40,False,266,0.55,Mitoguardin 2 (Protein FAM73B)
+ENSG00000148814,LRRC27,Q9C0I9,4,530,14,1.0,40,False,329,0.39,Leucine-rich repeat-containing protein 27
+ENSG00000162571,TTLL10,Q6ZVT0,2,673,15,1.0,40,False,387,0.43,Inactive polyglycylase TTLL10 (Tubulin--tyrosine ligase-like
+ENSG00000182175,RGMA,Q96B86,3,450,8,1.0,40,False,347,0.23,Repulsive guidance molecule A (RGM domain family member A)
+ENSG00000182983,ZNF662,Q6ZS27,2,426,8,1.0,40,False,234,0.45,Zinc finger protein 662
+ENSG00000196323,ZBTB44,Q8NCP5,4,570,11,0.98,40,False,235,0.59,Zinc finger and BTB domain-containing protein 44 (BTB/POZ do
+ENSG00000011258,MBTD1,Q05BQ5,3,628,19,1.0,39,False,457,0.28,MBT domain-containing protein 1
+ENSG00000122359,ANXA11,P50995,2,505,15,1.0,39,False,311,0.39,Annexin A11 (56 kDa autoantigen) (Annexin XI) (Annexin-11) (
+ENSG00000126733,DACH2,Q96NX9,4,599,16,1.0,39,False,200,0.67,Dachshund homolog 2 (Dach2)
+ENSG00000134294,SLC38A2,Q96QD8,2,506,17,1.0,39,False,413,0.2,Sodium-coupled neutral amino acid symporter 2 (Amino acid tr
+ENSG00000139620,KANSL2,Q9H9L4,2,492,10,1.0,39,False,257,0.48,KAT8 regulatory NSL complex subunit 2 (NSL complex protein N
+ENSG00000140682,TGFB1I1,O43294,2,461,13,1.0,39,False,238,0.49,Transforming growth factor beta-1-induced transcript 1 prote
+ENSG00000149474,KAT14,Q9H8E8,2,782,11,1.0,39,False,455,0.42,Cysteine-rich protein 2-binding protein (CSRP2-binding prote
+ENSG00000167889,MGAT5B,Q3V5L5,3,792,20,1.0,39,False,633,0.21,"Alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltr"
+ENSG00000173275,ZNF449,Q6P9G9,2,518,5,1.0,39,False,300,0.42,Zinc finger protein 449 (Zinc finger and SCAN domain-contain
+ENSG00000186416,NKRF,O15226,2,690,4,1.0,39,False,424,0.39,NF-kappa-B-repressing factor (NFkB-repressing factor) (NRF) 
+ENSG00000071246,VASH1,Q7L8A9,2,365,9,1.0,38,False,245,0.34,Tubulinyl-Tyr carboxypeptidase 1 (EC 3.4.17.17) (Tubulin car
+ENSG00000104853,CLPTM1,O96005,3,669,17,1.0,38,False,506,0.25,Putative lipid scramblase CLPTM1 (Cleft lip and palate trans
+ENSG00000114698,PLSCR4,Q9NRQ2,2,329,10,1.0,38,False,227,0.32,Phospholipid scramblase 4 (PL scramblase 4) (Ca(2+)-dependen
+ENSG00000133247,KMT5C,Q86Y97,2,462,10,1.0,38,False,217,0.54,Histone-lysine N-methyltransferase KMT5C (Lysine N-methyltra
+ENSG00000154957,ZNF18,P17022,2,549,8,1.0,38,False,241,0.56,Zinc finger protein 18 (Heart development-specific gene 1 pr
+ENSG00000168079,SCARA5,Q6ZMJ2,4,495,11,1.0,38,False,350,0.3,Scavenger receptor class A member 5 (Scavenger receptor hlg)
+ENSG00000185630,PBX1,P40424,3,430,13,1.0,38,False,214,0.51,Pre-B-cell leukemia transcription factor 1 (Homeobox protein
+ENSG00000196792,STRN3,Q13033,2,797,20,1.0,38,False,463,0.43,Striatin-3 (Cell cycle autoantigen SG2NA) (S/G2 antigen)
+ENSG00000213672,NCKIPSD,Q9NZQ3,2,722,14,1.0,38,False,524,0.28,NCK-interacting protein with SH3 domain (54 kDa VacA-interac
+ENSG00000221978,CCNL2,Q96S94,4,520,18,1.0,38,False,276,0.47,Cyclin-L2 (Paneth cell-enhanced expression protein)
+ENSG00000272886,DCP1A,Q9NPI6,2,582,11,1.0,38,False,173,0.7,mRNA-decapping enzyme 1A (EC 3.6.1.62) (Smad4-interacting tr
+ENSG00000068078,FGFR3,P22607,3,806,20,1.0,37,False,596,0.27,Fibroblast growth factor receptor 3 (FGFR-3) (EC 2.7.10.1) (
+ENSG00000096264,NCR2,O95944,3,276,9,1.0,37,False,157,0.44,Natural cytotoxicity triggering receptor 2 (Lymphocyte antig
+ENSG00000103154,NECAB2,Q7Z6G3,2,386,15,1.0,37,False,282,0.28,N-terminal EF-hand calcium-binding protein 2 (EF-hand calciu
+ENSG00000104375,STK3,Q13188,2,491,13,1.0,37,False,367,0.26,Serine/threonine-protein kinase 3 (EC 2.7.11.1) (Mammalian S
+ENSG00000145817,YIPF5,Q969M3,2,257,6,1.0,37,False,170,0.35,Protein YIPF5 (Five-pass transmembrane protein localizing in
+ENSG00000149532,CPSF7,Q8N684,3,471,11,1.0,37,False,152,0.68,Cleavage and polyadenylation specificity factor subunit 7 (C
+ENSG00000149571,KIRREL3,Q8IZU9,2,778,19,1.0,37,False,503,0.36,Kin of IRRE-like protein 3 (Kin of irregular chiasm-like pro
+ENSG00000156738,MS4A1,P11836,2,297,8,1.0,37,False,181,0.39,B-lymphocyte antigen CD20 (B-lymphocyte surface antigen B1) 
+ENSG00000162735,PEX19,P40855,2,299,10,1.0,37,False,181,0.4,Peroxisomal biogenesis factor 19 (33 kDa housekeeping protei
+ENSG00000164144,ARFIP1,P53367,3,373,9,1.0,37,False,265,0.3,Arfaptin-1 (ADP-ribosylation factor-interacting protein 1)
+ENSG00000165633,VSTM4,Q8IW00,2,320,10,1.0,37,False,156,0.52,V-set and transmembrane domain-containing protein 4 [Cleaved
+ENSG00000167377,ZNF23,P17027,2,643,4,1.0,37,False,453,0.3,Zinc finger protein 23 (Zinc finger protein 359) (Zinc finge
+ENSG00000173406,DAB1,O75553,4,588,19,1.0,37,False,184,0.69,Disabled homolog 1
+ENSG00000188732,FAM221A,A4D161,3,298,9,1.0,37,False,173,0.43,Protein FAM221A
+ENSG00000213390,ARHGAP19,Q14CB8,3,494,15,1.0,37,False,333,0.33,Rho GTPase-activating protein 19 (Rho-type GTPase-activating
+ENSG00000012822,CALCOCO1,Q9P1Z2,4,691,17,1.0,36,False,516,0.26,Calcium-binding and coiled-coil domain-containing protein 1 
+ENSG00000074219,TEAD2,Q15562,4,447,16,1.0,36,False,296,0.34,Transcriptional enhancer factor TEF-4 (TEA domain family mem
+ENSG00000117748,RPA2,P15927,3,270,11,1.0,36,False,198,0.27,Replication protein A 32 kDa subunit (RP-A p32) (Replication
+ENSG00000137936,BCAR3,O75815,3,825,14,1.0,36,False,495,0.4,Breast cancer anti-estrogen resistance protein 3 (Novel SH2-
+ENSG00000149201,CCDC81,Q6ZN84,3,652,19,1.0,36,False,471,0.29,Coiled-coil domain-containing protein 81
+ENSG00000153560,UBP1,Q9NZI7,2,540,17,1.0,36,False,394,0.28,Upstream-binding protein 1 (Transcription factor LBP-1)
+ENSG00000154832,CXXC1,Q9P0U4,2,656,18,1.0,36,False,365,0.45,CXXC-type zinc finger protein 1 (CpG-binding protein) (PHD f
+ENSG00000166037,CEP57,Q86XR8,4,500,16,0.94,36,False,297,0.41,Centrosomal protein of 57 kDa (Cep57) (FGF2-interacting prot
+ENSG00000166167,BTRC,Q9Y297,2,605,15,1.0,36,False,462,0.24,F-box/WD repeat-containing protein 1A (E3RSIkappaB) (Epididy
+ENSG00000169118,CSNK1G1,Q9HCP0,2,422,13,1.0,36,False,299,0.3,Casein kinase I isoform gamma-1 (CKI-gamma 1) (EC 2.7.11.1)
+ENSG00000197343,ZNF655,Q8N720,4,491,8,1.0,36,False,233,0.53,Zinc finger protein 655 (Vav-interacting Krueppel-like prote
+ENSG00000244588,RAD21L1,Q9H4I0,2,556,15,1.0,36,False,297,0.47,Double-strand-break repair protein rad21-like protein 1
+ENSG00000004660,CAMKK1,Q8N5S9,2,505,17,1.0,35,False,278,0.46,Calcium/calmodulin-dependent protein kinase kinase 1 (CaM-KK
+ENSG00000012061,ERCC1,P07992,4,297,12,1.0,35,False,193,0.35,DNA excision repair protein ERCC-1
+ENSG00000063587,ZNF275,Q9NSD4,2,429,4,1.0,35,False,303,0.3,Zinc finger protein 275
+ENSG00000077420,APBB1IP,Q7Z5R6,2,666,14,1.0,35,False,300,0.55,Amyloid beta A4 precursor protein-binding family B member 1-
+ENSG00000089818,NECAP1,Q8NC96,2,275,10,1.0,35,False,165,0.41,Adaptin ear-binding coat-associated protein 1 (NECAP endocyt
+ENSG00000099889,ARVCF,O00192,2,962,19,1.0,35,False,483,0.5,Splicing regulator ARVCF (Armadillo repeat protein deleted i
+ENSG00000101849,TBL1X,O60907,2,577,17,1.0,35,False,469,0.2,F-box-like/WD repeat-containing protein TBL1X (SMAP55) (Tran
+ENSG00000124535,WRNIP1,Q96S55,4,665,11,1.0,35,False,454,0.32,ATPase WRNIP1 (EC 3.6.1.-) (Werner helicase-interacting prot
+ENSG00000143369,ECM1,Q16610,3,540,14,1.0,35,False,314,0.42,Extracellular matrix protein 1 (Secretory component p85)
+ENSG00000153046,CDYL,Q9Y232,3,598,11,1.0,35,False,264,0.56,Chromodomain Y-like protein (CDY-like) (Crotonyl-CoA hydrata
+ENSG00000162437,RAVER2,Q9HCJ3,2,691,15,1.0,35,False,307,0.56,Ribonucleoprotein PTB-binding 2 (Protein raver-2)
+ENSG00000164631,ZNF12,P17014,3,697,7,1.0,35,False,492,0.3,Zinc finger protein 12 (Gonadotropin-inducible ovary transcr
+ENSG00000172795,DCP2,Q8IU60,2,420,13,1.0,35,False,243,0.43,m7GpppN-mRNA hydrolase (EC 3.6.1.62) (Nucleoside diphosphate
+ENSG00000176155,CCDC57,Q2TAC2,2,915,17,1.0,35,False,558,0.4,Coiled-coil domain-containing protein 57
+ENSG00000197256,KANK2,Q63ZY3,3,851,15,1.0,35,False,311,0.64,KN motif and ankyrin repeat domain-containing protein 2 (Ank
+ENSG00000197965,MPZL1,O95297,3,269,10,1.0,35,False,196,0.28,Myelin protein zero-like protein 1 (Protein zero-related)
+ENSG00000198728,LDB1,Q86U70,2,411,12,1.0,35,False,230,0.45,LIM domain-binding protein 1 (LDB-1) (Carboxyl-terminal LIM 
+ENSG00000067365,METTL22,Q9BUU2,2,404,11,1.0,34,False,242,0.41,Methyltransferase-like protein 22 (EC 2.1.1.-)
+ENSG00000078061,ARAF,P10398,2,606,16,1.0,34,False,461,0.25,Serine/threonine-protein kinase A-Raf (EC 2.7.11.1) (Proto-o
+ENSG00000111859,NEDD9,Q14511,3,834,11,1.0,34,False,326,0.61,Enhancer of filamentation 1 (hEF1) (CRK-associated substrate
+ENSG00000125775,SDCBP2,Q9H190,2,292,9,1.0,34,False,205,0.31,Syntenin-2 (Similar to TACIP18) (SITAC) (Syndecan-binding pr
+ENSG00000132122,SPATA6,Q9NWH7,2,488,16,1.0,34,False,175,0.65,Spermatogenesis-associated protein 6
+ENSG00000148925,BTBD10,Q9BSF8,2,475,10,1.0,34,False,267,0.44,BTB/POZ domain-containing protein 10 (Glucose metabolism-rel
+ENSG00000158062,UBXN11,Q5T124,3,520,14,1.0,34,False,379,0.28,UBX domain-containing protein 11 (Colorectal tumor-associate
+ENSG00000163660,CCNL1,Q9UK58,4,526,16,1.0,34,False,242,0.54,Cyclin-L1 (Cyclin-L)
+ENSG00000185278,ZBTB37,Q5TC79,3,503,6,1.0,34,False,237,0.53,Zinc finger and BTB domain-containing protein 37
+ENSG00000007129,CEACAM21,Q3KPI0,3,293,10,1.0,33,False,198,0.34,Cell adhesion molecule CEACAM21 (Carcinoembryonic antigen-re
+ENSG00000013725,CD6,P30203,4,668,17,1.0,33,False,295,0.57,T-cell differentiation antigen CD6 (T12) (TP120) (CD antigen
+ENSG00000088448,ANKRD10,Q9NXR5,2,420,9,1.0,33,False,196,0.54,Ankyrin repeat domain-containing protein 10
+ENSG00000114423,CBLB,Q13191,3,982,20,1.0,33,False,458,0.54,E3 ubiquitin-protein ligase CBL-B (EC 2.3.2.27) (Casitas B-l
+ENSG00000121594,CD80,P33681,2,288,7,1.0,33,False,136,0.53,T-lymphocyte activation antigen CD80 (Activation B7-1 antige
+ENSG00000130803,ZNF317,Q96PQ6,2,595,7,1.0,33,False,376,0.37,Zinc finger protein 317
+ENSG00000132254,ARFIP2,P53365,3,341,11,1.0,33,False,257,0.25,Arfaptin-2 (ADP-ribosylation factor-interacting protein 2) (
+ENSG00000137070,IL11RA,Q14626,2,422,13,1.0,33,False,289,0.33,Interleukin-11 receptor subunit alpha (IL-11 receptor subuni
+ENSG00000137221,TJAP1,Q5JTD0,2,557,9,1.0,33,False,168,0.7,Tight junction-associated protein 1 (Protein incorporated la
+ENSG00000138757,G3BP2,Q9UN86,2,482,12,1.0,33,False,217,0.55,Ras GTPase-activating protein-binding protein 2 (G3BP-2) (GA
+ENSG00000141198,TOM1L1,O75674,3,476,18,1.0,33,False,254,0.47,TOM1-like protein 1 (Src-activating and signaling molecule p
+ENSG00000143434,SEMA6C,Q9H3T2,3,930,18,1.0,33,False,532,0.44,Semaphorin-6C (Semaphorin-Y) (Sema Y)
+ENSG00000145907,G3BP1,Q13283,2,466,12,1.0,33,False,210,0.55,Ras GTPase-activating protein-binding protein 1 (G3BP-1) (EC
+ENSG00000147854,UHRF2,Q96PU4,2,802,18,0.97,33,False,634,0.22,E3 ubiquitin-protein ligase UHRF2 (EC 2.3.2.27) (Np95/ICBP90
+ENSG00000148700,ADD3,Q9UEY8,2,706,14,1.0,33,False,399,0.44,Gamma-adducin (Adducin-like protein 70)
+ENSG00000149599,DUSP15,Q9H1R2,4,295,14,1.0,33,False,142,0.53,Dual specificity protein phosphatase 15 (EC 3.1.3.16) (EC 3.
+ENSG00000159917,ZNF235,Q14590,2,738,6,0.97,33,False,470,0.36,Zinc finger protein 235 (Zinc finger protein 270) (Zinc fing
+ENSG00000160226,CFAP410,O43822,3,256,11,1.0,33,False,135,0.48,Cilia- and flagella-associated protein 410 (C21orf-HUMF09G8.
+ENSG00000162924,REL,Q04864,2,619,13,1.0,33,False,273,0.57,Proto-oncogene c-Rel
+ENSG00000163071,SPATA18,Q8TC71,2,538,14,1.0,33,False,264,0.51,Mitochondria-eating protein (Spermatogenesis-associated prot
+ENSG00000163141,BNIPL,Q7Z465,3,357,13,1.0,33,False,199,0.46,Bcl-2/adenovirus E1B 19 kDa-interacting protein 2-like prote
+ENSG00000168509,HJV,Q6ZVN8,3,426,6,1.0,33,False,291,0.32,Hemojuvelin (Hemochromatosis type 2 protein) (Hemojuvelin BM
+ENSG00000168995,SIGLEC7,Q9Y286,4,467,12,1.0,33,False,324,0.31,Sialic acid-binding Ig-like lectin 7 (Siglec-7) (Adhesion in
+ENSG00000175224,ATG13,O75143,4,517,18,1.0,33,False,283,0.46,Autophagy-related protein 13
+ENSG00000186017,ZNF566,Q969W8,2,418,5,1.0,33,False,223,0.47,Zinc finger protein 566
+ENSG00000198464,ZNF480,Q8WV37,2,535,6,1.0,33,False,384,0.28,Zinc finger protein 480
+ENSG00000204104,TRAF3IP1,Q8TDR0,2,691,19,1.0,33,False,256,0.63,TRAF3-interacting protein 1 (Interleukin-13 receptor alpha 1
+ENSG00000056998,GYG2,O15488,4,501,15,1.0,32,False,306,0.4,Glycogenin-2 (GN-2) (GN2) (EC 2.4.1.186)
+ENSG00000101019,UQCC1,Q9NVA1,4,299,14,1.0,32,False,193,0.36,Ubiquinol-cytochrome c reductase complex assembly factor 1 (
+ENSG00000117595,IRF6,O14896,2,467,9,1.0,32,False,354,0.25,Interferon regulatory factor 6 (IRF-6)
+ENSG00000120949,TNFRSF8,P28908,3,595,19,1.0,32,False,228,0.62,Tumor necrosis factor receptor superfamily member 8 (CD30L r
+ENSG00000127483,HP1BP3,Q5SSJ5,4,553,16,1.0,32,False,235,0.58,Heterochromatin protein 1-binding protein 3 (Protein HP1-BP7
+ENSG00000135486,HNRNPA1,P09651,3,372,13,1.0,32,False,185,0.51,Heterogeneous nuclear ribonucleoprotein A1 (hnRNP A1) (Helix
+ENSG00000158552,ZFAND2B,Q8WV99,2,257,11,1.0,32,False,132,0.49,AN1-type zinc finger protein 2B (Arsenite-inducible RNA-asso
+ENSG00000159885,ZNF222,Q9UK12,2,451,6,1.0,32,False,320,0.29,Zinc finger protein 222
+ENSG00000160712,IL6R,P08887,2,468,12,1.0,32,False,283,0.4,Interleukin-6 receptor subunit alpha (IL-6 receptor subunit 
+ENSG00000166435,XRRA1,Q6P2D8,3,792,19,1.0,32,False,386,0.52,X-ray radiation resistance-associated protein 1
+ENSG00000166478,ZNF143,P52747,3,638,17,1.0,32,False,202,0.69,Zinc finger protein 143 (SPH-binding factor) (Selenocysteine
+ENSG00000169218,RSPO1,Q2MKA7,3,263,6,1.0,32,False,136,0.49,R-spondin-1 (Roof plate-specific spondin-1) (hRspo1)
+ENSG00000169599,NFU1,Q9UMS0,3,254,11,1.0,32,False,204,0.21,"NFU1 iron-sulfur cluster scaffold homolog, mitochondrial (HI"
+ENSG00000174243,DDX23,Q9BUQ8,2,820,17,1.0,32,False,536,0.35,Probable ATP-dependent RNA helicase DDX23 (EC 3.6.4.13) (100
+ENSG00000175697,GPR156,Q8NFN8,2,814,12,1.0,32,False,291,0.64,Probable G-protein coupled receptor 156 (G-protein coupled r
+ENSG00000177455,CD19,P15391,2,556,16,1.0,32,False,305,0.46,B-lymphocyte antigen CD19 (B-lymphocyte surface antigen B4) 
+ENSG00000182568,SATB1,Q01826,2,763,12,1.0,32,False,383,0.5,DNA-binding protein SATB1 (Special AT-rich sequence-binding 
+ENSG00000081842,PCDHA6,Q9UN73,3,950,7,1.0,31,False,638,0.33,Protocadherin alpha-6 (PCDH-alpha-6)
+ENSG00000081853,PCDHGA2,Q9Y5H1,2,932,5,1.0,31,False,690,0.26,Protocadherin gamma-A2 (PCDH-gamma-A2)
+ENSG00000088833,NSFL1C,Q9UNZ2,3,370,12,1.0,31,False,190,0.49,NSFL1 cofactor p47 (UBX domain-containing protein 2C) (p97 c
+ENSG00000102362,SYTL4,Q96C24,2,671,17,1.0,31,False,453,0.33,Synaptotagmin-like protein 4 (Exophilin-2) (Granuphilin)
+ENSG00000108001,EBF3,Q9H4W6,2,596,19,1.0,31,False,393,0.35,Transcription factor COE3 (Early B-cell factor 3) (EBF-3) (O
+ENSG00000114416,FXR1,P51114,3,621,20,1.0,31,False,380,0.39,RNA-binding protein FXR1 (FMR1 autosomal homolog 1) (hFXR1p)
+ENSG00000130159,ECSIT,Q9BQ95,4,431,11,1.0,31,False,327,0.25,Evolutionarily conserved signaling intermediate in Toll path
+ENSG00000133884,DPF2,Q92785,2,391,12,1.0,31,False,198,0.5,Zinc finger protein ubi-d4 (Apoptosis response zinc finger p
+ENSG00000151575,TEX9,Q8N6V9,2,391,14,1.0,31,False,236,0.4,Testis-expressed protein 9
+ENSG00000162599,NFIA,Q12857,4,509,16,1.0,31,False,185,0.64,Nuclear factor 1 A-type (NF1-A) (Nuclear factor 1/A) (CCAAT-
+ENSG00000165802,NSMF,Q6X4W1,4,530,17,1.0,31,False,191,0.65,NMDA receptor synaptonuclear signaling and neuronal migratio
+ENSG00000176531,PHLDB3,Q6NSJ2,2,640,16,1.0,31,False,245,0.62,Pleckstrin homology-like domain family B member 3
+ENSG00000183580,FBXL7,Q9UJT9,2,491,6,1.0,31,False,378,0.23,F-box/LRR-repeat protein 7 (F-box and leucine-rich repeat pr
+ENSG00000198909,MAP3K3,Q99759,2,626,19,1.0,31,False,335,0.47,Mitogen-activated protein kinase kinase kinase 3 (EC 2.7.11.
+ENSG00000198920,KIAA0753,Q2KHM9,2,967,20,1.0,31,False,475,0.51,Protein moonraker (MNR) (OFD1- and FOPNL-interacting protein
+ENSG00000204160,ZDHHC18,Q9NUE0,2,388,9,1.0,31,False,292,0.26,Palmitoyltransferase ZDHHC18 (EC 2.3.1.225) (DHHC domain-con
+ENSG00000204956,PCDHGA1,Q9Y5H4,2,931,5,1.0,31,False,688,0.26,Protocadherin gamma-A1 (PCDH-gamma-A1)
+ENSG00000204961,PCDHA9,Q9Y5H5,2,950,5,1.0,31,False,628,0.34,Protocadherin alpha-9 (PCDH-alpha-9)
+ENSG00000204962,PCDHA8,Q9Y5H6,2,950,5,1.0,31,False,638,0.33,Protocadherin alpha-8 (PCDH-alpha-8)
+ENSG00000204963,PCDHA7,Q9UN72,2,937,5,1.0,31,False,634,0.32,Protocadherin alpha-7 (PCDH-alpha-7)
+ENSG00000204965,PCDHA5,Q9Y5H7,3,936,8,1.0,31,False,639,0.32,Protocadherin alpha-5 (PCDH-alpha-5)
+ENSG00000204967,PCDHA4,Q9UN74,2,947,5,1.0,31,False,645,0.32,Protocadherin alpha-4 (PCDH-alpha-4)
+ENSG00000204969,PCDHA2,Q9Y5H9,3,948,7,1.0,31,False,642,0.32,Protocadherin alpha-2 (PCDH-alpha-2)
+ENSG00000204970,PCDHA1,Q9Y5I3,3,950,7,1.0,31,False,641,0.33,Protocadherin alpha-1 (PCDH-alpha-1)
+ENSG00000239389,PCDHA13,Q9Y5I0,2,950,5,1.0,31,False,638,0.33,Protocadherin alpha-13 (PCDH-alpha-13)
+ENSG00000240184,PCDHGC3,Q9UN70,2,934,5,1.0,31,False,611,0.35,Protocadherin gamma-C3 (PCDH-gamma-C3) (Protocadherin-2) (Pr
+ENSG00000240764,PCDHGC5,Q9Y5F6,2,944,5,1.0,31,False,623,0.34,Protocadherin gamma-C5 (PCDH-gamma-C5)
+ENSG00000242419,PCDHGC4,Q9Y5F7,2,938,5,1.0,31,False,622,0.34,Protocadherin gamma-C4 (PCDH-gamma-C4)
+ENSG00000248383,PCDHAC1,Q9H158,2,963,5,1.0,31,False,663,0.31,Protocadherin alpha-C1 (PCDH-alpha-C1)
+ENSG00000249158,PCDHA11,Q9Y5I1,2,949,5,1.0,31,False,634,0.33,Protocadherin alpha-11 (PCDH-alpha-11)
+ENSG00000250120,PCDHA10,Q9Y5I2,3,948,7,1.0,31,False,639,0.33,Protocadherin alpha-10 (PCDH-alpha-10)
+ENSG00000251664,PCDHA12,Q9UN75,2,941,5,1.0,31,False,637,0.32,Protocadherin alpha-12 (PCDH-alpha-12)
+ENSG00000253159,PCDHGA12,O60330,2,932,5,1.0,31,False,643,0.31,Protocadherin gamma-A12 (PCDH-gamma-A12) (Cadherin-21) (Fibr
+ENSG00000253305,PCDHGB6,Q9Y5F9,2,930,5,1.0,31,False,688,0.26,Protocadherin gamma-B6 (PCDH-gamma-B6)
+ENSG00000253485,PCDHGA5,Q9Y5G8,2,931,5,1.0,31,False,692,0.26,Protocadherin gamma-A5 (PCDH-gamma-A5)
+ENSG00000253537,PCDHGA7,Q9Y5G6,2,932,5,1.0,31,False,645,0.31,Protocadherin gamma-A7 (PCDH-gamma-A7)
+ENSG00000253731,PCDHGA6,Q9Y5G7,2,932,5,1.0,31,False,645,0.31,Protocadherin gamma-A6 (PCDH-gamma-A6)
+ENSG00000253767,PCDHGA8,Q9Y5G5,2,932,5,1.0,31,False,637,0.32,Protocadherin gamma-A8 (PCDH-gamma-A8)
+ENSG00000253846,PCDHGA10,Q9Y5H3,2,936,5,1.0,31,False,646,0.31,Protocadherin gamma-A10 (PCDH-gamma-A10)
+ENSG00000253873,PCDHGA11,Q9Y5H2,3,935,7,1.0,31,False,682,0.27,Protocadherin gamma-A11 (PCDH-gamma-A11)
+ENSG00000253910,PCDHGB2,Q9Y5G2,2,931,5,1.0,31,False,685,0.27,Protocadherin gamma-B2 (PCDH-gamma-B2)
+ENSG00000253953,PCDHGB4,Q9UN71,2,923,5,1.0,31,False,680,0.26,Protocadherin gamma-B4 (PCDH-gamma-B4) (Cadherin-20) (Fibrob
+ENSG00000254122,PCDHGB7,Q9Y5F8,2,929,5,1.0,31,False,685,0.26,Protocadherin gamma-B7 (PCDH-gamma-B7)
+ENSG00000254221,PCDHGB1,Q9Y5G3,2,927,5,1.0,31,False,680,0.27,Protocadherin gamma-B1 (PCDH-gamma-B1)
+ENSG00000254245,PCDHGA3,Q9Y5H0,2,932,5,1.0,31,False,643,0.31,Protocadherin gamma-A3 (PCDH-gamma-A3)
+ENSG00000255408,PCDHA3,Q9Y5H8,2,950,5,1.0,31,False,639,0.33,Protocadherin alpha-3 (PCDH-alpha-3)
+ENSG00000261934,PCDHGA9,Q9Y5G4,2,932,5,1.0,31,False,688,0.26,Protocadherin gamma-A9 (PCDH-gamma-A9)
+ENSG00000262209,PCDHGB3,Q9Y5G1,2,929,5,1.0,31,False,639,0.31,Protocadherin gamma-B3 (PCDH-gamma-B3)
+ENSG00000262576,PCDHGA4,Q9Y5G9,2,962,5,1.0,31,False,606,0.37,Protocadherin gamma-A4 (PCDH-gamma-A4)
+ENSG00000276547,PCDHGB5,Q9Y5G0,2,923,5,1.0,31,False,676,0.27,Protocadherin gamma-B5 (PCDH-gamma-B5)
+ENSG00000075340,ADD2,P35612,4,726,20,1.0,30,False,371,0.49,Beta-adducin (Erythrocyte adducin subunit beta)
+ENSG00000079102,RUNX1T1,Q06455,4,604,14,1.0,30,False,276,0.55,Protein CBFA2T1 (Cyclin-D-related protein) (Eight twenty one
+ENSG00000105173,CCNE1,P24864,2,410,13,1.0,30,False,278,0.33,G1/S-specific cyclin-E1
+ENSG00000106070,GRB10,Q13322,3,594,17,1.0,30,False,377,0.37,Growth factor receptor-bound protein 10 (GRB10 adapter prote
+ENSG00000111783,RFX4,Q33E94,3,735,20,1.0,30,False,442,0.41,Transcription factor RFX4 (Regulatory factor X 4) (Testis de
+ENSG00000126453,BCL2L12,Q9HB09,3,250,10,1.0,30,False,170,0.33,Bcl-2-like protein 12 (Bcl2-L-12) (Bcl-2-related proline-ric
+ENSG00000132704,FCRL2,Q96LA5,3,508,15,1.0,30,False,387,0.25,Fc receptor-like protein 2 (FcR-like protein 2) (FcRL2) (Fc 
+ENSG00000137821,LRRC49,Q8IUZ0,4,686,20,1.0,30,False,502,0.27,Leucine-rich repeat-containing protein 49 (Centriolar satell
+ENSG00000167081,PBX3,P40426,3,434,12,1.0,30,False,224,0.49,Pre-B-cell leukemia transcription factor 3 (Homeobox protein
+ENSG00000167384,ZNF180,Q9UJW8,3,692,7,1.0,30,False,341,0.51,Zinc finger protein 180 (HHZ168)
+ENSG00000171466,ZNF562,Q6V9R5,2,426,5,1.0,30,False,198,0.54,Zinc finger protein 562
+ENSG00000181666,ZNF875,P10072,2,659,6,1.0,30,False,414,0.37,Zinc finger protein 875 (Krueppel-related zinc finger protei
+ENSG00000185013,NT5C1B,Q96P26,2,610,10,1.0,30,False,378,0.38,Cytosolic 5'-nucleotidase 1B (cN1B) (EC 3.1.3.5) (Autoimmune
+ENSG00000188176,SMTNL2,Q2TAL5,2,461,10,1.0,30,False,201,0.57,Smoothelin-like protein 2
+ENSG00000188818,ZDHHC11,Q9H8X9,2,412,13,1.0,30,False,261,0.38,Palmitoyltransferase ZDHHC11 (EC 2.3.1.225) (Zinc finger DHH
+ENSG00000020922,MRE11,P49959,3,708,20,1.0,29,False,515,0.28,Double-strand break repair protein MRE11 (EC 3.1.-.-) (Meiot
+ENSG00000039560,RAI14,Q9P0K7,4,980,20,1.0,29,False,743,0.25,Ankycorbin (Ankyrin repeat and coiled-coil structure-contain
+ENSG00000049130,KITLG,P21583,2,273,10,1.0,29,False,161,0.42,Kit ligand (Mast cell growth factor) (MGF) (Stem cell factor
+ENSG00000100227,POLDIP3,Q9BY77,2,421,11,1.0,29,False,137,0.68,Polymerase delta-interacting protein 3 (46 kDa DNA polymeras
+ENSG00000104938,CLEC4M,Q9H2X3,2,399,9,1.0,29,False,312,0.23,C-type lectin domain family 4 member M (CD209 antigen-like p
+ENSG00000111801,BTN3A3,O00478,2,584,11,0.93,29,False,461,0.22,Butyrophilin subfamily 3 member A3
+ENSG00000112562,SMOC2,Q9H3U7,2,446,16,1.0,29,False,203,0.55,SPARC-related modular calcium-binding protein 2 (Secreted mo
+ENSG00000119403,PHF19,Q5T6S3,2,580,15,1.0,29,False,366,0.38,PHD finger protein 19 (Polycomb-like protein 3) (hPCL3)
+ENSG00000131095,GFAP,P14136,3,432,12,1.0,29,False,315,0.28,Glial fibrillary acidic protein (GFAP)
+ENSG00000135365,PHF21A,Q96BD5,3,680,18,1.0,29,False,205,0.7,PHD finger protein 21A (BHC80a) (BRAF35-HDAC complex protein
+ENSG00000145850,TIMD4,Q96H15,2,378,9,1.0,29,False,134,0.65,T-cell immunoglobulin and mucin domain-containing protein 4 
+ENSG00000149295,DRD2,P14416,3,443,11,1.0,29,False,282,0.37,D(2) dopamine receptor (Dopamine D2 receptor)
+ENSG00000157833,GAREM2,Q75VX8,2,874,9,1.0,29,False,392,0.55,GRB2-associated and regulator of MAPK protein 2 (GRB2-associ
+ENSG00000162624,LHX8,Q68G74,2,356,10,1.0,29,False,183,0.49,LIM/homeobox protein Lhx8 (LIM homeobox protein 8)
+ENSG00000163945,UVSSA,Q2YD98,2,709,15,1.0,29,False,434,0.39,UV-stimulated scaffold protein A
+ENSG00000165185,KIAA1958,Q8N8K9,3,716,5,1.0,29,False,398,0.44,Uncharacterized protein KIAA1958
+ENSG00000170100,ZNF778,Q96MU6,2,729,7,1.0,29,False,480,0.34,Zinc finger protein 778
+ENSG00000174628,IQCK,Q8N0W5,2,287,11,0.97,29,False,169,0.42,IQ domain-containing protein K
+ENSG00000181163,NPM1,P06748,3,294,14,1.0,29,False,158,0.47,Nucleophosmin (NPM) (Nucleolar phosphoprotein B23) (Nucleola
+ENSG00000185252,ZNF74,Q16587,3,644,11,1.0,29,False,374,0.42,Zinc finger protein 74 (Zinc finger protein 520) (hZNF7)
+ENSG00000186654,PRR5,P85299,4,388,13,1.0,29,False,206,0.47,Proline-rich protein 5 (Protein observed with Rictor-1) (Pro
+ENSG00000092871,RFFL,Q8WZ73,3,363,6,1.0,28,False,213,0.42,E3 ubiquitin-protein ligase rififylin (EC 2.3.2.27) (Caspase
+ENSG00000093000,NUP50,Q9UKX7,2,468,8,1.0,28,False,169,0.64,Nuclear pore complex protein Nup50 (50 kDa nucleoporin) (Nuc
+ENSG00000105325,FZR1,Q9UM11,3,496,16,1.0,28,False,319,0.36,Fizzy-related protein homolog (Fzr) (CDC20-like protein 1) (
+ENSG00000108523,RNF167,Q9H6Y7,2,350,10,1.0,28,False,237,0.33,E3 ubiquitin-protein ligase RNF167 (EC 2.3.2.27) (RING finge
+ENSG00000109943,CRTAM,O95727,2,393,11,1.0,28,False,237,0.41,Cytotoxic and regulatory T-cell molecule (Class-I MHC-restri
+ENSG00000111261,MANSC1,Q9H8J5,2,431,6,1.0,28,False,178,0.59,MANSC domain-containing protein 1 (Loss of heterozygosity 12
+ENSG00000131351,HAUS8,Q9BT25,3,410,14,1.0,28,False,192,0.54,HAUS augmin-like complex subunit 8 (HEC1/NDC80-interacting c
+ENSG00000134352,IL6ST,P40189,3,918,16,1.0,28,False,634,0.32,Interleukin-6 receptor subunit beta (IL-6 receptor subunit b
+ENSG00000140488,CELF6,Q96J87,4,481,15,1.0,28,False,275,0.44,CUGBP Elav-like family member 6 (CELF-6) (Bruno-like protein
+ENSG00000152229,PSTPIP2,Q9H939,2,334,19,1.0,28,False,261,0.23,Proline-serine-threonine phosphatase-interacting protein 2 (
+ENSG00000152359,POC5,Q8NA72,3,575,13,1.0,28,False,221,0.62,Centrosomal protein POC5 (Protein of centriole 5) (hPOC5)
+ENSG00000158079,PTPDC1,A2A3K4,2,754,10,1.0,28,False,474,0.38,Protein tyrosine phosphatase domain-containing protein 1 (EC
+ENSG00000162520,SYNC,Q9H7C4,2,482,7,0.96,28,False,287,0.41,Syncoilin (Syncoilin intermediate filament 1) (Syncoilin-1)
+ENSG00000162576,MXRA8,Q9BRK3,4,442,17,1.0,28,False,255,0.43,Matrix remodeling-associated protein 8 (Limitrin)
+ENSG00000162739,SLAMF6,Q96DU3,3,332,11,1.0,28,False,254,0.25,SLAM family member 6 (Activating NK receptor) (NK-T-B-antige
+ENSG00000175106,TVP23C,Q96ET8,2,276,8,0.96,28,False,132,0.52,Golgi apparatus membrane protein TVP23 homolog C
+ENSG00000176896,TCEANC,Q8N8B7,2,351,3,1.0,28,False,261,0.26,Transcription elongation factor A N-terminal and central dom
+ENSG00000182389,CACNB4,O00305,4,520,18,1.0,28,False,293,0.44,Voltage-dependent L-type calcium channel subunit beta-4 (CAB
+ENSG00000196605,ZNF846,Q147U1,2,533,6,1.0,28,False,395,0.26,Zinc finger protein 846
+ENSG00000110786,PTPN5,P54829,3,565,17,1.0,27,False,456,0.2,Tyrosine-protein phosphatase non-receptor type 5 (EC 3.1.3.4
+ENSG00000116191,RALGPS2,Q86X27,2,583,20,1.0,27,False,382,0.35,Ras-specific guanine nucleotide-releasing factor RalGPS2 (Ra
+ENSG00000127564,PKMYT1,Q99640,4,499,14,1.0,27,False,298,0.41,Membrane-associated tyrosine- and threonine-specific cdc2-in
+ENSG00000129990,SYT5,O00445,2,386,10,1.0,27,False,284,0.27,Synaptotagmin-5 (Synaptotagmin V) (SytV)
+ENSG00000136104,RNASEH2B,Q5TBB1,2,312,13,1.0,27,False,188,0.41,Ribonuclease H2 subunit B (RNase H2 subunit B) (Aicardi-Gout
+ENSG00000147180,ZNF711,Q9Y462,2,761,9,1.0,27,False,346,0.55,Zinc finger protein 711 (Zinc finger protein 6)
+ENSG00000164674,SYTL3,Q4VX76,2,610,16,1.0,27,False,480,0.22,Synaptotagmin-like protein 3 (Exophilin-6)
+ENSG00000177873,ZNF619,Q8N2I2,4,560,9,1.0,27,False,278,0.51,Zinc finger protein 619
+ENSG00000180881,CAPS2,Q9BXY5,3,538,20,1.0,27,False,328,0.4,Calcyphosin-2 (Calcyphosine-2)
+ENSG00000183570,PCBP3,P57721,4,371,15,1.0,27,False,251,0.33,Poly(rC)-binding protein 3 (Alpha-CP3) (PCBP3-overlapping tr
+ENSG00000101665,SMAD7,O15105,3,426,8,1.0,26,False,302,0.3,SMAD family member 7 (SMAD 7) (hSMAD7) (Mothers against deca
+ENSG00000104983,CCDC61,Q9Y6R9,2,512,13,1.0,26,False,278,0.47,Centrosomal protein CCDC61 (Coiled-coil domain-containing pr
+ENSG00000116521,SCAMP3,O14828,2,347,11,1.0,26,False,184,0.48,Secretory carrier-associated membrane protein 3 (Secretory c
+ENSG00000136295,TTYH3,Q9C0H2,4,523,19,1.0,26,False,413,0.22,Protein tweety homolog 3 (hTTY3) (Volume-regulated anion cha
+ENSG00000149596,JPH2,Q9BR39,2,696,7,1.0,26,False,299,0.57,Junctophilin-2 (JP-2) (Junctophilin type 2) [Cleaved into: J
+ENSG00000149922,TBX6,O95947,2,436,9,1.0,26,False,189,0.57,T-box transcription factor TBX6 (T-box protein 6)
+ENSG00000151746,BICD1,Q96G01,3,975,14,1.0,26,False,625,0.36,Protein bicaudal D homolog 1 (Bic-D 1)
+ENSG00000157191,NECAP2,Q9NVZ3,3,263,12,1.0,26,False,166,0.38,Adaptin ear-binding coat-associated protein 2 (NECAP endocyt
+ENSG00000166949,SMAD3,P84022,4,425,13,1.0,26,False,344,0.21,SMAD family member 3 (SMAD 3) (hSMAD3) (JV15-2) (Mothers aga
+ENSG00000167654,ATCAY,Q86WG3,2,371,14,1.0,26,False,183,0.52,Caytaxin (Ataxia cayman type protein) (BNIP-2-homology) (BNI
+ENSG00000170390,DCLK2,Q8N568,3,766,20,1.0,26,False,530,0.31,Serine/threonine-protein kinase DCLK2 (EC 2.7.11.1) (CaMK-li
+ENSG00000178078,STAP2,Q9UGK3,2,403,16,1.0,26,False,268,0.35,Signal-transducing adaptor protein 2 (STAP-2) (Breast tumor 
+ENSG00000181513,ACBD4,Q8NC06,3,268,15,1.0,26,False,188,0.31,Acyl-CoA-binding domain-containing protein 4
+ENSG00000185664,PMEL,P40967,3,661,13,1.0,26,False,429,0.36,Melanocyte protein PMEL (ME20-M) (ME20M) (Melanocyte protein
+ENSG00000187796,CARD9,Q9H257,3,536,15,1.0,26,False,420,0.22,Caspase recruitment domain-containing protein 9 (hCARD9)
+ENSG00000198342,ZNF442,Q9H7R0,2,627,5,1.0,26,False,444,0.29,Zinc finger protein 442
+ENSG00000198453,ZNF568,Q3ZCX4,3,644,11,1.0,26,False,473,0.27,Zinc finger protein 568
+ENSG00000215301,DDX3X,O00571,2,662,19,1.0,26,False,416,0.38,ATP-dependent RNA helicase DDX3X (EC 3.6.4.13) (CAP-Rf) (DEA
+ENSG00000064835,POU1F1,P28069,2,291,7,1.0,25,False,189,0.36,Pituitary-specific positive transcription factor 1 (PIT-1) (
+ENSG00000071243,ING3,Q9NXR8,3,418,16,1.0,25,False,186,0.56,Inhibitor of growth protein 3 (p47ING3)
+ENSG00000077514,POLD3,Q15054,3,466,14,1.0,25,False,142,0.7,DNA polymerase delta subunit 3 (DNA polymerase delta subunit
+ENSG00000090020,SLC9A1,P19634,2,815,14,1.0,25,False,553,0.33,"Sodium/hydrogen exchanger 1 (APNH) (Na(+)/H(+) antiporter, a"
+ENSG00000090621,PABPC4,Q13310,3,644,17,1.0,25,False,462,0.29,Polyadenylate-binding protein 4 (PABP-4) (Poly(A)-binding pr
+ENSG00000099250,NRP1,O14786,3,923,19,1.0,25,False,725,0.22,Neuropilin-1 (Vascular endothelial cell growth factor 165 re
+ENSG00000100225,FBXO7,Q9Y3I1,3,522,13,1.0,25,False,312,0.41,F-box only protein 7
+ENSG00000100379,KCTD17,Q8N5Z5,2,314,10,1.0,25,False,157,0.51,BTB/POZ domain-containing protein KCTD17
+ENSG00000109684,CLNK,Q7Z7G1,2,428,20,1.0,25,False,132,0.7,Cytokine-dependent hematopoietic cell linker (Mast cell immu
+ENSG00000115295,CLIP4,Q8N3C7,2,705,16,1.0,25,False,500,0.3,CAP-Gly domain-containing linker protein 4 (Restin-like prot
+ENSG00000142765,SYTL1,Q8IYJ3,2,562,16,1.0,25,False,341,0.4,Synaptotagmin-like protein 1 (Exophilin-7) (Protein JFC1)
+ENSG00000145623,OSMR,Q99650,2,979,18,1.0,25,False,705,0.29,Oncostatin-M-specific receptor subunit beta (Interleukin-31 
+ENSG00000149743,TRPT1,Q86TN4,4,253,10,1.0,25,False,202,0.21,tRNA 2'-phosphotransferase 1 (EC 2.7.1.160)
+ENSG00000162062,TEDC2,Q7L2K0,2,433,11,1.0,25,False,189,0.57,Tubulin epsilon and delta complex protein 2
+ENSG00000163534,FCRL1,Q96LA6,3,429,17,1.0,25,False,285,0.35,Fc receptor-like protein 1 (FcR-like protein 1) (FcRL1) (Fc 
+ENSG00000168398,BDKRB2,P30411,2,391,3,1.0,25,False,304,0.22,B2 bradykinin receptor (B2R) (BK-2 receptor)
+ENSG00000176302,FOXR1,Q6PIV2,2,292,10,1.0,25,False,124,0.58,Forkhead box protein R1 (Forkhead box protein N5)
+ENSG00000187144,SPATA21,Q7Z572,2,469,13,1.0,25,False,219,0.54,Spermatogenesis-associated protein 21
+ENSG00000204356,NELFE,P18615,3,380,13,1.0,25,False,121,0.69,Negative elongation factor E (NELF-E) (RNA-binding protein R
+ENSG00000185158,LRRC37B,Q96QE4,2,947,13,0.93,560,True,314,0.67,Leucine-rich repeat-containing protein 37B (C66 SLIT-like te
+ENSG00000082175,PGR,P06401,3,933,11,1.0,546,True,326,0.65,Progesterone receptor (PR) (Nuclear receptor subfamily 3 gro
+ENSG00000077238,IL4R,P24394,2,825,11,1.0,526,True,253,0.7,Interleukin-4 receptor subunit alpha (IL-4 receptor subunit 
+ENSG00000104722,NEFM,P07197,2,916,5,0.98,515,True,312,0.66,Neurofilament medium polypeptide (NF-M) (160 kDa neurofilame
+ENSG00000082258,CCNT2,O60583,2,730,12,1.0,472,True,237,0.68,Cyclin-T2 (CycT2)
+ENSG00000148429,USP6NL,Q92738,2,828,16,1.0,469,True,360,0.57,USP6 N-terminal-like protein (Related to the N-terminus of t
+ENSG00000129315,CCNT1,O60563,2,726,11,0.99,467,True,243,0.67,Cyclin-T1 (CycT1) (Cyclin-T)
+ENSG00000159212,CLIC6,Q96NY7,2,704,9,0.98,458,True,259,0.63,Chloride intracellular channel protein 6 (Glutaredoxin-like 
+ENSG00000164691,TAGAP,Q8N103,2,731,10,1.0,432,True,243,0.67,T-cell activation Rho GTPase-activating protein (T-cell acti
+ENSG00000111266,DUSP16,Q9BY84,2,665,7,0.93,394,True,301,0.55,Dual specificity protein phosphatase 16 (EC 3.1.3.16) (EC 3.
+ENSG00000275591,XKR5,Q6UX68,2,686,9,0.94,380,True,334,0.52,XK-related protein 5
+ENSG00000100368,CSF2RB,P32927,2,897,16,1.0,375,True,460,0.49,Cytokine receptor common subunit beta (CDw131) (GM-CSF/IL-3/
+ENSG00000113742,CPEB4,Q17RY0,3,729,12,1.0,375,True,264,0.64,Cytoplasmic polyadenylation element-binding protein 4 (CPE-B
+ENSG00000165694,FRMD7,Q6ZUT3,2,714,15,1.0,364,True,308,0.57,FERM domain-containing protein 7
+ENSG00000129474,AJUBA,Q96IF1,2,538,10,0.96,336,True,216,0.6,LIM domain-containing protein ajuba
+ENSG00000164125,GASK1B,Q6UWH4,3,519,7,1.0,331,True,316,0.39,Golgi-associated kinase 1B (Expressed in nerve and epitheliu
+ENSG00000167680,SEMA6B,Q9H3T3,2,888,19,1.0,309,True,546,0.39,Semaphorin-6B (Semaphorin-Z) (Sema Z)
+ENSG00000152457,DCLRE1C,Q96SD1,2,692,16,1.0,307,True,364,0.48,Protein artemis (EC 3.1.-.-) (DNA cross-link repair 1C prote
+ENSG00000077684,JADE1,Q6IE81,3,842,13,1.0,302,True,369,0.56,Protein Jade-1 (Jade family PHD finger protein 1) (PHD finge
+ENSG00000170734,POLH,Q9Y253,2,713,10,0.95,299,True,436,0.39,DNA polymerase eta (EC 2.7.7.7) (RAD30 homolog A) (Xeroderma
+ENSG00000134186,PRPF38B,Q5VTL8,2,546,7,1.0,286,True,177,0.68,Pre-mRNA-splicing factor 38B (Sarcoma antigen NY-SAR-27)
+ENSG00000099968,BCL2L13,Q9BXK5,2,485,7,0.98,285,True,210,0.57,Bcl-2-like protein 13 (Bcl2-L-13) (Bcl-rambo) (Protein Mil1)
+ENSG00000134508,CABLES1,Q8TDN4,3,633,12,1.0,282,True,267,0.58,CDK5 and ABL1 enzyme substrate 1 (Interactor with CDK3 1) (I
+ENSG00000148384,INPP5E,Q9NRR6,2,644,12,0.99,271,True,384,0.41,Phosphatidylinositol polyphosphate 5-phosphatase type IV (72
+ENSG00000150510,FAM124A,Q86V42,3,546,8,0.99,268,True,239,0.56,Protein FAM124A
+ENSG00000188883,KLRG2,A4D1S0,2,409,7,1.0,253,True,158,0.62,Killer cell lectin-like receptor subfamily G member 2 (C-typ
+ENSG00000010072,SPRTN,Q9H040,3,489,8,1.0,250,True,215,0.56,DNA-dependent metalloprotease SPRTN (EC 3.4.24.-) (DNA damag
+ENSG00000120913,PDLIM2,Q96JY6,4,352,16,1.0,250,True,139,0.61,PDZ and LIM domain protein 2 (PDZ-LIM protein mystique)
+ENSG00000163508,EOMES,O95936,3,686,9,1.0,246,True,219,0.68,Eomesodermin homolog (T-box brain protein 2) (T-brain-2) (TB
+ENSG00000070759,TESK2,Q96S53,2,571,12,1.0,239,True,290,0.49,Dual specificity testis-specific protein kinase 2 (EC 2.7.12
+ENSG00000182504,CEP97,Q8IW35,2,865,14,1.0,234,True,381,0.56,Centrosomal protein of 97 kDa (Cep97) (Leucine-rich repeat a
+ENSG00000198382,UVRAG,Q9P2Y5,2,699,17,0.98,234,True,447,0.37,UV radiation resistance-associated gene protein (p63)
+ENSG00000153187,HNRNPU,Q00839,2,825,15,1.0,231,True,394,0.53,Heterogeneous nuclear ribonucleoprotein U (hnRNP U) (GRIP120
+ENSG00000143384,MCL1,Q07820,2,350,5,0.96,230,True,142,0.6,Induced myeloid leukemia cell differentiation protein Mcl-1 
+ENSG00000111834,RSPH4A,Q5TD94,3,716,11,0.9,229,True,375,0.48,Radial spoke head protein 4 homolog A (Radial spoke head-lik
+ENSG00000139154,AEBP2,Q6ZN18,3,517,13,1.0,224,True,209,0.6,Zinc finger protein AEBP2 (Adipocyte enhancer-binding protei
+ENSG00000185436,IFNLR1,Q8IU57,4,520,12,1.0,224,True,239,0.54,Interferon lambda receptor 1 (IFN-lambda receptor 1) (IFN-la
+ENSG00000137266,SLC22A23,A1A5C7,3,686,14,0.92,218,True,429,0.38,Solute carrier family 22 member 23
+ENSG00000162594,IL23R,Q5VWK5,4,629,15,1.0,216,True,309,0.51,Interleukin-23 receptor (IL-23 receptor) (IL-23R)
+ENSG00000124019,FAM124B,Q9H5Z6,2,455,4,0.94,211,True,256,0.44,Protein FAM124B
+ENSG00000125779,PANK2,Q9BZ23,3,570,9,0.96,210,True,371,0.35,"Pantothenate kinase 2, mitochondrial (hPanK2) (EC 2.7.1.33) "
+ENSG00000179299,NSUN7,Q8NE18,2,718,12,0.94,210,True,488,0.33,Putative methyltransferase NSUN7 (EC 2.1.1.-) (NOL1/NOP2/Sun
+ENSG00000121075,TBX4,P57082,2,545,9,1.0,205,True,207,0.62,T-box transcription factor TBX4 (T-box protein 4)
+ENSG00000204564,C6orf136,Q5SQH8,3,315,9,1.0,205,True,174,0.45,Uncharacterized protein C6orf136
+ENSG00000068308,OTUD5,Q96G74,3,571,12,0.9,198,True,299,0.48,OTU domain-containing protein 5 (EC 3.4.19.12) (Deubiquitina
+ENSG00000135316,SYNCRIP,O60506,3,623,14,1.0,197,True,385,0.38,Heterogeneous nuclear ribonucleoprotein Q (hnRNP Q) (Glycine
+ENSG00000187257,RSBN1L,Q6PCB5,2,846,9,1.0,196,True,425,0.5,Lysine-specific demethylase RSBN1L (EC 1.14.11.-) (Round spe
+ENSG00000136830,NIBAN2,Q96TA1,2,746,16,0.92,195,True,571,0.24,Protein Niban 2 (Meg-3) (Melanoma invasion by ERK) (MINERVA)
+ENSG00000197324,LRP10,Q7Z4F1,2,713,9,1.0,195,True,456,0.36,Low-density lipoprotein receptor-related protein 10 (LRP-10)
+ENSG00000166483,WEE1,P30291,2,646,12,1.0,192,True,333,0.49,Wee1-like protein kinase (WEE1hu) (EC 2.7.10.2) (Wee1A kinas
+ENSG00000122591,HYCC1,Q9BYI3,2,521,11,1.0,191,True,290,0.45,Hyccin (Down-regulated by CTNNB1 protein A)
+ENSG00000148835,TAF5,Q15542,2,800,13,1.0,187,True,551,0.32,Transcription initiation factor TFIID subunit 5 (Transcripti
+ENSG00000170836,PPM1D,O15297,2,605,8,1.0,185,True,292,0.52,Protein phosphatase 1D (EC 3.1.3.16) (Protein phosphatase 2C
+ENSG00000198780,FAM169A,Q9Y6X4,2,670,13,1.0,182,True,246,0.64,Soluble lamin-associated protein of 75 kDa (SLAP75) (Protein
+ENSG00000081985,IL12RB2,Q99665,3,862,16,1.0,180,True,652,0.25,Interleukin-12 receptor subunit beta-2 (IL-12 receptor subun
+ENSG00000112782,CLIC5,Q9NZA1,3,410,9,0.94,180,True,243,0.41,Chloride intracellular channel protein 5 (Glutaredoxin-like 
+ENSG00000144711,IQSEC1,Q6DN90,2,963,16,1.0,179,True,422,0.57,IQ motif and SEC7 domain-containing protein 1 (ADP-ribosylat
+ENSG00000164465,DCBLD1,Q8N8Z6,2,715,17,1.0,177,True,391,0.46,"Discoidin, CUB and LCCL domain-containing protein 1"
+ENSG00000139973,SYT16,Q17RD7,2,645,9,1.0,175,True,263,0.59,Synaptotagmin-16 (Chr14Syt) (Synaptotagmin 14-like protein) 
+ENSG00000167323,STIM1,Q13586,2,685,14,1.0,172,True,369,0.47,Stromal interaction molecule 1
+ENSG00000197057,DTHD1,Q6ZMT9,2,781,10,0.96,171,True,621,0.21,Death domain-containing protein 1
+ENSG00000028203,VEZT,Q9HBM0,2,779,14,1.0,169,True,419,0.47,Vezatin
+ENSG00000101445,PPP1R16B,Q96T49,2,567,11,1.0,169,True,368,0.36,Protein phosphatase 1 regulatory inhibitor subunit 16B (Anky
+ENSG00000165506,DNAAF2,Q9NVR5,2,837,5,1.0,168,True,398,0.52,"Protein kintoun (Dynein assembly factor 2, axonemal)"
+ENSG00000140937,CDH11,P55287,2,796,13,0.93,165,True,602,0.25,Cadherin-11 (OSF-4) (Osteoblast cadherin) (OB-cadherin)
+ENSG00000112175,BMP5,P22003,2,454,9,0.91,164,True,273,0.4,Bone morphogenetic protein 5 (BMP-5)
+ENSG00000071991,CDH19,Q9H159,2,772,12,0.93,163,True,586,0.25,Cadherin-19
+ENSG00000145526,CDH18,Q13634,2,790,13,0.94,163,True,594,0.25,Cadherin-18 (Cadherin-14)
+ENSG00000143337,TOR1AIP1,Q5JTV8,3,583,14,1.0,159,True,243,0.59,Torsin-1A-interacting protein 1 (Lamin-associated protein 1B
+ENSG00000090376,IRAK3,Q9Y616,2,596,14,0.91,158,True,457,0.24,Interleukin-1 receptor-associated kinase 3 (IRAK-3) (IL-1 re
+ENSG00000183496,MEX3B,Q6ZN04,2,569,3,1.0,158,True,224,0.61,RNA-binding protein MEX3B (RING finger and KH domain-contain
+ENSG00000187783,TMEM72,A0PK05,2,275,6,1.0,157,True,139,0.5,Transmembrane protein 72 (Kidney-specific secretory protein 
+ENSG00000119535,CSF3R,Q99062,3,836,18,1.0,156,True,625,0.26,Granulocyte colony-stimulating factor receptor (G-CSF recept
+ENSG00000140832,MARVELD3,Q96A59,3,401,8,1.0,156,True,222,0.45,MARVEL domain-containing protein 3
+ENSG00000163608,RMP64,Q6NW34,2,567,11,0.97,156,True,307,0.46,Ribonuclease MRP subunit P64 (Nucleolus and neural progenito
+ENSG00000155275,TRMT44,Q8IYL2,2,757,14,0.98,154,True,520,0.32,Probable tRNA (uracil-O(2)-)-methyltransferase (EC 2.1.1.211
+ENSG00000175764,TTLL11,Q8NHH1,2,710,11,0.9,154,True,492,0.31,Tubulin polyglutamylase TTLL11 (EC 6.3.2.-) (Tubulin--tyrosi
+ENSG00000088899,LZTS3,O60299,2,673,6,1.0,153,True,241,0.64,Leucine zipper putative tumor suppressor 3 (ProSAP-interacti
+ENSG00000091831,ESR1,P03372,2,595,10,1.0,151,True,321,0.47,Estrogen receptor (ER) (ER-alpha) (Estradiol receptor) (Nucl
+ENSG00000116514,RNF19B,Q6ZMZ0,3,732,13,1.0,151,True,366,0.5,E3 ubiquitin-protein ligase RNF19B (EC 2.3.2.31) (IBR domain
+ENSG00000173805,HAP1,P54257,4,671,15,1.0,151,True,269,0.6,Huntingtin-associated protein 1 (HAP-1) (Neuroan 1)
+ENSG00000168077,SCARA3,Q6AZY7,2,606,8,1.0,150,True,406,0.34,Scavenger receptor class A member 3 (Cellular stress respons
+ENSG00000152795,HNRNPDL,O14979,2,420,8,0.99,148,True,162,0.62,Heterogeneous nuclear ribonucleoprotein D-like (hnRNP D-like
+ENSG00000096717,SIRT1,Q96EB6,2,747,10,1.0,144,True,334,0.56,NAD-dependent protein deacetylase sirtuin-1 (hSIRT1) (EC 2.3
+ENSG00000128610,FEZF1,A0PJY2,2,475,6,1.0,143,True,203,0.57,Fez family zinc finger protein 1 (Zinc finger protein 312B)
+ENSG00000163814,CDCP1,Q9H5V8,2,836,11,1.0,143,True,670,0.21,CUB domain-containing protein 1 (Membrane glycoprotein gp140
+ENSG00000102271,KLHL4,Q9C0H6,2,718,13,1.0,141,True,569,0.22,Kelch-like protein 4
+ENSG00000050393,MCUR1,Q96AQ8,2,359,11,1.0,139,True,196,0.46,Mitochondrial calcium uniporter regulator 1 (MCU regulator 1
+ENSG00000101654,RNMT,O43148,2,476,12,1.0,139,True,325,0.32,mRNA cap guanine-N(7) methyltransferase (EC 2.1.1.56) (RG7MT
+ENSG00000006712,PAF1,Q8N7H5,2,531,16,1.0,137,True,346,0.36,RNA polymerase II-associated factor 1 homolog (hPAF1) (Pancr
+ENSG00000100092,SH3BP1,Q9Y3L3,2,701,20,1.0,137,True,444,0.38,SH3 domain-binding protein 1
+ENSG00000163512,AZI2,Q9H6S1,3,392,9,0.99,137,True,226,0.43,5-azacytidine-induced protein 2 (NF-kappa-B-activating kinas
+ENSG00000163645,ERICH6,Q7L0X2,2,663,15,1.0,135,True,470,0.3,Glutamate-rich protein 6 (Protein FAM194A)
+ENSG00000175048,ZDHHC14,Q8IZN3,2,488,11,1.0,132,True,290,0.41,Palmitoyltransferase ZDHHC14 (EC 2.3.1.225) (DHHC domain-con
+ENSG00000112242,E2F3,O00716,2,465,9,1.0,131,True,163,0.65,Transcription factor E2F3 (E2F-3)
+ENSG00000135362,PRR5L,Q6MZQ0,2,368,10,1.0,131,True,185,0.5,Proline-rich protein 5-like (Protein observed with Rictor-2)
+ENSG00000152669,CCNO,P22674,2,350,4,1.0,131,True,254,0.27,Cyclin-O
+ENSG00000115419,GLS,O94925,2,669,20,0.97,129,True,531,0.22,"Glutaminase kidney isoform, mitochondrial (GLS) (EC 3.5.1.2)"
+ENSG00000176953,NFATC2IP,Q8NCF5,2,419,10,1.0,129,True,163,0.61,NFATC2-interacting protein (45 kDa NF-AT-interacting protein
+ENSG00000091436,MAP3K20,Q9NYL2,2,800,20,1.0,126,True,558,0.31,Mitogen-activated protein kinase kinase kinase 20 (EC 2.7.11
+ENSG00000107404,DVL1,O14640,2,695,18,1.0,124,True,299,0.58,Segment polarity protein dishevelled homolog DVL-1 (Dishevel
+ENSG00000105204,DYRK1B,Q9Y463,3,629,13,1.0,123,True,283,0.55,Dual specificity tyrosine-phosphorylation-regulated kinase 1
+ENSG00000151893,CACUL1,Q86Y37,2,369,11,0.97,123,True,226,0.4,CDK2-associated and cullin domain-containing protein 1 (Cdk-
+ENSG00000090512,FETUB,Q9UGM5,2,382,9,1.0,122,True,229,0.4,Fetuin-B (16G2) (Fetuin-like protein IRL685) (Gugu)
+ENSG00000278224,PRICKLE4,Q2TBC4,2,344,7,1.0,122,True,165,0.52,Prickle-like protein 4 (Overexpressed breast tumor protein)
+ENSG00000186417,GLDN,Q6ZMI3,2,551,12,1.0,121,True,250,0.55,Gliomedin [Cleaved into: Gliomedin shedded ectodomain]
+ENSG00000126351,THRA,P10827,3,490,11,0.92,120,True,340,0.31,Thyroid hormone receptor alpha (Nuclear receptor subfamily 1
+ENSG00000156374,PCGF6,Q9BYE7,2,350,11,0.98,120,True,214,0.4,Polycomb group RING finger protein 6 (Mel18 and Bmi1-like RI
+ENSG00000005486,RHBDD2,Q6NTF9,2,364,6,1.0,119,True,235,0.36,Rhomboid domain-containing protein 2
+ENSG00000132463,GRSF1,Q12849,2,480,10,1.0,119,True,316,0.35,G-rich sequence factor 1 (GRSF-1)
+ENSG00000164076,CAMKV,Q8NCB2,3,501,13,1.0,119,True,331,0.35,CaM kinase-like vesicle-associated protein
+ENSG00000178467,P4HTM,Q9NXG6,2,502,12,0.93,118,True,398,0.21,Transmembrane prolyl 4-hydroxylase (P4H-TM) (EC 1.14.11.29) 
+ENSG00000100836,PABPN1,Q86U42,2,306,9,1.0,117,True,129,0.58,Polyadenylate-binding protein 2 (PABP-2) (Poly(A)-binding pr
+ENSG00000061337,LZTS1,Q9Y250,2,596,6,1.0,115,True,248,0.58,Leucine zipper putative tumor suppressor 1 (F37/esophageal c
+ENSG00000141384,TAF4B,Q92750,2,862,17,1.0,115,True,277,0.68,Transcription initiation factor TFIID subunit 4B (Transcript
+ENSG00000117625,RCOR3,Q9P2K3,4,495,16,1.0,114,True,274,0.45,REST corepressor 3
+ENSG00000130726,TRIM28,Q13263,2,835,19,1.0,114,True,481,0.43,Transcription intermediary factor 1-beta (TIF1-beta) (E3 SUM
+ENSG00000117519,CNN3,Q15417,3,329,10,1.0,113,True,170,0.48,"Calponin-3 (Calponin, acidic isoform)"
+ENSG00000173327,MAP3K11,Q16584,2,847,12,1.0,112,True,428,0.5,Mitogen-activated protein kinase kinase kinase 11 (EC 2.7.11
+ENSG00000126259,KIRREL2,Q6UWL6,3,708,18,1.0,111,True,473,0.34,Kin of IRRE-like protein 2 (Kin of irregular chiasm-like pro
+ENSG00000177614,PGBD5,Q8N414,2,524,8,1.0,111,True,406,0.23,PiggyBac transposable element-derived protein 5 (EC 3.1.-.-)
+ENSG00000114993,RTKN,Q9BST9,3,563,15,1.0,110,True,374,0.35,Rhotekin
+ENSG00000151090,THRB,P10828,2,461,9,1.0,110,True,371,0.2,Thyroid hormone receptor beta (Nuclear receptor subfamily 1 
+ENSG00000178795,GDPD4,Q6W3E5,2,623,17,1.0,110,True,504,0.2,Glycerophosphodiester phosphodiesterase domain-containing pr
+ENSG00000155367,PPM1J,Q5JR12,2,505,12,0.94,109,True,377,0.26,Protein phosphatase 1J (EC 3.1.3.16) (Protein phosphatase 2C
+ENSG00000107679,PLEKHA1,Q9HB21,2,404,13,1.0,104,True,220,0.46,Pleckstrin homology domain-containing family A member 1 (PH 
+ENSG00000161911,TREML1,Q86YW5,3,311,10,1.0,104,True,125,0.6,Trem-like transcript 1 protein (TLT-1) (Triggering receptor 
+ENSG00000088766,CRLS1,Q9UJA2,2,301,9,1.0,102,True,201,0.34,Cardiolipin synthase (CMP-forming) (CLS) (EC 2.7.8.41) (Prot
+ENSG00000138032,PPM1B,O75688,4,479,8,1.0,101,True,349,0.27,Protein phosphatase 1B (EC 3.1.3.16) (Protein phosphatase 2C
+ENSG00000196408,NOXO1,Q8NFA2,4,376,13,1.0,99,True,221,0.42,NADPH oxidase organizer 1 (NADPH oxidase regulatory protein)
+ENSG00000135409,AMHR2,Q16671,3,573,16,1.0,98,True,400,0.31,Anti-Muellerian hormone type-2 receptor (EC 2.7.11.30) (Anti
+ENSG00000172830,SSH3,Q8TE77,3,659,18,1.0,98,True,387,0.42,Protein phosphatase Slingshot homolog 3 (EC 3.1.3.16) (EC 3.
+ENSG00000033800,PIAS1,O75925,2,651,16,1.0,97,True,330,0.5,E3 SUMO-protein ligase PIAS1 (EC 2.3.2.-) (DEAD/H box-bindin
+ENSG00000144802,NFKBIZ,Q9BYH8,3,718,16,1.0,97,True,301,0.58,NF-kappa-B inhibitor zeta (I-kappa-B-zeta) (IkB-zeta) (Ikapp
+ENSG00000147246,HTR2C,P28335,2,458,6,0.94,97,True,301,0.35,5-hydroxytryptamine receptor 2C (5-HT-2C) (5-HT2C) (5-HTR2C)
+ENSG00000070748,CHAT,P28329,3,748,17,1.0,96,True,594,0.21,Choline O-acetyltransferase (CHOACTase) (ChAT) (Choline acet
+ENSG00000164209,SLC25A46,Q96AG3,3,418,11,1.0,95,True,323,0.23,Mitochondrial outer membrane protein SLC25A46 (Solute carrie
+ENSG00000142082,SIRT3,Q9NTG7,2,399,9,1.0,94,True,279,0.31,"NAD-dependent protein deacetylase sirtuin-3, mitochondrial ("
+ENSG00000143995,MEIS1,O00470,2,390,14,1.0,94,True,175,0.56,Homeobox protein Meis1
+ENSG00000116218,NPHS2,Q9NP85,2,383,10,1.0,92,True,245,0.37,Podocin
+ENSG00000142459,EVI5L,Q96CN4,2,794,20,0.93,92,True,627,0.21,EVI5-like protein (Ecotropic viral integration site 5-like p
+ENSG00000002919,SNX11,Q9Y5W9,2,270,8,1.0,91,True,165,0.4,Sorting nexin-11
+ENSG00000064666,CNN2,Q99439,2,309,9,1.0,91,True,176,0.43,"Calponin-2 (Calponin H2, smooth muscle) (Neutral calponin)"
+ENSG00000145723,GIN1,Q9NXP7,3,522,9,1.0,91,True,361,0.31,Gypsy retrotransposon integrase-like protein 1 (GIN-1) (Ty3/
+ENSG00000144455,SUMF1,Q8NBK3,3,374,12,0.93,90,True,293,0.22,Formylglycine-generating enzyme (FGE) (EC 1.8.3.7) (C-alpha-
+ENSG00000104824,HNRNPL,P14866,2,589,14,1.0,89,True,393,0.34,Heterogeneous nuclear ribonucleoprotein L (hnRNP L)
+ENSG00000123472,ATPAF1,Q5TC12,2,328,11,1.0,89,True,203,0.38,ATP synthase mitochondrial F1 complex assembly factor 1 (ATP
+ENSG00000171055,FEZ2,Q9UHY8,2,353,10,0.92,89,True,226,0.37,Fasciculation and elongation protein zeta-2 (Zygin II) (Zygi
+ENSG00000172239,PAIP1,Q9H074,3,479,13,1.0,89,True,251,0.48,Polyadenylate-binding protein-interacting protein 1 (PABP-in
+ENSG00000085274,MYNN,Q9NPC7,3,610,9,1.0,87,True,217,0.65,Myoneurin (Zinc finger and BTB domain-containing protein 31)
+ENSG00000138311,ZNF365,Q70YC5,2,407,6,1.0,87,True,186,0.55,Protein ZNF365 (DISC1-binding zinc-finger protein) (Protein 
+ENSG00000181350,LRRC75A,Q8NAA5,2,344,6,1.0,87,True,242,0.3,Leucine-rich repeat-containing protein 75A (Leucine-rich rep
+ENSG00000188295,ZNF669,Q96BR6,2,464,6,1.0,87,True,243,0.48,Zinc finger protein 669
+ENSG00000102387,TAF7L,Q5H9L4,3,462,16,1.0,86,True,172,0.63,Transcription initiation factor TFIID subunit 7-like (Cancer
+ENSG00000119977,TCTN3,Q6NUS6,4,607,20,0.97,86,True,474,0.23,Tectonic-3
+ENSG00000170423,KRT78,Q8N1N4,2,520,11,1.0,86,True,321,0.39,"Keratin, type II cytoskeletal 78 (Cytokeratin-78) (CK-78) (K"
+ENSG00000070413,DGCR2,P98153,2,550,12,1.0,85,True,342,0.39,Integral membrane protein DGCR2/IDD
+ENSG00000135637,CCDC142,Q17RM4,2,750,12,1.0,85,True,585,0.23,Coiled-coil domain-containing protein 142
+ENSG00000140451,PIF1,Q9H611,2,641,13,1.0,85,True,496,0.23,ATP-dependent DNA helicase PIF1 (EC 5.6.2.3) (DNA 5'-3' heli
+ENSG00000164306,PRIMPOL,Q96LW4,2,560,14,1.0,85,True,418,0.26,DNA-directed primase/polymerase protein (hPrimpol1) (EC 2.7.
+ENSG00000105366,SIGLEC8,Q9NYZ4,2,499,9,1.0,84,True,324,0.36,Sialic acid-binding Ig-like lectin 8 (Siglec-8) (Sialoadhesi
+ENSG00000182240,BACE2,Q9Y5Z0,3,518,11,0.94,84,True,384,0.26,Beta-secretase 2 (EC 3.4.23.45) (Aspartic-like protease 56 k
+ENSG00000164053,ATRIP,Q8WXE1,3,791,15,1.0,83,True,470,0.41,ATR-interacting protein (ATM and Rad3-related-interacting pr
+ENSG00000149231,CCDC82,Q8N4S0,2,544,8,1.0,82,True,225,0.59,Coiled-coil domain-containing protein 82
+ENSG00000204991,SPIRE2,Q8WWL2,2,714,16,1.0,82,True,398,0.45,Protein spire homolog 2 (Spir-2)
+ENSG00000088053,GP6,Q9HCN6,3,339,11,1.0,81,True,176,0.49,Platelet glycoprotein VI (GPVI) (Glycoprotein 6)
+ENSG00000099875,MKNK2,Q9HBH9,2,465,14,1.0,81,True,242,0.49,MAP kinase-interacting serine/threonine-protein kinase 2 (EC
+ENSG00000257008,GPR142,Q7Z601,2,462,6,1.0,81,True,290,0.38,G protein-coupled receptor 142 (G protein-coupled receptor P
+ENSG00000080298,RFX3,P48380,3,749,18,1.0,79,True,440,0.42,Transcription factor RFX3 (Regulatory factor X 3)
+ENSG00000154640,BTG3,Q14201,2,252,6,1.0,79,True,137,0.46,Protein BTG3 (Abundant in neuroepithelium area protein) (BTG
+ENSG00000179241,LDLRAD3,Q86YD5,2,345,8,1.0,79,True,153,0.56,Low-density lipoprotein receptor class A domain-containing p
+ENSG00000204231,RXRB,P28702,2,533,12,1.0,79,True,279,0.48,Retinoic acid receptor RXR-beta (Nuclear receptor subfamily 
+ENSG00000138668,HNRNPD,Q14103,4,355,11,1.0,78,True,171,0.52,Heterogeneous nuclear ribonucleoprotein D0 (hnRNP D0) (AU-ri
+ENSG00000184363,PKP3,Q9Y446,2,797,15,1.0,78,True,505,0.37,Plakophilin-3
+ENSG00000117174,ZNHIT6,Q9NWK9,2,470,12,1.0,77,True,264,0.45,Box C/D snoRNA protein 1 (Serologically defined breast cance
+ENSG00000144320,LNPK,Q9C0E8,3,428,15,1.0,77,True,206,0.53,Endoplasmic reticulum junction formation protein lunapark (E
+ENSG00000100344,PNPLA3,Q9NST1,2,481,11,1.0,76,True,369,0.24,1-acylglycerol-3-phosphate O-acyltransferase PNPLA3 (EC 2.3.
+ENSG00000122882,ECD,O95905,3,644,16,1.0,76,True,432,0.34,Protein ecdysoneless homolog (Human suppressor of GCR two) (
+ENSG00000165006,UBAP1,Q9NZ09,3,502,7,1.0,76,True,204,0.59,Ubiquitin-associated protein 1 (UBAP-1) (Nasopharyngeal carc
+ENSG00000169744,LDB2,O43679,2,373,10,1.0,76,True,222,0.41,LIM domain-binding protein 2 (LDB-2) (Carboxyl-terminal LIM 
+ENSG00000057294,PKP2,Q99959,2,881,16,1.0,75,True,401,0.55,Plakophilin-2
+ENSG00000079277,MKNK1,Q9BUB5,3,465,14,1.0,75,True,244,0.48,MAP kinase-interacting serine/threonine-protein kinase 1 (EC
+ENSG00000102057,KCND1,Q9NSA2,2,647,8,1.0,75,True,377,0.42,A-type voltage-gated potassium channel KCND1 (Potassium volt
+ENSG00000142494,SLC47A1,Q96FL8,2,570,20,1.0,75,True,459,0.21,Multidrug and toxin extrusion protein 1 (MATE-1) (hMATE-1) (
+ENSG00000148300,REXO4,Q9GZR2,2,422,11,1.0,75,True,225,0.47,RNA exonuclease 4 (EC 3.1.-.-) (Exonuclease XPMC2) (Prevents
+ENSG00000204149,AGAP6,Q5VW22,2,663,9,1.0,75,True,278,0.58,"Arf-GAP with GTPase, ANK repeat and PH domain-containing pro"
+ENSG00000106392,C1GALT1,Q9NS00,2,363,5,1.0,74,True,286,0.21,Glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransfer
+ENSG00000163249,CCNYL1,Q8N7R7,3,359,13,1.0,74,True,237,0.35,Cyclin-Y-like protein 1
+ENSG00000129465,RIPK3,Q9Y572,2,518,12,1.0,73,True,315,0.4,Receptor-interacting serine/threonine-protein kinase 3 (EC 2
+ENSG00000136160,EDNRB,P24530,3,442,12,1.0,73,True,320,0.28,Endothelin receptor type B (ET-B) (ET-BR) (Endothelin recept
+ENSG00000157617,C2CD2,Q9Y426,2,696,16,1.0,73,True,424,0.4,C2 domain-containing protein 2 (Transmembrane protein 24-lik
+ENSG00000176204,LRRTM4,Q86VH4,2,590,5,1.0,73,True,335,0.43,Leucine-rich repeat transmembrane neuronal protein 4
+ENSG00000183137,CEP57L1,Q8IYX8,2,460,11,1.0,73,True,256,0.45,Centrosomal protein CEP57L1 (Centrosomal protein 57kDa-like 
+ENSG00000108604,SMARCD2,Q92925,2,531,15,1.0,72,True,364,0.32,SWI/SNF-related matrix-associated actin-dependent regulator 
+ENSG00000154767,XPC,Q01831,2,940,17,1.0,72,True,487,0.49,DNA repair protein complementing XP-C cells (Xeroderma pigme
+ENSG00000185753,CXorf38,Q8TB03,2,319,7,1.0,72,True,220,0.31,Uncharacterized protein CXorf38
+ENSG00000196182,STK40,Q8N2I9,3,435,12,1.0,72,True,312,0.29,Serine/threonine-protein kinase 40 (EC 2.7.11.1) (SINK-homol
+ENSG00000103423,DNAJA3,Q96EY1,3,480,15,1.0,71,True,342,0.29,"DnaJ homolog subfamily A member 3, mitochondrial (DnaJ prote"
+ENSG00000151812,SLC35F4,A4IF30,2,521,10,1.0,71,True,341,0.35,Solute carrier family 35 member F4
+ENSG00000173171,MTX1,Q13505,3,466,10,0.99,71,True,254,0.46,Metaxin-1 (Mitochondrial outer membrane import complex prote
+ENSG00000188372,ZP3,P21754,2,424,10,1.0,71,True,298,0.31,Zona pellucida sperm-binding protein 3 (Sperm receptor) (ZP3
+ENSG00000188782,CATSPER4,Q7RTX7,2,472,13,1.0,71,True,287,0.4,Cation channel sperm-associated protein 4 (CatSper4)
+ENSG00000117013,KCNQ4,P56696,2,695,16,1.0,70,True,390,0.44,Potassium voltage-gated channel subfamily KQT member 4 (KQT-
+ENSG00000128944,KNSTRN,Q9Y448,3,316,12,1.0,70,True,125,0.61,Small kinetochore-associated protein (SKAP) (Kinetochore-loc
+ENSG00000133606,MKRN1,Q9UHC7,3,482,11,1.0,70,True,229,0.53,E3 ubiquitin-protein ligase makorin-1 (EC 2.3.2.27) (RING fi
+ENSG00000175606,TMEM70,Q9BUB7,2,260,5,0.97,70,True,195,0.25,"Transmembrane protein 70, mitochondrial"
+ENSG00000196867,ZFP28,Q8NHY6,2,868,10,1.0,70,True,443,0.49,Zinc finger protein 28 homolog (Zfp-28) (Krueppel-like zinc 
+ENSG00000205111,CDKL4,Q5MAI5,2,379,10,1.0,70,True,302,0.21,Cyclin-dependent kinase-like 4 (EC 2.7.11.22)
+ENSG00000039068,CDH1,P12830,2,882,17,1.0,69,True,714,0.2,Cadherin-1 (CAM 120/80) (Epithelial cadherin) (E-cadherin) (
+ENSG00000057019,DCBLD2,Q96PD2,2,775,19,1.0,69,True,381,0.52,"Discoidin, CUB and LCCL domain-containing protein 2 (CUB, LC"
+ENSG00000062038,CDH3,P22223,2,829,18,1.0,69,True,649,0.22,Cadherin-3 (Placental cadherin) (P-cadherin)
+ENSG00000092607,TBX15,Q96SF7,2,602,10,1.0,69,True,229,0.62,T-box transcription factor TBX15 (T-box protein 15) (T-box t
+ENSG00000100324,TAB1,Q15750,2,504,12,1.0,69,True,323,0.37,TGF-beta-activated kinase 1 and MAP3K7-binding protein 1 (Mi
+ENSG00000114656,CFAP92,Q9ULG3,2,409,9,1.0,69,True,164,0.6,Uncharacterized protein CFAP92 (Putative cilia and flagella 
+ENSG00000133069,TMCC2,O75069,4,709,10,1.0,69,True,278,0.61,Transmembrane and coiled-coil domains protein 2 (Cerebral pr
+ENSG00000148842,CNNM2,Q9H8M5,3,875,10,1.0,69,True,577,0.34,Metal transporter CNNM2 (Ancient conserved domain-containing
+ENSG00000158805,ZNF276,Q8N554,2,614,12,1.0,69,True,282,0.55,Zinc finger protein 276 (Zfp-276) (Zinc finger protein 477)
+ENSG00000169062,UPF3A,Q9H1J1,2,476,11,0.93,69,True,174,0.64,Regulator of nonsense transcripts 3A (Nonsense mRNA reducing
+ENSG00000181240,SLC25A41,Q8N5S1,2,370,12,1.0,69,True,286,0.23,Mitochondrial carrier protein SCaMC-3L (Mitochondrial ATP-Mg
+ENSG00000081277,PKP1,Q13835,2,747,15,1.0,68,True,477,0.37,Plakophilin-1 (Band 6 protein) (B6P)
+ENSG00000100100,PIK3IP1,Q96FE7,4,263,9,0.93,68,True,145,0.46,Phosphoinositide-3-kinase-interacting protein 1 (PI3K-intera
+ENSG00000108788,MLX,Q9UH92,3,298,11,1.0,68,True,166,0.45,Max-like protein X (Class D basic helix-loop-helix protein 1
+ENSG00000170558,CDH2,P19022,2,906,18,1.0,68,True,732,0.2,Cadherin-2 (CDw325) (Neural cadherin) (N-cadherin) (CD antig
+ENSG00000196118,CFAP119,A1A4V9,2,331,11,1.0,68,True,205,0.39,Cilia- and flagella-associated protein 119 (Coiled-coil doma
+ENSG00000101224,CDC25B,P30305,3,580,20,1.0,67,True,204,0.65,M-phase inducer phosphatase 2 (EC 3.1.3.48) (Dual specificit
+ENSG00000117650,NEK2,P51955,3,445,11,1.0,67,True,343,0.24,Serine/threonine-protein kinase Nek2 (EC 2.7.11.1) (HSPK 21)
+ENSG00000166173,LARP6,Q9BRS8,2,491,5,1.0,67,True,204,0.59,La-related protein 6 (Acheron) (Achn) (La ribonucleoprotein 
+ENSG00000001461,NIPAL3,Q6P499,3,406,14,1.0,66,True,310,0.25,NIPA-like protein 3
+ENSG00000147789,ZNF7,P17097,3,686,6,1.0,66,True,406,0.41,Zinc finger protein 7 (Zinc finger protein HF.16) (Zinc fing
+ENSG00000166069,TMCO5A,Q8N6Q1,2,288,11,1.0,66,True,195,0.33,Transmembrane and coiled-coil domain-containing protein 5A
+ENSG00000134755,DSC2,Q02487,2,901,18,1.0,65,True,683,0.25,Desmocollin-2 (Cadherin family member 2) (Desmocollin-3) (De
+ENSG00000134762,DSC3,Q14574,2,896,18,1.0,65,True,686,0.24,Desmocollin-3 (Cadherin family member 3) (Desmocollin-4) (HT
+ENSG00000134765,DSC1,Q08554,2,894,17,1.0,65,True,659,0.27,Desmocollin-1 (Cadherin family member 1) (Desmosomal glycopr
+ENSG00000177414,UBE2U,Q5VVX9,2,321,11,1.0,65,True,254,0.23,Ubiquitin-conjugating enzyme E2 U (EC 2.3.2.23) (E2 ubiquiti
+ENSG00000188523,CFAP77,Q6ZQR2,2,320,8,1.0,65,True,213,0.34,Cilia- and flagella-associated protein 77
+ENSG00000103495,MAZ,P56270,4,477,11,1.0,64,True,161,0.66,Myc-associated zinc finger protein (MAZI) (Pur-1) (Purine-bi
+ENSG00000115290,GRB14,Q14449,2,540,16,1.0,64,True,375,0.31,Growth factor receptor-bound protein 14 (GRB14 adapter prote
+ENSG00000124532,MRS2,Q9HD23,3,443,16,1.0,64,True,324,0.28,"Magnesium transporter MRS2 homolog, mitochondrial (MRS2-like"
+ENSG00000157111,TMEM171,Q8WVE6,2,324,4,1.0,64,True,139,0.57,Transmembrane protein 171
+ENSG00000247077,PGAM5,Q96HS1,2,289,8,0.94,64,True,233,0.2,"Serine/threonine-protein phosphatase PGAM5, mitochondrial (E"
+ENSG00000104442,ARMC1,Q9NVT9,2,282,9,1.0,63,True,208,0.27,Armadillo repeat-containing protein 1
+ENSG00000129691,ASH2L,Q9UBL3,3,628,18,1.0,63,True,440,0.31,Set1/Ash2 histone methyltransferase complex subunit ASH2 (AS
+ENSG00000133106,EPSTI1,Q96J88,3,318,17,1.0,63,True,147,0.54,Epithelial-stromal interaction protein 1
+ENSG00000143889,HNRNPLL,Q8WVV9,4,542,19,1.0,63,True,399,0.27,Heterogeneous nuclear ribonucleoprotein L-like (hnRNPLL) (St
+ENSG00000145996,CDKAL1,Q5VV42,2,579,15,1.0,63,True,444,0.24,Threonylcarbamoyladenosine tRNA methylthiotransferase (EC 2.
+ENSG00000163840,DTX3L,Q8TDB6,2,740,7,1.0,63,True,562,0.24,E3 ubiquitin-protein ligase DTX3L (EC 2.3.2.27) (B-lymphoma-
+ENSG00000163870,TPRA1,Q86W33,3,373,14,1.0,63,True,271,0.28,Transmembrane protein adipocyte-associated 1 (Integral membr
+ENSG00000170421,KRT8,P05787,2,483,11,1.0,63,True,318,0.35,"Keratin, type II cytoskeletal 8 (Cytokeratin-8) (CK-8) (Kera"
+ENSG00000171148,TADA3,O75528,2,432,9,1.0,63,True,242,0.44,Transcriptional adapter 3 (ADA3 homolog) (hADA3) (STAF54) (T
+ENSG00000186919,ZACN,Q401N2,3,412,12,1.0,63,True,326,0.22,Ligand-gated cation channel ZACN (Ligand-gated ion channel z
+ENSG00000260916,CCPG1,Q9ULG6,3,757,12,1.0,63,True,342,0.55,Cell cycle progression protein 1 (Cell cycle progression res
+ENSG00000109062,NHERF1,O14745,2,358,8,1.0,62,True,177,0.51,Na(+)/H(+) exchange regulatory cofactor NHE-RF1 (NHERF-1) (E
+ENSG00000129450,SIGLEC9,Q9Y336,2,463,8,1.0,62,True,343,0.27,Sialic acid-binding Ig-like lectin 9 (Siglec-9) (CDw329) (Pr
+ENSG00000184058,TBX1,O43435,3,398,10,1.0,62,True,206,0.49,T-box transcription factor TBX1 (T-box protein 1) (Testis-sp
+ENSG00000254521,SIGLEC12,Q96PQ1,2,595,10,1.0,62,True,455,0.24,Sialic acid-binding Ig-like lectin 12 (Siglec-12) (Sialic ac
+ENSG00000090932,DLL3,Q9NYJ7,2,618,11,1.0,61,True,399,0.36,Delta-like protein 3 (Drosophila Delta homolog 3) (Delta3)
+ENSG00000168300,PCMTD1,Q96MG8,2,357,7,0.93,61,True,269,0.25,Protein-L-isoaspartate O-methyltransferase domain-containing
+ENSG00000170264,FAM161A,Q3B820,2,660,8,1.0,61,True,274,0.59,Protein FAM161A
+ENSG00000176915,ANKLE2,Q86XL3,2,938,15,1.0,61,True,478,0.49,Ankyrin repeat and LEM domain-containing protein 2 (LEM doma
+ENSG00000197912,SPG7,Q9UQ90,2,795,19,1.0,61,True,626,0.22,Mitochondrial inner membrane m-AAA protease component parapl
+ENSG00000009765,IYD,Q6PHW0,3,289,10,1.0,60,True,216,0.26,Iodotyrosine deiodinase 1 (IYD-1) (EC 1.21.1.1) (Iodotyrosin
+ENSG00000101079,NDRG3,Q9UGV2,2,375,16,0.92,60,True,295,0.23,Protein NDRG3 (N-myc downstream-regulated gene 3 protein)
+ENSG00000250305,TRMT9B,Q9P272,2,454,4,1.0,60,True,220,0.52,Probable tRNA methyltransferase 9B (Probable tRNA methyltran
+ENSG00000066117,SMARCD1,Q96GM5,2,515,15,1.0,59,True,389,0.25,SWI/SNF-related matrix-associated actin-dependent regulator 
+ENSG00000078043,PIAS2,O75928,2,621,16,1.0,59,True,358,0.43,E3 SUMO-protein ligase PIAS2 (EC 2.3.2.-) (Androgen receptor
+ENSG00000146963,LUC7L2,Q9Y383,3,392,14,1.0,59,True,238,0.4,Putative RNA-binding protein Luc7-like 2
+ENSG00000156925,ZIC3,O60481,2,467,5,1.0,59,True,156,0.67,Zinc finger protein ZIC 3 (Zinc finger protein 203) (Zinc fi
+ENSG00000170412,GPRC5C,Q9NQ84,2,441,6,1.0,59,True,265,0.4,G-protein coupled receptor family C group 5 member C (Retino
+ENSG00000071626,DAZAP1,Q96EP5,2,407,14,1.0,58,True,150,0.64,DAZ-associated protein 1 (Deleted in azoospermia-associated 
+ENSG00000117155,SSX2IP,Q9Y2D8,3,614,16,1.0,58,True,386,0.38,Afadin- and alpha-actinin-binding protein (ADIP) (Afadin DIL
+ENSG00000143355,LHX9,Q9NQ69,3,397,8,1.0,58,True,191,0.52,LIM/homeobox protein Lhx9 (LIM homeobox protein 9)
+ENSG00000149179,CSTPP1,Q9H6J7,4,331,13,0.91,58,True,264,0.22,Centriolar satellite-associated tubulin polyglutamylase comp
+ENSG00000155629,PIK3AP1,Q6ZUJ8,3,805,20,1.0,58,True,390,0.52,Phosphoinositide 3-kinase adapter protein 1 (B-cell adapter 
+ENSG00000160049,DFFA,O00273,2,331,8,1.0,58,True,234,0.3,DNA fragmentation factor subunit alpha (DNA fragmentation fa
+ENSG00000162745,OLFML2B,Q68BL8,2,750,10,1.0,58,True,406,0.46,Olfactomedin-like protein 2B (Photomedin-2)
+ENSG00000099904,ZDHHC8,Q9ULC8,3,765,14,1.0,57,True,276,0.64,Palmitoyltransferase ZDHHC8 (EC 2.3.1.225) (Zinc finger DHHC
+ENSG00000136146,MED4,Q9NPJ6,2,270,9,1.0,57,True,141,0.49,Mediator of RNA polymerase II transcription subunit 4 (Activ
+ENSG00000141497,ZMYND15,Q9H091,3,742,15,1.0,57,True,538,0.28,Zinc finger MYND domain-containing protein 15
+ENSG00000144031,ANKRD53,Q8N9V6,2,530,8,1.0,57,True,221,0.59,Ankyrin repeat domain-containing protein 53
+ENSG00000152763,DNAI4,Q5VTH9,2,848,19,1.0,57,True,510,0.41,Dynein axonemal intermediate chain 4 (WD repeat-containing p
+ENSG00000164045,CDC25A,P30304,2,524,16,1.0,57,True,201,0.62,M-phase inducer phosphatase 1 (EC 3.1.3.48) (Dual specificit
+ENSG00000105383,CD33,P20138,3,364,10,1.0,56,True,240,0.35,Myeloid cell surface antigen CD33 (Sialic acid-binding Ig-li
+ENSG00000147257,GPC3,P51654,3,580,12,1.0,56,True,446,0.24,Glypican-3 (GTR2-2) (Intestinal protein OCI-5) (MXR7) [Cleav
+ENSG00000154678,PDE1C,Q14123,2,709,20,1.0,56,True,459,0.36,"Dual specificity calcium/calmodulin-dependent 3',5'-cyclic n"
+ENSG00000183762,KREMEN1,Q96MU8,3,473,15,1.0,56,True,315,0.34,Kremen protein 1 (Dickkopf receptor) (Kringle domain-contain
+ENSG00000134207,SYT6,Q5T7P8,2,510,8,1.0,55,True,281,0.45,Synaptotagmin-6 (Synaptotagmin VI) (SytVI)
+ENSG00000147509,RGS20,O76081,3,388,8,1.0,55,True,143,0.63,Regulator of G-protein signaling 20 (RGS20) (Gz-selective GT
+ENSG00000156599,ZDHHC5,Q9C0B5,2,715,13,1.0,55,True,262,0.64,Palmitoyltransferase ZDHHC5 (EC 2.3.1.225) (Zinc finger DHHC
+ENSG00000164402,SEPTIN8,Q92599,4,483,15,1.0,55,True,385,0.21,Septin-8
+ENSG00000068137,PLEKHH3,Q7Z736,2,793,16,1.0,54,True,598,0.25,Pleckstrin homology domain-containing family H member 3 (PH 
+ENSG00000075240,GRAMD4,Q6IC98,2,578,20,1.0,54,True,396,0.33,GRAM domain-containing protein 4 (Death-inducing protein)
+ENSG00000104064,GABPB1,Q06547,4,395,11,1.0,54,True,229,0.42,GA-binding protein subunit beta-1 (GABP subunit beta-1) (GAB
+ENSG00000110435,PDHX,O00330,2,501,13,1.0,54,True,378,0.25,"Pyruvate dehydrogenase protein X component, mitochondrial (D"
+ENSG00000133083,DCLK1,O15075,4,740,20,1.0,54,True,458,0.39,Serine/threonine-protein kinase DCLK1 (EC 2.7.11.1) (Doublec
+ENSG00000145632,PLK2,Q9NYY3,2,685,17,1.0,54,True,529,0.23,Serine/threonine-protein kinase PLK2 (EC 2.7.11.21) (Polo-li
+ENSG00000177707,NECTIN3,Q9NQS3,3,549,13,1.0,54,True,307,0.45,Nectin-3 (CDw113) (Nectin cell adhesion molecule 3) (Poliovi
+ENSG00000022840,RNF10,Q8N5U6,2,811,20,1.0,53,True,379,0.54,E3 ubiquitin-protein ligase RNF10 (EC 2.3.2.27) (RING finger
+ENSG00000028528,SNX1,Q13596,3,522,19,1.0,53,True,369,0.3,Sorting nexin-1
+ENSG00000101546,RBFA,Q8N0V3,2,343,10,1.0,53,True,132,0.62,"Putative ribosome-binding factor A, mitochondrial"
+ENSG00000109184,DCUN1D4,Q92564,3,292,14,1.0,53,True,200,0.33,DCN1-like protein 4 (DCNL4) (DCUN1 domain-containing protein
+ENSG00000150676,CCDC83,Q8IWF9,2,413,12,1.0,53,True,250,0.4,Coiled-coil domain-containing protein 83
+ENSG00000168724,DNAJC21,Q5F1R6,3,531,17,1.0,53,True,280,0.48,DnaJ homolog subfamily C member 21 (DnaJ homolog subfamily A
+ENSG00000173264,GPR137,Q96N19,3,417,10,1.0,53,True,300,0.28,Integral membrane protein GPR137 (Transmembrane 7 superfamil
+ENSG00000185869,ZNF829,Q3KNS6,2,432,8,1.0,53,True,228,0.48,Zinc finger protein 829
+ENSG00000101017,CD40,P25942,2,277,12,1.0,52,True,224,0.21,Tumor necrosis factor receptor superfamily member 5 (B-cell 
+ENSG00000108100,CCNY,Q8ND76,3,341,13,1.0,52,True,230,0.34,Cyclin-Y (Cyc-Y) (Cyclin box protein 1) (Cyclin fold protein
+ENSG00000111490,TBC1D30,Q9Y2I9,3,924,15,1.0,52,True,432,0.54,TBC1 domain family member 30
+ENSG00000161011,SQSTM1,Q13501,2,440,10,1.0,52,True,198,0.56,Sequestosome-1 (EBI3-associated protein of 60 kDa) (EBIAP) (
+ENSG00000166402,TUB,P50607,2,506,15,1.0,52,True,263,0.49,Tubby protein homolog
+ENSG00000100284,TOM1,O60784,4,492,19,1.0,51,True,248,0.5,Target of Myb1 membrane trafficking protein (Target of Myb p
+ENSG00000110148,CCKBR,P32239,2,447,7,0.92,51,True,293,0.35,Gastrin/cholecystokinin type B receptor (CCK-B receptor) (CC
+ENSG00000111142,METAP2,P50579,3,478,15,1.0,51,True,363,0.25,Methionine aminopeptidase 2 (MAP 2) (MetAP 2) (EC 3.4.11.18)
+ENSG00000129993,CBFA2T3,O75081,2,653,13,1.0,51,True,273,0.59,Transcriptional corepressor CBFA2T3 (MTG8-related protein 2)
+ENSG00000167994,RAB3IL1,Q8TBN0,2,382,11,1.0,51,True,264,0.31,Guanine nucleotide exchange factor for Rab-3A (Rab-3A-intera
+ENSG00000175463,TBC1D10C,Q8IV04,2,446,14,1.0,51,True,299,0.33,Carabin (TBC1 domain family member 10C)
+ENSG00000168004,PLAAT5,Q96KN8,3,279,10,1.0,50,True,151,0.46,Phospholipase A and acyltransferase 5 (Ca(2+)-independent N-
+ENSG00000091732,ZC3HC1,Q86WB0,2,502,12,1.0,49,True,218,0.57,Zinc finger C3HC-type protein 1 (Nuclear-interacting partner
+ENSG00000103351,CLUAP1,Q96AJ1,2,413,14,1.0,49,True,306,0.27,Clusterin-associated protein 1 (Qilin)
+ENSG00000105290,APLP1,P51693,2,650,20,1.0,49,True,333,0.49,Amyloid beta precursor like protein 1 (Amyloid beta (A4) pre
+ENSG00000125351,UPF3B,Q9BZI7,2,483,13,1.0,49,True,164,0.66,Regulator of nonsense transcripts 3B (Nonsense mRNA reducing
+ENSG00000135622,SEMA4F,O95754,2,770,16,0.9,49,True,617,0.21,Semaphorin-4F (Semaphorin-M) (Sema M) (Semaphorin-W) (Sema W
+ENSG00000147256,ARHGAP36,Q6ZRI8,4,547,15,1.0,49,True,380,0.31,Rho GTPase-activating protein 36
+ENSG00000164066,INTU,Q9ULD6,3,942,19,1.0,49,True,685,0.28,Protein inturned (Inturned planar cell polarity effector hom
+ENSG00000175513,TSGA10IP,Q3SY00,2,556,12,1.0,49,True,183,0.67,Testis-specific protein 10-interacting protein (Tsga10-inter
+ENSG00000089692,LAG3,P18627,2,525,10,1.0,48,True,371,0.3,Lymphocyte activation gene 3 protein (LAG-3) (CD antigen CD2
+ENSG00000104907,TRMT1,Q9NXH9,2,659,18,1.0,48,True,477,0.29,tRNA (guanine(26)-N(2))-dimethyltransferase (EC 2.1.1.216) (
+ENSG00000117906,RCN2,Q14257,2,317,9,1.0,48,True,218,0.32,Reticulocalbin-2 (Calcium-binding protein ERC-55) (E6-bindin
+ENSG00000120889,TNFRSF10B,O14763,2,440,12,1.0,48,True,213,0.52,Tumor necrosis factor receptor superfamily member 10B (Death
+ENSG00000122375,OPN4,Q9UHM6,2,478,12,1.0,48,True,317,0.35,Melanopsin (Opsin-4)
+ENSG00000165782,PIP4P1,Q86T03,2,277,9,1.0,48,True,200,0.29,"Type 1 phosphatidylinositol 4,5-bisphosphate 4-phosphatase ("
+ENSG00000167775,CD320,Q9NPF0,2,282,6,1.0,48,True,165,0.42,CD320 antigen (8D6 antigen) (FDC-signaling molecule 8D6) (FD
+ENSG00000082146,STRADB,Q9C0K7,2,418,12,1.0,47,True,248,0.41,STE20-related kinase adapter protein beta (STRAD beta) (Amyo
+ENSG00000100593,ISM2,Q6H9L7,3,571,12,1.0,47,True,263,0.54,Isthmin-2 (Thrombospondin and AMOP domain-containing isthmin
+ENSG00000108309,RUNDC3A,Q59EK9,3,446,15,1.0,47,True,298,0.34,RUN domain-containing protein 3A (Rap2-interacting protein 8
+ENSG00000108443,RPS6KB1,P23443,4,525,20,1.0,47,True,360,0.32,Ribosomal protein S6 kinase beta-1 (S6K-beta-1) (S6K1) (EC 2
+ENSG00000136944,LMX1B,O60663,3,402,11,1.0,47,True,126,0.69,LIM homeobox transcription factor 1-beta (LIM/homeobox prote
+ENSG00000165752,STK32C,Q86UX6,2,486,14,1.0,47,True,317,0.36,Serine/threonine-protein kinase 32C (EC 2.7.11.1) (PKE) (Yet
+ENSG00000269335,IKBKG,Q9Y6K9,3,419,13,1.0,47,True,313,0.26,NF-kappa-B essential modulator (NEMO) (FIP-3) (IkB kinase-as
+ENSG00000131370,SH3BP5,O60239,2,455,11,1.0,46,True,210,0.54,SH3 domain-binding protein 5 (SH3BP-5) (SH3 domain-binding p
+ENSG00000152953,STK32B,Q9NY57,2,414,14,1.0,46,True,331,0.21,Serine/threonine-protein kinase 32B (EC 2.7.11.1) (Yet anoth
+ENSG00000156050,FAM161B,Q96MY7,2,647,11,1.0,46,True,222,0.66,Protein FAM161B
+ENSG00000205268,PDE7A,Q13946,3,482,16,1.0,46,True,311,0.36,"High affinity 3',5'-cyclic-AMP phosphodiesterase 7A (EC 3.1."
+ENSG00000008056,SYN1,P17600,2,705,15,1.0,45,True,310,0.56,Synapsin-1 (Brain protein 4.1) (Synapsin I)
+ENSG00000075975,MKRN2,Q9H000,2,416,10,1.0,45,True,248,0.41,E3 ubiquitin-protein ligase makorin-2 (EC 2.3.2.27) (RING fi
+ENSG00000117419,ERI3,O43414,2,337,10,1.0,45,True,201,0.41,ERI1 exoribonuclease 3 (EC 3.1.-.-) (Prion interactor 1) (Pr
+ENSG00000174371,EXO1,Q9UQ84,2,846,14,1.0,45,True,339,0.6,Exonuclease 1 (hExo1) (EC 3.1.-.-) (Exonuclease I) (hExoI)
+ENSG00000174963,ZIC4,Q8N9L1,4,334,6,1.0,45,True,160,0.52,Zinc finger protein ZIC 4 (Zinc finger protein of the cerebe
+ENSG00000178233,TMEM151B,Q8IW70,2,566,5,1.0,45,True,280,0.51,Transmembrane protein 151B (Transmembrane protein 193)
+ENSG00000187116,LILRA5,A6NI73,2,299,9,1.0,45,True,192,0.37,Leukocyte immunoglobulin-like receptor subfamily A member 5 
+ENSG00000019102,VSIG2,Q96IQ7,2,327,9,1.0,44,True,245,0.26,V-set and immunoglobulin domain-containing protein 2 (Cortic
+ENSG00000076248,UNG,P13051,2,313,9,1.0,44,True,248,0.21,Uracil-DNA glycosylase (UDG) (EC 3.2.2.27)
+ENSG00000092330,TINF2,Q9BSI4,2,451,11,1.0,44,True,158,0.65,TERF1-interacting nuclear factor 2 (TRF1-interacting nuclear
+ENSG00000136866,ZFP37,Q9Y6Q3,3,630,9,1.0,44,True,341,0.46,Zinc finger protein 37 homolog (Zfp-37)
+ENSG00000140090,SLC24A4,Q8NFF2,3,622,20,1.0,44,True,379,0.4,Sodium/potassium/calcium exchanger 4 (Na(+)/K(+)/Ca(2+)-exch
+ENSG00000156219,ART3,Q13508,3,389,12,1.0,44,True,297,0.25,Ecto-ADP-ribosyltransferase 3 (EC 2.4.2.31) (ADP-ribosyltran
+ENSG00000213199,ASIC3,Q9UHC3,4,531,18,1.0,44,True,419,0.22,Acid-sensing ion channel 3 (ASIC3) (hASIC3) (Amiloride-sensi
+ENSG00000070495,JMJD6,Q6NYC1,2,403,9,1.0,43,True,309,0.24,Bifunctional arginine demethylase and lysyl-hydroxylase JMJD
+ENSG00000125967,NECAB3,Q96P71,2,396,15,0.98,43,True,240,0.41,N-terminal EF-hand calcium-binding protein 3 (Amyloid-beta A
+ENSG00000140506,LMAN1L,Q9HAT1,2,526,17,1.0,43,True,321,0.4,Protein ERGIC-53-like (ERGIC53-like protein) (Lectin mannose
+ENSG00000153823,PID1,Q7Z2X4,4,250,6,1.0,43,True,171,0.32,"PTB-containing, cubilin and LRP1-interacting protein (P-CLI1"
+ENSG00000173848,NET1,Q7Z628,2,596,14,1.0,43,True,345,0.42,Neuroepithelial cell-transforming gene 1 protein (Proto-onco
+ENSG00000180316,PNPLA1,Q8N8W4,3,532,12,1.0,43,True,290,0.46,Omega-hydroxyceramide transacylase (EC 2.3.1.296) (Patatin-l
+ENSG00000181392,SYNE4,Q8N205,2,404,10,1.0,43,True,176,0.57,Nesprin-4 (KASH domain-containing protein 4) (KASH4) (Nuclea
+ENSG00000196405,EVL,Q9UI08,3,416,17,1.0,43,True,154,0.64,Ena/VASP-like protein (Ena/vasodilator-stimulated phosphopro
+ENSG00000214694,ARHGEF33,A8MVX0,2,844,17,1.0,43,True,298,0.65,Rho guanine nucleotide exchange factor 33
+ENSG00000001497,LAS1L,Q9Y4W2,4,734,18,1.0,42,True,503,0.32,Ribosomal biogenesis protein LAS1L (Endoribonuclease LAS1L) 
+ENSG00000013441,CLK1,P49759,3,484,14,1.0,42,True,341,0.31,Dual specificity protein kinase CLK1 (EC 2.7.12.1) (CDC-like
+ENSG00000076984,MAP2K7,O14733,3,419,15,1.0,42,True,337,0.2,Dual specificity mitogen-activated protein kinase kinase 7 (
+ENSG00000122224,LY9,Q9HBG7,2,655,13,1.0,42,True,426,0.36,T-lymphocyte surface antigen Ly-9 (Cell surface molecule Ly-
+ENSG00000128915,ICE2,Q659A1,2,982,16,1.0,42,True,512,0.48,Little elongation complex subunit 2 (Interactor of little el
+ENSG00000128923,MINDY2,Q8NBR6,2,621,11,1.0,42,True,295,0.53,Ubiquitin carboxyl-terminal hydrolase MINDY-2 (EC 3.4.19.12)
+ENSG00000139793,MBNL2,Q5VZF2,3,373,9,1.0,42,True,161,0.57,Muscleblind-like protein 2 (Muscleblind-like protein 1) (Mus
+ENSG00000144730,IL17RD,Q8NFM7,2,739,14,1.0,42,True,495,0.34,Interleukin-17 receptor D (IL-17 receptor D) (IL-17RD) (IL17
+ENSG00000151923,TIAL1,Q01085,2,375,14,1.0,42,True,293,0.23,Nucleolysin TIAR (TIA-1-related protein)
+ENSG00000154099,DNAAF1,Q8NEP3,2,725,15,1.0,42,True,245,0.67,Dynein axonemal assembly factor 1 (Leucine-rich repeat-conta
+ENSG00000170962,PDGFD,Q9GZP0,2,370,9,1.0,42,True,271,0.27,Platelet-derived growth factor D (PDGF-D) (Iris-expressed gr
+ENSG00000175193,PARL,Q9H300,2,379,11,1.0,42,True,298,0.22,"Presenilin-associated rhomboid-like protein, mitochondrial ("
+ENSG00000182168,UNC5C,O95185,2,931,19,1.0,42,True,746,0.21,Netrin receptor UNC5C (Protein unc-5 homolog 3) (Protein unc
+ENSG00000182985,CADM1,Q9BY67,4,442,13,1.0,42,True,301,0.33,Cell adhesion molecule 1 (Immunoglobulin superfamily member 
+ENSG00000251692,PTX4,Q96A99,2,478,5,1.0,42,True,350,0.27,Pentraxin-4
+ENSG00000065054,NHERF2,Q15599,3,337,10,1.0,41,True,201,0.41,Na(+)/H(+) exchange regulatory cofactor NHE-RF2 (NHERF-2) (N
+ENSG00000084070,SMAP2,Q8WU79,3,429,13,1.0,41,True,135,0.69,Stromal membrane-associated protein 2 (Stromal membrane-asso
+ENSG00000130751,NPAS1,Q99742,2,590,14,1.0,41,True,275,0.54,Neuronal PAS domain-containing protein 1 (Neuronal PAS1) (Ba
+ENSG00000132768,DPH2,Q9BQC3,2,489,8,1.0,41,True,385,0.22,2-(3-amino-3-carboxypropyl)histidine synthase subunit 2 (Dip
+ENSG00000135457,TFCP2,Q12800,4,502,17,1.0,41,True,358,0.3,Alpha-globin transcription factor CP2 (SAA3 enhancer factor)
+ENSG00000136243,NUP42,O15504,2,423,10,1.0,41,True,128,0.7,Nucleoporin NUP42 (NLP-1) (NUP42 homolog) (Nucleoporin hCG1)
+ENSG00000146276,GABRR1,P24046,3,479,12,1.0,41,True,299,0.38,Gamma-aminobutyric acid receptor subunit rho-1 (GABA(A) rece
+ENSG00000155463,OXA1L,Q15070,2,435,12,1.0,41,True,290,0.34,Mitochondrial inner membrane protein OXA1L (OXA1Hs) (Oxidase
+ENSG00000165509,MAGEC3,Q8TD91,2,643,9,1.0,41,True,312,0.52,Melanoma-associated antigen C3 (Cancer/testis antigen 7.2) (
+ENSG00000167767,KRT80,Q6KB66,2,452,11,1.0,41,True,315,0.31,"Keratin, type II cytoskeletal 80 (Cytokeratin-80) (CK-80) (K"
+ENSG00000178222,RNF212,Q495C1,4,297,15,1.0,41,True,226,0.25,Probable E3 SUMO-protein ligase RNF212 (EC 2.3.2.-) (Probabl
+ENSG00000181036,FCRL6,Q6DN72,4,434,17,1.0,41,True,285,0.36,Fc receptor-like protein 6 (FcR-like protein 6) (FcRL6) (Fc 
+ENSG00000187736,NHEJ1,Q9H9Q4,2,299,8,1.0,41,True,226,0.25,Non-homologous end-joining factor 1 (Protein cernunnos) (XRC
+ENSG00000003147,ICA1,Q05084,3,483,18,1.0,40,True,284,0.42,Islet cell autoantigen 1 (69 kDa islet cell autoantigen) (IC
+ENSG00000085514,PILRA,Q9UKJ1,3,303,10,1.0,40,True,126,0.59,Paired immunoglobulin-like type 2 receptor alpha (Cell surfa
+ENSG00000112146,FBXO9,Q9UK97,3,447,16,1.0,40,True,362,0.2,F-box only protein 9 (Cross-immune reaction antigen 1) (Rena
+ENSG00000123094,RASSF8,Q8NHQ8,2,419,5,1.0,40,True,290,0.31,Ras association domain-containing protein 8 (Carcinoma-assoc
+ENSG00000135916,ITM2C,Q9NQX7,3,267,7,1.0,40,True,212,0.21,Integral membrane protein 2C (Cerebral protein 14) (Transmem
+ENSG00000155906,RMND1,Q9NWS8,2,449,12,1.0,40,True,287,0.37,Required for meiotic nuclear division protein 1 homolog
+ENSG00000164530,PI16,Q6UXB8,2,463,9,1.0,40,True,185,0.6,Peptidase inhibitor 16 (PI-16) (Cysteine-rich secretory prot
+ENSG00000168546,GFRA2,O00451,3,464,12,1.0,40,True,334,0.29,GDNF family receptor alpha-2 (GDNF receptor alpha-2) (GDNFR-
+ENSG00000168710,AHCYL1,O43865,2,530,18,1.0,40,True,426,0.21,S-adenosylhomocysteine hydrolase-like protein 1 (DC-expresse
+ENSG00000172273,HINFP,Q9BQA5,2,517,10,1.0,40,True,340,0.35,Histone H4 transcription factor (Histone nuclear factor P) (
+ENSG00000182264,IZUMO1,Q8IYV9,3,350,14,1.0,40,True,261,0.27,Izumo sperm-egg fusion protein 1 (Oocyte binding/fusion fact
+ENSG00000266094,RASSF5,Q8WWW0,3,418,10,1.0,40,True,296,0.3,Ras association domain-containing protein 5 (New ras effecto
+ENSG00000102230,PCYT1B,Q9Y5K3,3,369,12,1.0,39,True,259,0.3,Choline-phosphate cytidylyltransferase B (EC 2.7.7.15) (CCT-
+ENSG00000104974,LILRA1,O75019,2,489,10,1.0,39,True,393,0.21,Leukocyte immunoglobulin-like receptor subfamily A member 1 
+ENSG00000126391,FRMD8,Q9BZ67,3,464,12,1.0,39,True,352,0.25,FERM domain-containing protein 8 (Band4.1 inhibitor LRP inte
+ENSG00000152422,XRCC4,Q13426,2,336,8,1.0,39,True,214,0.37,DNA repair protein XRCC4 (hXRCC4) (X-ray repair cross-comple
+ENSG00000156804,FBXO32,Q969P5,2,355,10,1.0,39,True,283,0.21,F-box only protein 32 (Atrogin-1) (Muscle atrophy F-box prot
+ENSG00000170153,RNF150,Q9ULK6,4,438,11,1.0,39,True,308,0.3,RING finger protein 150
+ENSG00000175161,CADM2,Q8N3J6,3,435,13,1.0,39,True,312,0.3,Cell adhesion molecule 2 (Immunoglobulin superfamily member 
+ENSG00000061794,MRPS35,P82673,2,323,10,1.0,38,True,260,0.2,Small ribosomal subunit protein mS35 (28S ribosomal protein 
+ENSG00000087269,NOP14,P78316,2,857,20,1.0,38,True,483,0.44,Nucleolar protein 14 (Nucleolar complex protein 14)
+ENSG00000099783,HNRNPM,P52272,2,730,20,1.0,38,True,258,0.65,Heterogeneous nuclear ribonucleoprotein M (hnRNP M)
+ENSG00000106617,PRKAG2,Q9UGJ0,3,569,19,1.0,38,True,317,0.45,5'-AMP-activated protein kinase subunit gamma-2 (AMPK gamma2
+ENSG00000120594,PLXDC2,Q6UX71,2,529,15,1.0,38,True,267,0.5,Plexin domain-containing protein 2 (Tumor endothelial marker
+ENSG00000132716,DCAF8,Q5TAQ9,2,597,13,1.0,38,True,406,0.33,DDB1- and CUL4-associated factor 8 (WD repeat-containing pro
+ENSG00000139192,TAPBPL,Q9BX59,2,468,10,1.0,38,True,370,0.22,Tapasin-related protein (TAPASIN-R) (TAP-binding protein-lik
+ENSG00000142556,ZNF614,Q8N883,2,585,6,1.0,38,True,329,0.44,Zinc finger protein 614
+ENSG00000144339,TMEFF2,Q9UIK5,3,374,14,1.0,38,True,231,0.4,Tomoregulin-2 (TR-2) (Hyperplastic polyposis protein 1) (Tra
+ENSG00000161671,EMC10,Q5UCC4,2,262,9,1.0,38,True,131,0.5,ER membrane protein complex subunit 10 (Hematopoietic signal
+ENSG00000163596,ICA1L,Q8NDH6,2,482,14,1.0,38,True,266,0.46,Islet cell autoantigen 1-like protein (Amyotrophic lateral s
+ENSG00000170571,EMB,Q6PCB8,2,327,11,1.0,38,True,241,0.28,Embigin
+ENSG00000174945,AMZ1,Q400G9,2,498,8,1.0,38,True,375,0.25,Archaemetzincin-1 (EC 3.4.-.-) (Archeobacterial metalloprote
+ENSG00000177058,SLC38A9,Q8NBW4,3,561,16,1.0,38,True,447,0.22,Neutral amino acid transporter 9 (Solute carrier family 38 m
+ENSG00000188677,PARVB,Q9HBI1,3,364,16,1.0,38,True,288,0.22,Beta-parvin (Affixin)
+ENSG00000198467,TPM2,P07951,2,284,12,1.0,38,True,214,0.25,Tropomyosin beta chain (Beta-tropomyosin) (Tropomyosin-2)
+ENSG00000255529,POLR2M,P0CAP2,4,368,11,1.0,38,True,123,0.67,DNA-directed RNA polymerase II subunit GRINL1A (DNA-directed
+ENSG00000071655,MBD3,O95983,2,291,7,1.0,37,True,121,0.59,Methyl-CpG-binding domain protein 3 (Methyl-CpG-binding prot
+ENSG00000087077,TRIP6,Q15654,3,476,13,1.0,37,True,223,0.53,Thyroid receptor-interacting protein 6 (TR-interacting prote
+ENSG00000127990,SGCE,O43556,3,437,16,1.0,37,True,251,0.44,Epsilon-sarcoglycan (Epsilon-SG)
+ENSG00000145416,MARCHF1,Q8TCQ1,2,289,7,1.0,37,True,172,0.41,E3 ubiquitin-protein ligase MARCHF1 (EC 2.3.2.27) (Membrane-
+ENSG00000164118,CEP44,Q9C0F1,2,390,11,1.0,37,True,176,0.55,Centrosomal protein of 44 kDa (Cep44) (HBV PreS1-transactiva
+ENSG00000185634,SHC4,Q6S5L8,2,630,13,1.0,37,True,305,0.52,SHC-transforming protein 4 (Rai-like protein) (RaLP) (SHC-tr
+ENSG00000005194,CIAPIN1,Q6FI81,2,312,10,1.0,36,True,174,0.45,Anamorsin (Cytokine-induced apoptosis inhibitor 1) (Fe-S clu
+ENSG00000100796,PPP4R3A,Q6IN85,3,833,18,1.0,36,True,637,0.24,Serine/threonine-protein phosphatase 4 regulatory subunit 3A
+ENSG00000105197,TIMM50,Q3ZCQ8,2,353,12,1.0,36,True,273,0.23,Mitochondrial import inner membrane translocase subunit TIM5
+ENSG00000135720,DYNC1LI2,O43237,2,492,14,1.0,36,True,302,0.4,Cytoplasmic dynein 1 light intermediate chain 2 (Dynein ligh
+ENSG00000139496,NUP58,Q9BVL2,3,599,19,1.0,36,True,199,0.67,Nucleoporin p58/p45 (58 kDa nucleoporin) (Nucleoporin-like p
+ENSG00000140463,BBS4,Q96RK4,3,519,19,1.0,36,True,417,0.21,BBSome complex member BBS4 (Bardet-Biedl syndrome 4 protein)
+ENSG00000153283,CD96,P40200,2,585,16,1.0,36,True,386,0.35,T-cell surface protein tactile (Cell surface antigen CD96) (
+ENSG00000167642,SPINT2,O43291,2,252,8,1.0,36,True,195,0.24,Kunitz-type protease inhibitor 2 (Hepatocyte growth factor a
+ENSG00000170502,NUDT9,Q9BW91,2,350,9,1.0,36,True,277,0.22,ADP-ribose pyrophosphatase (EC 3.6.1.13) (ADP-ribose diphosp
+ENSG00000188779,SKOR1,P84550,2,965,18,1.0,36,True,306,0.69,SKI family transcriptional corepressor 1 (Functional Smad-su
+ENSG00000205302,SNX2,O60749,2,519,16,1.0,36,True,393,0.25,Sorting nexin-2 (Transformation-related gene 9 protein) (TRG
+ENSG00000010295,IFFO1,Q0D2I5,4,559,13,1.0,35,True,288,0.49,Non-homologous end joining factor IFFO1 (NHEJ factor IFFO1) 
+ENSG00000103710,RASL12,Q9NYN1,3,266,7,1.0,35,True,198,0.26,Ras-like protein family member 12 (EC 3.6.5.2) (Ras-like pro
+ENSG00000110025,SNX15,Q9NRS6,2,342,10,1.0,35,True,216,0.38,Sorting nexin-15
+ENSG00000112029,FBXO5,Q9UKT4,2,447,7,1.0,35,True,290,0.35,F-box only protein 5 (Early mitotic inhibitor 1)
+ENSG00000139890,REM2,Q8IYK8,2,340,7,1.0,35,True,135,0.61,GTP-binding protein REM 2 (Rad and Gem-like GTP-binding prot
+ENSG00000151332,MBIP,Q9NS73,3,344,13,1.0,35,True,200,0.42,MAP3K12-binding inhibitory protein 1 (MAPK upstream kinase-b
+ENSG00000156687,UNC5D,Q6UXZ4,2,953,19,1.0,35,True,609,0.37,Netrin receptor UNC5D (Protein unc-5 homolog 4) (Protein unc
+ENSG00000166971,AKTIP,Q9H8T0,2,292,10,1.0,35,True,189,0.36,AKT-interacting protein (Ft1) (Fused toes protein homolog)
+ENSG00000171401,KRT13,P13646,2,458,10,1.0,35,True,303,0.34,"Keratin, type I cytoskeletal 13 (Cytokeratin-13) (CK-13) (Ke"
+ENSG00000196678,ERI2,A8K979,4,691,16,0.91,35,True,287,0.59,ERI1 exoribonuclease 2 (EC 3.1.-.-) (Exonuclease domain-cont
+ENSG00000071203,MS4A12,Q9NXJ0,2,267,7,1.0,34,True,146,0.45,Membrane-spanning 4-domains subfamily A member 12
+ENSG00000086712,TXLNG,Q9NUQ3,2,528,11,1.0,34,True,334,0.37,Gamma-taxilin (Environmental lipopolysaccharide-responding g
+ENSG00000130830,MPP1,Q00013,3,466,17,1.0,34,True,368,0.22,"55 kDa erythrocyte membrane protein (p55) (Membrane protein,"
+ENSG00000133131,MORC4,Q8TE76,2,937,20,1.0,34,True,597,0.37,MORC family CW-type zinc finger protein 4 (Zinc finger CW-ty
+ENSG00000133561,GIMAP6,Q6P9H5,2,292,3,1.0,34,True,158,0.46,GTPase IMAP family member 6 (Immunity-associated nucleotide 
+ENSG00000148200,NR6A1,Q15406,4,480,13,1.0,34,True,321,0.34,Nuclear receptor subfamily 6 group A member 1 (Germ cell nuc
+ENSG00000160339,FCN2,Q15485,2,313,10,1.0,34,True,218,0.32,Ficolin-2 (37 kDa elastin-binding protein) (EBP-37) (Collage
+ENSG00000164512,ANKRD55,Q3KP44,2,614,13,1.0,34,True,295,0.52,Ankyrin repeat domain-containing protein 55
+ENSG00000179520,SLC17A8,Q8NDX2,2,589,13,1.0,34,True,455,0.24,Vesicular glutamate transporter 3 (VGluT3) (Solute carrier f
+ENSG00000182158,CREB3L2,Q70SY1,3,520,15,1.0,34,True,157,0.7,Cyclic AMP-responsive element-binding protein 3-like protein
+ENSG00000185736,ADARB2,Q9NS39,2,739,12,1.0,34,True,583,0.22,Inactive double-stranded RNA-specific editase B2 (RNA-depend
+ENSG00000187398,LUZP2,Q86TE4,2,346,14,1.0,34,True,217,0.38,Leucine zipper protein 2
+ENSG00000196352,CD55,P08174,4,381,16,1.0,34,True,232,0.41,Complement decay-accelerating factor (CD antigen CD55)
+ENSG00000214517,PPME1,Q9Y570,2,386,17,1.0,34,True,308,0.22,Protein phosphatase methylesterase 1 (PME-1) (EC 3.1.1.89)
+ENSG00000099326,MZF1,P28698,2,734,6,1.0,33,True,405,0.45,Myeloid zinc finger 1 (MZF-1) (Zinc finger and SCAN domain-c
+ENSG00000101098,RIMS4,Q9H426,2,269,9,1.0,33,True,123,0.55,Regulating synaptic membrane exocytosis protein 4 (RIM4 gamm
+ENSG00000103005,USB1,Q9BQ65,3,265,9,1.0,33,True,192,0.29,U6 snRNA phosphodiesterase 1 (hUsb1) (3'-5' RNA exonuclease 
+ENSG00000104731,KLHDC4,Q8TBB5,3,520,12,0.94,33,True,370,0.3,Kelch domain-containing protein 4
+ENSG00000104825,NFKBIB,Q15653,2,356,8,1.0,33,True,202,0.44,NF-kappa-B inhibitor beta (NF-kappa-BIB) (I-kappa-B-beta) (I
+ENSG00000136522,MRPL47,Q9HD33,3,250,12,1.0,33,True,190,0.25,Large ribosomal subunit protein uL29m (39S ribosomal protein
+ENSG00000141994,DUS3L,Q96G46,2,650,16,1.0,33,True,474,0.28,tRNA-dihydrouridine(47) synthase [NAD(P)(+)]-like (EC 1.3.1.
+ENSG00000146374,RSPO3,Q9BXY4,2,272,8,1.0,33,True,146,0.47,R-spondin-3 (Protein with TSP type-1 repeat) (hPWTSR) (Roof 
+ENSG00000163001,CFAP36,Q96G28,2,342,13,1.0,33,True,174,0.5,Cilia- and flagella-associated protein 36 (Coiled-coil domai
+ENSG00000171848,RRM2,P31350,2,389,12,1.0,33,True,296,0.24,Ribonucleoside-diphosphate reductase subunit M2 (EC 1.17.4.1
+ENSG00000198732,SMOC1,Q9H4F8,2,434,14,1.0,33,True,293,0.34,SPARC-related modular calcium-binding protein 1 (Secreted mo
+ENSG00000240771,ARHGEF25,Q86VW2,3,580,18,1.0,33,True,328,0.44,Rho guanine nucleotide exchange factor 25 (Guanine nucleotid
+ENSG00000104497,SNX16,P57768,2,344,8,1.0,32,True,172,0.5,Sorting nexin-16
+ENSG00000104973,MED25,Q71SY5,2,747,20,1.0,32,True,338,0.55,Mediator of RNA polymerase II transcription subunit 25 (Acti
+ENSG00000111321,LTBR,P36941,2,435,12,1.0,32,True,148,0.67,Tumor necrosis factor receptor superfamily member 3 (Lymphot
+ENSG00000121774,KHDRBS1,Q07666,2,443,11,1.0,32,True,171,0.62,"KH domain-containing, RNA-binding, signal transduction-assoc"
+ENSG00000163947,ARHGEF3,Q9NR81,3,526,15,1.0,32,True,311,0.41,Rho guanine nucleotide exchange factor 3 (Exchange factor fo
+ENSG00000169181,GSG1L,Q6UXU4,4,331,13,1.0,32,True,203,0.4,Germ cell-specific gene 1-like protein (GSG1-like protein)
+ENSG00000178878,APOLD1,Q96LR9,2,279,3,1.0,32,True,153,0.45,Apolipoprotein L domain-containing protein 1 (Vascular early
+ENSG00000197150,ABCB8,Q9NUT2,4,735,20,1.0,32,True,591,0.21,Mitochondrial potassium channel ATP-binding subunit (ATP-bin
+ENSG00000058091,CDK14,O94921,3,469,16,1.0,31,True,314,0.34,Cyclin-dependent kinase 14 (EC 2.7.11.22) (Cell division pro
+ENSG00000072201,LNX1,Q8TBB1,2,728,12,1.0,31,True,515,0.3,E3 ubiquitin-protein ligase LNX (EC 2.3.2.27) (Ligand of Num
+ENSG00000108244,KRT23,Q9C075,2,422,10,1.0,31,True,302,0.29,"Keratin, type I cytoskeletal 23 (Cytokeratin-23) (CK-23) (Ke"
+ENSG00000116337,AMPD2,Q01433,3,825,20,1.0,31,True,640,0.23,AMP deaminase 2 (EC 3.5.4.6) (AMP deaminase isoform L)
+ENSG00000136280,CCM2,Q9BSQ5,4,444,13,1.0,31,True,259,0.42,Cerebral cavernous malformations 2 protein (Malcavernin)
+ENSG00000138738,PRDM5,Q9NQX1,4,630,19,1.0,31,True,392,0.38,PR domain zinc finger protein 5 (EC 2.1.1.-) (PR domain-cont
+ENSG00000142748,FCN3,O75636,2,299,10,1.0,31,True,219,0.28,Ficolin-3 (Collagen/fibrinogen domain-containing lectin 3 p3
+ENSG00000146729,NIPSNAP2,O75323,2,286,13,1.0,31,True,227,0.23,Protein NipSnap homolog 2 (NipSnap2) (Glioblastoma-amplified
+ENSG00000163006,CCDC138,Q96M89,2,665,17,1.0,31,True,409,0.39,Coiled-coil domain-containing protein 138
+ENSG00000166579,NDEL1,Q9GZM8,2,345,10,1.0,31,True,189,0.46,Nuclear distribution protein nudE-like 1 (Protein Nudel) (Mi
+ENSG00000167723,TRPV3,Q8NET8,3,790,19,1.0,31,True,641,0.2,Transient receptor potential cation channel subfamily V memb
+ENSG00000185483,ROR1,Q01973,2,937,11,1.0,31,True,676,0.28,Inactive tyrosine-protein kinase transmembrane receptor ROR1
+ENSG00000016402,IL20RA,Q9UHF4,3,553,9,1.0,30,True,250,0.55,Interleukin-20 receptor subunit alpha (IL-20 receptor subuni
+ENSG00000082701,GSK3B,P49841,2,420,13,1.0,30,True,335,0.21,Glycogen synthase kinase-3 beta (GSK-3 beta) (EC 2.7.11.26) 
+ENSG00000105137,SYDE1,Q6ZW31,2,735,11,1.0,30,True,300,0.59,Rho GTPase-activating protein SYDE1 (Synapse defective prote
+ENSG00000106565,TMEM176B,Q3YBM2,2,270,7,1.0,30,True,171,0.37,Transmembrane protein 176B (Protein LR8)
+ENSG00000130202,NECTIN2,Q92692,2,538,11,1.0,30,True,319,0.41,Nectin-2 (Herpes virus entry mediator B) (Herpesvirus entry 
+ENSG00000131724,IL13RA1,P78552,2,427,13,1.0,30,True,348,0.2,Interleukin-13 receptor subunit alpha-1 (IL-13 receptor subu
+ENSG00000132749,TESMIN,Q9Y4I5,3,508,11,1.0,30,True,237,0.54,"Tesmin (Metallothionein-like 5, testis-specific) (Testis-spe"
+ENSG00000141971,MVB12A,Q96EY5,2,273,11,1.0,30,True,124,0.55,Multivesicular body subunit 12A (CIN85/CD2AP family-binding 
+ENSG00000164749,HNF4G,Q14541,2,408,11,1.0,30,True,281,0.32,Hepatocyte nuclear factor 4-gamma (HNF-4-gamma) (Nuclear rec
+ENSG00000185585,OLFML2A,Q68BL7,2,652,10,1.0,30,True,424,0.35,Olfactomedin-like protein 2A (Photomedin-1)
+ENSG00000103174,NAGPA,Q9UK23,3,515,13,1.0,29,True,409,0.22,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosami
+ENSG00000107758,PPP3CB,P16298,3,524,17,1.0,29,True,416,0.22,Serine/threonine-protein phosphatase 2B catalytic subunit be
+ENSG00000111615,KRR1,Q13601,2,381,12,1.0,29,True,234,0.39,KRR1 small subunit processome component homolog (HIV-1 Rev-b
+ENSG00000113163,CERT1,Q9Y5P4,3,624,20,1.0,29,True,420,0.33,Ceramide transfer protein (hCERT) (Collagen type IV alpha-3-
+ENSG00000113761,ZNF346,Q9UL40,3,294,12,1.0,29,True,228,0.23,Zinc finger protein 346 (Just another zinc finger protein)
+ENSG00000116396,KCNC4,Q03721,2,635,6,1.0,29,True,344,0.46,Voltage-gated potassium channel KCNC4 (KSHIIIC) (Potassium v
+ENSG00000121680,PEX16,Q9Y5Y5,2,336,13,1.0,29,True,268,0.22,Peroxisomal membrane protein PEX16 (Peroxin-16) (Peroxisomal
+ENSG00000130024,PHF10,Q8WUB8,3,498,16,1.0,29,True,349,0.31,PHD finger protein 10 (BRG1-associated factor 45a) (BAF45a) 
+ENSG00000131558,EXOC4,Q96A65,2,974,20,1.0,29,True,786,0.2,Exocyst complex component 4 (Exocyst complex component Sec8)
+ENSG00000134109,EDEM1,Q92611,2,657,14,1.0,29,True,499,0.25,ER degradation-enhancing alpha-mannosidase-like protein 1
+ENSG00000143226,FCGR2A,P12318,2,317,9,1.0,29,True,211,0.34,Low affinity immunoglobulin gamma Fc region receptor II-a (I
+ENSG00000143398,PIP5K1A,Q99755,4,562,17,1.0,29,True,320,0.44,Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha (PIP5
+ENSG00000148572,NRBF2,Q96F24,2,287,6,1.0,29,True,136,0.53,Nuclear receptor-binding factor 2 (NRBF-2) (Comodulator of P
+ENSG00000165732,DDX21,Q9NR30,2,783,17,1.0,29,True,522,0.34,Nucleolar RNA helicase 2 (EC 3.6.4.13) (DEAD box protein 21)
+ENSG00000174791,RIN1,Q13671,2,783,12,1.0,29,True,498,0.37,Ras and Rab interactor 1 (Ras inhibitor JC99) (Ras interacti
+ENSG00000196209,SIRPB2,Q5JXA9,2,342,8,1.0,29,True,223,0.36,Signal-regulatory protein beta-2 (SIRP-beta-2) (Protein tyro
+ENSG00000196517,SLC6A9,P48067,3,706,16,1.0,29,True,530,0.25,Sodium- and chloride-dependent glycine transporter 1 (GlyT-1
+ENSG00000204381,LAYN,Q6UX15,3,382,11,1.0,29,True,160,0.59,Layilin
+ENSG00000067191,CACNB1,Q02641,3,598,17,1.0,28,True,292,0.51,Voltage-dependent L-type calcium channel subunit beta-1 (CAB
+ENSG00000104112,SCG3,Q8WXD2,2,468,13,1.0,28,True,199,0.58,Secretogranin-3 (Secretogranin III) (SgIII)
+ENSG00000121577,POPDC2,Q9HBU9,2,364,5,1.0,28,True,271,0.26,Popeye domain-containing protein 2 (Popeye protein 2)
+ENSG00000127993,RBM48,Q5RL73,2,367,7,1.0,28,True,184,0.5,RNA-binding protein 48
+ENSG00000154645,CHODL,Q9H9P2,3,273,9,1.0,28,True,190,0.32,Chondrolectin (Transmembrane protein MT75)
+ENSG00000159111,MRPL10,Q7Z7H8,2,261,6,1.0,28,True,196,0.25,Large ribosomal subunit protein uL10m (39S ribosomal protein
+ENSG00000164896,FASTK,Q14296,3,549,13,1.0,28,True,445,0.2,Fas-activated serine/threonine kinase (FAST kinase) (EC 2.7.
+ENSG00000166220,TBATA,Q96M53,2,351,10,1.0,28,True,195,0.45,Protein TBATA (Protein SPATIAL) (Stromal protein associated 
+ENSG00000166886,NAB2,Q15742,2,525,8,1.0,28,True,199,0.62,NGFI-A-binding protein 2 (EGR-1-binding protein 2) (Melanoma
+ENSG00000167671,UBXN6,Q9BZV1,2,441,12,1.0,28,True,331,0.26,UBX domain-containing protein 6 (UBX domain-containing prote
+ENSG00000167780,SOAT2,O75908,2,522,17,1.0,28,True,424,0.2,Sterol O-acyltransferase 2 (EC 2.3.1.26) (Acyl-coenzyme A:ch
+ENSG00000168685,IL7R,P16871,2,459,10,1.0,28,True,235,0.49,Interleukin-7 receptor subunit alpha (IL-7 receptor subunit 
+ENSG00000187583,PLEKHN1,Q494U1,3,611,19,1.0,28,True,232,0.62,Pleckstrin homology domain-containing family N member 1 (PH 
+ENSG00000081307,UBA5,Q9GZZ9,2,404,14,1.0,27,True,284,0.31,Ubiquitin-like modifier-activating enzyme 5 (Ubiquitin-activ
+ENSG00000107731,UNC5B,Q8IZJ1,2,945,19,1.0,27,True,753,0.21,Netrin receptor UNC5B (Protein unc-5 homolog 2) (Protein unc
+ENSG00000110400,NECTIN1,Q15223,2,517,8,1.0,27,True,311,0.4,Nectin-1 (Herpes virus entry mediator C) (Herpesvirus entry 
+ENSG00000128191,DGCR8,Q8WYQ5,2,773,14,0.96,27,True,385,0.51,Microprocessor complex subunit DGCR8 (DiGeorge syndrome crit
+ENSG00000130175,PRKCSH,P14314,2,528,19,1.0,27,True,346,0.36,Glucosidase 2 subunit beta (80K-H protein) (Glucosidase II s
+ENSG00000135709,KIAA0513,O60268,3,411,13,1.0,27,True,294,0.3,Uncharacterized protein KIAA0513
+ENSG00000144677,CTDSPL,O15194,2,276,9,1.0,27,True,187,0.32,CTD small phosphatase-like protein (CTDSP-like) (EC 3.1.3.16
+ENSG00000147434,CHRNA6,Q15825,2,494,7,1.0,27,True,377,0.24,Neuronal acetylcholine receptor subunit alpha-6
+ENSG00000147650,LRP12,Q9Y561,2,859,9,1.0,27,True,499,0.42,Low-density lipoprotein receptor-related protein 12 (LDLR-re
+ENSG00000150712,MTMR12,Q9C0I1,3,747,19,1.0,27,True,573,0.24,Myotubularin-related protein 12 (Inactive phosphatidylinosit
+ENSG00000163288,GABRB1,P18505,2,474,11,1.0,27,True,316,0.34,Gamma-aminobutyric acid receptor subunit beta-1 (GABA(A) rec
+ENSG00000163938,GNL3,Q9BVP2,2,549,17,1.0,27,True,343,0.38,Guanine nucleotide-binding protein-like 3 (E2-induced gene 3
+ENSG00000166206,GABRB3,P28472,4,473,13,1.0,27,True,317,0.34,Gamma-aminobutyric acid receptor subunit beta-3 (GABA(A) rec
+ENSG00000174059,CD34,P28906,2,385,10,1.0,27,True,146,0.62,Hematopoietic progenitor cell antigen CD34 (CD antigen CD34)
+ENSG00000174996,KLC2,Q9H0B6,2,622,17,1.0,27,True,406,0.35,Kinesin light chain 2 (KLC 2)
+ENSG00000183814,LIN9,Q5TKA1,2,542,16,1.0,27,True,371,0.32,Protein lin-9 homolog (HuLin-9) (hLin-9) (Beta subunit-assoc
+ENSG00000196814,MVB12B,Q9H7P6,2,319,12,1.0,27,True,198,0.39,Multivesicular body subunit 12B (ESCRT-I complex subunit MVB
+ENSG00000197046,SIGLEC15,Q6ZMC9,2,328,8,1.0,27,True,239,0.28,Sialic acid-binding Ig-like lectin 15 (Siglec-15) (CD33 anti
+ENSG00000082014,SMARCD3,Q6STE5,2,483,14,1.0,26,True,380,0.22,SWI/SNF-related matrix-associated actin-dependent regulator 
+ENSG00000103343,ZNF174,Q15697,2,407,5,1.0,26,True,189,0.54,Zinc finger protein 174 (AW-1) (Zinc finger and SCAN domain-
+ENSG00000108588,CCDC47,Q96A33,2,483,13,1.0,26,True,307,0.37,PAT complex subunit CCDC47 (Calumin) (Coiled-coil domain-con
+ENSG00000113889,KNG1,P01042,3,644,13,1.0,26,True,352,0.46,Kininogen-1 (Alpha-2-thiol proteinase inhibitor) (Fitzgerald
+ENSG00000117090,SLAMF1,Q13291,3,335,13,1.0,26,True,239,0.29,Signaling lymphocytic activation molecule (CDw150) (IPO-3) (
+ENSG00000120458,MSANTD2,Q6P1R3,3,559,8,1.0,26,True,408,0.27,Myb/SANT-like DNA-binding domain-containing protein 2
+ENSG00000122223,CD244,Q9BZW8,4,370,13,1.0,26,True,227,0.39,Natural killer cell receptor 2B4 (NK cell activation-inducin
+ENSG00000125861,GFRA4,Q9GZZ7,3,299,9,1.0,26,True,177,0.41,GDNF family receptor alpha-4 (GDNF receptor alpha-4) (GDNFR-
+ENSG00000141540,TTYH2,Q9BSA4,2,534,16,1.0,26,True,427,0.21,Protein tweety homolog 2 (hTTY2) (Volume-regulated anion cha
+ENSG00000142166,IFNAR1,P17181,2,557,13,1.0,26,True,446,0.21,Interferon alpha/beta receptor 1 (IFN-R-1) (IFN-alpha/beta r
+ENSG00000143452,HORMAD1,Q86X24,3,394,16,1.0,26,True,239,0.4,HORMA domain-containing protein 1 (Cancer/testis antigen 46)
+ENSG00000143479,DYRK3,O43781,2,588,4,1.0,26,True,328,0.44,Dual specificity tyrosine-phosphorylation-regulated kinase 3
+ENSG00000161381,PLXDC1,Q8IUK5,2,500,16,1.0,26,True,272,0.46,Plexin domain-containing protein 1 (Tumor endothelial marker
+ENSG00000161640,SIGLEC11,Q96RL6,2,698,13,1.0,26,True,524,0.26,Sialic acid-binding Ig-like lectin 11 (Sialic acid-binding l
+ENSG00000166086,JAM3,Q9BX67,2,310,11,1.0,26,True,241,0.24,Junctional adhesion molecule C (JAM-C) (JAM-2) (Junctional a
+ENSG00000168961,LGALS9,O00182,4,355,14,1.0,26,True,259,0.27,Galectin-9 (Gal-9) (Ecalectin) (Tumor antigen HOM-HD-21)
+ENSG00000175634,RPS6KB2,Q9UBS0,2,482,17,1.0,26,True,351,0.28,Ribosomal protein S6 kinase beta-2 (S6K-beta-2) (S6K2) (EC 2
+ENSG00000183780,SLC35F3,Q8IY50,2,421,10,1.0,26,True,341,0.2,Solute carrier family 35 member F3 (Thiamine transporter SLC
+ENSG00000080823,MOK,Q9UQ07,3,419,16,1.0,25,True,302,0.29,MAPK/MAK/MRK overlapping kinase (EC 2.7.11.22) (MOK protein 
+ENSG00000121690,DEPDC7,Q96QD5,2,511,11,1.0,25,True,339,0.34,DEP domain-containing protein 7 (Protein TR2/D15)
+ENSG00000138696,BMPR1B,O00238,2,502,12,1.0,25,True,393,0.23,Bone morphogenetic protein receptor type-1B (BMP type-1B rec
+ENSG00000165209,STRBP,Q96SI9,2,672,19,1.0,25,True,469,0.31,Spermatid perinuclear RNA-binding protein
+ENSG00000171772,SYCE1,Q8N0S2,2,351,15,1.0,25,True,253,0.3,Synaptonemal complex central element protein 1 (Cancer/testi
+ENSG00000174015,CBY2,Q8NA61,2,448,4,1.0,25,True,139,0.69,Protein chibby homolog 2 (Spermatid-associated protein)
+ENSG00000177192,PUS1,Q9Y606,2,427,7,1.0,25,True,320,0.25,Pseudouridylate synthase 1 homolog (EC 5.4.99.-) (tRNA pseud
+ENSG00000179403,VWA1,Q6PCB0,2,445,5,1.0,25,True,352,0.21,von Willebrand factor A domain-containing protein 1
+ENSG00000181396,OGFOD3,Q6PK18,2,319,11,1.0,25,True,254,0.22,2-oxoglutarate and iron-dependent oxygenase domain-containin
+ENSG00000263155,MYZAP,P0CAP1,2,466,14,1.0,25,True,331,0.29,Myocardial zonula adherens protein (GRINL1A upstream protein

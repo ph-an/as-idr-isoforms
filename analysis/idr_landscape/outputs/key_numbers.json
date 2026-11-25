@@ -1,0 +1,257 @@
+{
+ "cohort": {
+  "isoforms": 32579,
+  "genes": 10532,
+  "canonical": 10532,
+  "alternative": 22047,
+  "idrs": 51627,
+  "genes_by_isoform_count": {
+   "2": 5389,
+   "3": 2517,
+   "4": 1210,
+   "5": 614,
+   "6": 802
+  },
+  "isoforms_with_idr_pct": 83.5,
+  "residue_weighted_pct_idr": 34.39,
+  "median_pct_idr": 24.98
+ },
+ "canonical_vs_alternative": {
+  "median_canonical": 23.4,
+  "median_alternative": 25.63,
+  "mwu_p": 1.05e-06,
+  "paired_median_delta": 0.0,
+  "frac_alt_lower": 0.454,
+  "frac_alt_higher": 0.425,
+  "frac_alt_equal": 0.12,
+  "frac_alt_shorter": 0.855
+ },
+ "idr_length_vs_pct_idr": {
+  "n": 27210,
+  "spearman_longest": [
+   0.7595,
+   0.0
+  ],
+  "spearman_mean": [
+   0.7784,
+   0.0
+  ],
+  "spearman_nsegments": [
+   0.1809,
+   0.0
+  ],
+  "median_longest_idr": 108.0,
+  "median_idr_len_all_segments": 67.0
+ },
+ "protein_length_vs_pct_idr": {
+  "spearman": [
+   0.1279,
+   0.0
+  ],
+  "median_length": 462.0
+ },
+ "disorder_classes": {
+  "high": {
+   "genes": 1014,
+   "median_length": 566.0,
+   "median_n_iso": 3.0,
+   "mean_n_iso": 3.281,
+   "median_range": 4.649,
+   "mean_range": 14.037,
+   "frac_tf": 0.205,
+   "median_age": 645.0
+  },
+  "intermediate": {
+   "genes": 5590,
+   "median_length": 563.0,
+   "median_n_iso": 3.0,
+   "mean_n_iso": 3.222,
+   "median_range": 12.062,
+   "mean_range": 18.512,
+   "frac_tf": 0.112,
+   "median_age": 645.0
+  },
+  "very low": {
+   "genes": 3928,
+   "median_length": 459.0,
+   "median_n_iso": 2.0,
+   "mean_n_iso": 2.862,
+   "median_range": 3.052,
+   "mean_range": 9.576,
+   "frac_tf": 0.009,
+   "median_age": 680.0
+  }
+ },
+ "high_vs_very_low_tests": {
+  "Length": 5.38e-13,
+  "n_iso": 2.2e-08,
+  "range": 8.7e-10
+ },
+ "alt_delta_by_class": {
+  "high": {
+   "size": 2313,
+   "median": -0.071,
+   "frac_abs_change_ge10pp": 0.27
+  },
+  "intermediate": {
+   "size": 12419,
+   "median": -0.639,
+   "frac_abs_change_ge10pp": 0.372
+  },
+  "very low": {
+   "size": 7315,
+   "median": 0.0,
+   "frac_abs_change_ge10pp": 0.17
+  }
+ },
+ "top_keywords": {
+  "high": [
+   {
+    "keyword": "Homeobox",
+    "in_class": 42,
+    "fold": 4.7938,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Collagen",
+    "in_class": 18,
+    "fold": 3.6659,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Activator",
+    "in_class": 136,
+    "fold": 3.0842,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Repressor",
+    "in_class": 107,
+    "fold": 2.6716,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Meiosis",
+    "in_class": 16,
+    "fold": 2.3406,
+    "q_BH": 0.0174
+   },
+   {
+    "keyword": "DNA-binding",
+    "in_class": 240,
+    "fold": 2.2975,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Hydroxylation",
+    "in_class": 16,
+    "fold": 2.1867,
+    "q_BH": 0.0334
+   },
+   {
+    "keyword": "Transcription regulation",
+    "in_class": 285,
+    "fold": 2.156,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Methylation",
+    "in_class": 129,
+    "fold": 2.1507,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Transcription",
+    "in_class": 288,
+    "fold": 2.1245,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Isopeptide bond",
+    "in_class": 241,
+    "fold": 2.1142,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Chromosomal rearrangement",
+    "in_class": 47,
+    "fold": 2.0598,
+    "q_BH": 0.0
+   }
+  ],
+  "very low": [
+   {
+    "keyword": "Aminoacyl-tRNA synthetase",
+    "in_class": 23,
+    "fold": 2.5695,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Steroid biosynthesis",
+    "in_class": 19,
+    "fold": 2.5472,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Sphingolipid metabolism",
+    "in_class": 19,
+    "fold": 2.5472,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Glycolysis",
+    "in_class": 19,
+    "fold": 2.5472,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Sugar transport",
+    "in_class": 24,
+    "fold": 2.475,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Pyridoxal phosphate",
+    "in_class": 34,
+    "fold": 2.399,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "NADP",
+    "in_class": 101,
+    "fold": 2.3755,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Fatty acid metabolism",
+    "in_class": 86,
+    "fold": 2.3529,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Monooxygenase",
+    "in_class": 41,
+    "fold": 2.339,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Heme",
+    "in_class": 55,
+    "fold": 2.3042,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Ligase",
+    "in_class": 76,
+    "fold": 2.2393,
+    "q_BH": 0.0
+   },
+   {
+    "keyword": "Glycosidase",
+    "in_class": 40,
+    "fold": 2.2344,
+    "q_BH": 0.0
+   }
+  ]
+ }
+}

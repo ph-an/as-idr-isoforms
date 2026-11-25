@@ -1,0 +1,611 @@
+{
+ "sites": 709651,
+ "unique_exons": 124984,
+ "with_any_site": 124327,
+ "internal_with_both_sites": 90817,
+ "cons_quantiles_internal": {
+  "0.1": 354.0,
+  "0.25": 386.0,
+  "0.5": 395.0,
+  "0.75": 398.0,
+  "0.9": 401.0
+ },
+ "bin_sizes_internal": {
+  "lineage-restricted (<100)": 1842,
+  "intermediate (100-349)": 6705,
+  "deeply conserved (>=350)": 82270
+ },
+ "X1": {
+  "lineage-restricted (<100)": {
+   "exons": 1842.0,
+   "genes": 1492.0,
+   "mean_idr": 0.4264,
+   "pct_idr_exon": 42.78,
+   "pct_alt": 71.66,
+   "median_len_aa": 38.0
+  },
+  "intermediate (100-349)": {
+   "exons": 6705.0,
+   "genes": 3359.0,
+   "mean_idr": 0.3858,
+   "pct_idr_exon": 38.97,
+   "pct_alt": 54.72,
+   "median_len_aa": 40.0
+  },
+  "deeply conserved (>=350)": {
+   "exons": 82270.0,
+   "genes": 7598.0,
+   "mean_idr": 0.2475,
+   "pct_idr_exon": 24.49,
+   "pct_alt": 35.51,
+   "median_len_aa": 40.0
+  }
+ },
+ "X1_by_usage": {
+  "lineage-restricted (<100)|const": {
+   "exons": 522.0,
+   "genes": 471.0,
+   "mean_idr": 0.3527,
+   "pct_idr_exon": 35.63,
+   "pct_alt": 0.0,
+   "median_len_aa": 40.0
+  },
+  "lineage-restricted (<100)|alt": {
+   "exons": 1320.0,
+   "genes": 1099.0,
+   "mean_idr": 0.4556,
+   "pct_idr_exon": 45.61,
+   "pct_alt": 100.0,
+   "median_len_aa": 36.0
+  },
+  "intermediate (100-349)|const": {
+   "exons": 3036.0,
+   "genes": 1751.0,
+   "mean_idr": 0.3261,
+   "pct_idr_exon": 33.1,
+   "pct_alt": 0.0,
+   "median_len_aa": 42.0
+  },
+  "intermediate (100-349)|alt": {
+   "exons": 3669.0,
+   "genes": 2219.0,
+   "mean_idr": 0.4351,
+   "pct_idr_exon": 43.83,
+   "pct_alt": 100.0,
+   "median_len_aa": 38.0
+  },
+  "deeply conserved (>=350)|const": {
+   "exons": 53057.0,
+   "genes": 6647.0,
+   "mean_idr": 0.2205,
+   "pct_idr_exon": 21.76,
+   "pct_alt": 0.0,
+   "median_len_aa": 41.0
+  },
+  "deeply conserved (>=350)|alt": {
+   "exons": 29213.0,
+   "genes": 6518.0,
+   "mean_idr": 0.2966,
+   "pct_idr_exon": 29.44,
+   "pct_alt": 100.0,
+   "median_len_aa": 40.0
+  }
+ },
+ "X1_terminal_exons": {
+  "first|lineage-restricted (<100)": {
+   "exons": 353,
+   "genes": 301,
+   "mean_idr": 0.5916,
+   "pct_idr_exon": 60.91,
+   "pct_alt": 99.15,
+   "median_len_aa": 20.0
+  },
+  "first|intermediate (100-349)": {
+   "exons": 1664,
+   "genes": 1127,
+   "mean_idr": 0.5682,
+   "pct_idr_exon": 57.75,
+   "pct_alt": 97.06,
+   "median_len_aa": 22.0
+  },
+  "first|deeply conserved (>=350)": {
+   "exons": 9271,
+   "genes": 5179,
+   "mean_idr": 0.5284,
+   "pct_idr_exon": 54.86,
+   "pct_alt": 96.31,
+   "median_len_aa": 31.0
+  },
+  "last|lineage-restricted (<100)": {
+   "exons": 559,
+   "genes": 516,
+   "mean_idr": 0.399,
+   "pct_idr_exon": 39.89,
+   "pct_alt": 89.62,
+   "median_len_aa": 29.0
+  },
+  "last|intermediate (100-349)": {
+   "exons": 1806,
+   "genes": 1361,
+   "mean_idr": 0.4318,
+   "pct_idr_exon": 43.3,
+   "pct_alt": 79.84,
+   "median_len_aa": 34.0
+  },
+  "last|deeply conserved (>=350)": {
+   "exons": 14604,
+   "genes": 7600,
+   "mean_idr": 0.3661,
+   "pct_idr_exon": 37.07,
+   "pct_alt": 67.02,
+   "median_len_aa": 43.0
+  }
+ },
+ "X2_fe_young": {
+  "genes": 7653,
+  "exons": 90493,
+  "coef": 0.1065,
+  "lo": 0.0866,
+  "hi": 0.1264,
+  "p": 9.31e-26,
+  "alt_coef": 0.1169
+ },
+ "X2_fe_per100genomes": [
+  -0.0524,
+  -0.0578,
+  -0.0471,
+  5.08e-82
+ ],
+ "X2_fe_young_constitutive_only": [
+  0.0943,
+  0.0597,
+  0.1289,
+  9.05e-08,
+  6080
+ ],
+ "X2_fe_young_alternative_only": [
+  0.085,
+  0.0591,
+  0.111,
+  1.36e-10,
+  5528
+ ],
+ "X2_fe_young_adj_flank": [
+  -0.0877,
+  -0.1115,
+  -0.0638,
+  5.69e-13
+ ],
+ "X2_fe_young_alignable_only": {
+  "young_exons": 1396,
+  "genes": 7587,
+  "coef": 0.0865,
+  "lo": 0.0643,
+  "hi": 0.1086,
+  "p": 2.05e-14,
+  "mean_idr_young": 0.3942,
+  "mean_idr_old": 0.2472
+ },
+ "X2_fe_young_by_flank_threshold": {
+  "200": [
+   0.0865,
+   0.0643,
+   0.1086,
+   2.05e-14,
+   1396
+  ],
+  "250": [
+   0.0863,
+   0.0634,
+   0.1093,
+   1.59e-13,
+   1247
+  ],
+  "300": [
+   0.0666,
+   0.0421,
+   0.0912,
+   1.01e-07,
+   1037
+  ],
+  "350": [
+   0.0376,
+   0.0097,
+   0.0655,
+   0.00818,
+   717
+  ]
+ },
+ "X2_flank_stratified_mean_idr": {
+  "(-0.001, 341.5]": {
+   "0.0": 0.4363,
+   "1.0": 0.5101
+  },
+  "(341.5, 366.5]": {
+   "0.0": 0.3926,
+   "1.0": 0.4173
+  },
+  "(366.5, 378.0]": {
+   "0.0": 0.3129,
+   "1.0": 0.375
+  },
+  "(378.0, 385.0]": {
+   "0.0": 0.2645,
+   "1.0": 0.2497
+  },
+  "(385.0, 389.5]": {
+   "0.0": 0.2259,
+   "1.0": 0.2456
+  },
+  "(389.5, 393.0]": {
+   "0.0": 0.1984,
+   "1.0": 0.2061
+  },
+  "(393.0, 395.5]": {
+   "0.0": 0.1808,
+   "1.0": 0.2512
+  },
+  "(395.5, 398.0]": {
+   "0.0": 0.1784,
+   "1.0": 0.2765
+  },
+  "(398.0, 400.0]": {
+   "0.0": 0.1925,
+   "1.0": 0.2037
+  },
+  "(400.0, 405.0]": {
+   "0.0": 0.2192,
+   "1.0": 0.1309
+  }
+ },
+ "X2_flank_by_bin": {
+  "lineage-restricted (<100)": 319.0,
+  "intermediate (100-349)": 329.5,
+  "deeply conserved (>=350)": 391.0
+ },
+ "X2_paired_genes": {
+  "genes": 1352,
+  "mean_young": 0.405,
+  "mean_old": 0.2481,
+  "frac_young_higher": 0.439,
+  "frac_young_lower": 0.344,
+  "wilcoxon_p": 4.26e-34
+ },
+ "X2_deciles": {
+  "(-1, 19]": {
+   "exons": 381,
+   "mean_idr": 0.4008,
+   "pct_alt": 0.6535,
+   "inclusion": 0.5002
+  },
+  "(19, 49]": {
+   "exons": 662,
+   "mean_idr": 0.425,
+   "pct_alt": 0.7266,
+   "inclusion": 0.409
+  },
+  "(49, 99]": {
+   "exons": 799,
+   "mean_idr": 0.4398,
+   "pct_alt": 0.7384,
+   "inclusion": 0.4112
+  },
+  "(99, 199]": {
+   "exons": 1350,
+   "mean_idr": 0.389,
+   "pct_alt": 0.6178,
+   "inclusion": 0.5194
+  },
+  "(199, 299]": {
+   "exons": 2008,
+   "mean_idr": 0.4195,
+   "pct_alt": 0.5837,
+   "inclusion": 0.5532
+  },
+  "(299, 349]": {
+   "exons": 3347,
+   "mean_idr": 0.3642,
+   "pct_alt": 0.4969,
+   "inclusion": 0.6333
+  },
+  "(349, 379]": {
+   "exons": 7857,
+   "mean_idr": 0.3329,
+   "pct_alt": 0.4187,
+   "inclusion": 0.6892
+  },
+  "(379, 395]": {
+   "exons": 33576,
+   "mean_idr": 0.248,
+   "pct_alt": 0.3504,
+   "inclusion": 0.7199
+  },
+  "(395, 405]": {
+   "exons": 40837,
+   "mean_idr": 0.2306,
+   "pct_alt": 0.3467,
+   "inclusion": 0.7099
+  }
+ },
+ "X3_fe_alt_on_young": [
+  0.309,
+  0.2836,
+  0.3345,
+  4.05e-125
+ ],
+ "X3_inclusion_by_bin": {
+  "lineage-restricted (<100)": 0.4288,
+  "intermediate (100-349)": 0.5864,
+  "deeply conserved (>=350)": 0.712
+ },
+ "X3_spearman_cons_inclusion_alt_exons": [
+  0.1649,
+  0.0
+ ],
+ "X4_genes": 526,
+ "X4_young_minus_old_disorder_composition": {
+  "aro": {
+   "diff_pp": 0.114,
+   "lo": -0.332,
+   "hi": 0.541,
+   "p": 0.516,
+   "q": 0.563
+  },
+  "acid": {
+   "diff_pp": -1.757,
+   "lo": -2.676,
+   "hi": -0.906,
+   "p": 3.32e-08,
+   "q": 3.98e-07
+  },
+  "basic": {
+   "diff_pp": -0.544,
+   "lo": -1.272,
+   "hi": 0.186,
+   "p": 0.0991,
+   "q": 0.17
+  },
+  "his": {
+   "diff_pp": 0.038,
+   "lo": -0.227,
+   "hi": 0.312,
+   "p": 0.247,
+   "q": 0.37
+  },
+  "cys": {
+   "diff_pp": 0.446,
+   "lo": 0.201,
+   "hi": 0.679,
+   "p": 0.0511,
+   "q": 0.123
+  },
+  "pro": {
+   "diff_pp": -0.102,
+   "lo": -0.689,
+   "hi": 0.458,
+   "p": 0.389,
+   "q": 0.467
+  },
+  "st": {
+   "diff_pp": 0.566,
+   "lo": -0.255,
+   "hi": 1.39,
+   "p": 0.791,
+   "q": 0.791
+  },
+  "qn": {
+   "diff_pp": -0.233,
+   "lo": -0.787,
+   "hi": 0.327,
+   "p": 0.0669,
+   "q": 0.134
+  },
+  "gly": {
+   "diff_pp": -0.094,
+   "lo": -0.634,
+   "hi": 0.401,
+   "p": 0.349,
+   "q": 0.465
+  },
+  "hyd": {
+   "diff_pp": 1.565,
+   "lo": 0.737,
+   "hi": 2.407,
+   "p": 0.00907,
+   "q": 0.0272
+  },
+  "ncpr": {
+   "diff_pp": 1.213,
+   "lo": 0.026,
+   "hi": 2.393,
+   "p": 0.00292,
+   "q": 0.0117
+  },
+  "fcr": {
+   "diff_pp": -2.301,
+   "lo": -3.282,
+   "hi": -1.212,
+   "p": 3.07e-07,
+   "q": 1.84e-06
+  }
+ },
+ "X4_similarity_spearman": {
+  "vs_young_gene_core": [
+   0.773,
+   0.005
+  ],
+  "vs_minority_terminal_variable": [
+   0.482,
+   0.133
+  ],
+  "vs_internal_variable": [
+   0.055,
+   0.873
+  ],
+  "features": [
+   "aro",
+   "acid",
+   "basic",
+   "his",
+   "cys",
+   "pro",
+   "st",
+   "qn",
+   "gly",
+   "hyd",
+   "ncpr"
+  ]
+ },
+ "X5_by_class": [
+  {
+   "pclass": "Chromatin & RNA processing",
+   "genes": 366,
+   "pct_young": 1.59,
+   "coef": 0.0253,
+   "lo": -0.0689,
+   "hi": 0.1195,
+   "p": 0.5988
+  },
+  {
+   "pclass": "Cytoskeletal & structural",
+   "genes": 654,
+   "pct_young": 1.62,
+   "coef": 0.1587,
+   "lo": 0.0971,
+   "hi": 0.2203,
+   "p": 0.0
+  },
+  {
+   "pclass": "DNA-binding TFs",
+   "genes": 567,
+   "pct_young": 2.84,
+   "coef": 0.1479,
+   "lo": 0.0695,
+   "hi": 0.2262,
+   "p": 0.0002
+  },
+  {
+   "pclass": "Kinases & phosphatases",
+   "genes": 392,
+   "pct_young": 1.18,
+   "coef": 0.038,
+   "lo": -0.0613,
+   "hi": 0.1373,
+   "p": 0.4532
+  },
+  {
+   "pclass": "Metabolic enzymes",
+   "genes": 1345,
+   "pct_young": 2.3,
+   "coef": 0.1107,
+   "lo": 0.0664,
+   "hi": 0.1549,
+   "p": 0.0
+  },
+  {
+   "pclass": "Other / unclassified",
+   "genes": 1904,
+   "pct_young": 2.23,
+   "coef": 0.0908,
+   "lo": 0.0525,
+   "hi": 0.1291,
+   "p": 0.0
+  },
+  {
+   "pclass": "Other membrane",
+   "genes": 660,
+   "pct_young": 2.45,
+   "coef": 0.1472,
+   "lo": 0.0698,
+   "hi": 0.2247,
+   "p": 0.0002
+  },
+  {
+   "pclass": "Receptors & channels",
+   "genes": 454,
+   "pct_young": 1.93,
+   "coef": 0.1402,
+   "lo": 0.0545,
+   "hi": 0.2259,
+   "p": 0.0013
+  },
+  {
+   "pclass": "Secreted",
+   "genes": 353,
+   "pct_young": 2.2,
+   "coef": 0.164,
+   "lo": 0.0744,
+   "hi": 0.2537,
+   "p": 0.0003
+  },
+  {
+   "pclass": "Transcription co-regulators",
+   "genes": 577,
+   "pct_young": 1.65,
+   "coef": 0.0849,
+   "lo": 0.0104,
+   "hi": 0.1595,
+   "p": 0.0256
+  },
+  {
+   "pclass": "Transporters",
+   "genes": 381,
+   "pct_young": 1.8,
+   "coef": 0.0594,
+   "lo": -0.0143,
+   "hi": 0.1331,
+   "p": 0.1143
+  }
+ ],
+ "X5_by_gene_age": [
+  {
+   "age_bin": "<100",
+   "genes": 317,
+   "pct_young_exons": 7.3,
+   "median_cons": 351.0,
+   "coef": 0.0549,
+   "lo": -0.0149,
+   "hi": 0.1246,
+   "p": 0.1231
+  },
+  {
+   "age_bin": "100-500",
+   "genes": 1191,
+   "pct_young_exons": 2.98,
+   "median_cons": 390.0,
+   "coef": 0.1272,
+   "lo": 0.0815,
+   "hi": 0.1729,
+   "p": 0.0
+  },
+  {
+   "age_bin": "500-1000",
+   "genes": 4404,
+   "pct_young_exons": 1.75,
+   "median_cons": 395.0,
+   "coef": 0.1135,
+   "lo": 0.0854,
+   "hi": 0.1417,
+   "p": 0.0
+  },
+  {
+   "age_bin": ">1000",
+   "genes": 1737,
+   "pct_young_exons": 1.75,
+   "median_cons": 395.0,
+   "coef": 0.0934,
+   "lo": 0.053,
+   "hi": 0.1338,
+   "p": 0.0
+  }
+ ],
+ "X5_gene_median_cons_vs_gene_age_spearman": [
+  0.262,
+  0.0
+ ],
+ "X6_families": 30,
+ "X6_n_positive": 25,
+ "X6_n_ci_above_0": 14,
+ "X6_n_ci_below_0": 1,
+ "X6_median_diff": 0.1076
+}

@@ -1,0 +1,899 @@
+{
+ "stored": {
+  "S1_class_medians": {
+   "Metabolic enzymes": 8.8,
+   "Transporters": 11.8,
+   "Secreted": 17.4,
+   "Kinases & phosphatases": 18.5,
+   "Receptors & channels": 21.5,
+   "Other membrane": 26.0,
+   "Cytoskeletal & structural": 28.3,
+   "Other / unclassified": 29.8,
+   "Chromatin & RNA processing": 35.2,
+   "Transcription co-regulators": 40.7,
+   "DNA-binding TFs": 56.3
+  },
+  "S1_genome_median_pct": 23.4,
+  "S1_spearman_with_stored": 1.0,
+  "S2_alt_minus_const": [
+   0.1427,
+   0.1348,
+   0.1519
+  ],
+  "S2_adjusted": [
+   0.0962,
+   0.0865,
+   0.1059
+  ],
+  "S2_classes_ci_above_0": 11,
+  "S3_young_exon_within_gene": [
+   0.1065,
+   0.0866,
+   0.1264,
+   9.3e-26
+  ],
+  "S4_slope_per_100Myr": [
+   -0.226,
+   -0.314,
+   -0.137
+  ],
+  "S4_slope_family_FE": [
+   0.042,
+   -0.045,
+   0.128,
+   0.35
+  ],
+  "S5_spearman_age_all_genes": [
+   -0.1919,
+   0.0,
+   10450
+  ],
+  "S5_median_by_age_bin": {
+   "100-500": 30.1,
+   "500-1000": 25.7,
+   "<100": 29.2,
+   ">1000": 13.7
+  },
+  "S5_spearman_by_class": {
+   "Chromatin & RNA processing": -0.183,
+   "Cytoskeletal & structural": -0.267,
+   "DNA-binding TFs": 0.265,
+   "Kinases & phosphatases": -0.016,
+   "Metabolic enzymes": -0.034,
+   "Other / unclassified": -0.262,
+   "Other membrane": -0.228,
+   "Receptors & channels": -0.158,
+   "Secreted": -0.128,
+   "Transcription co-regulators": -0.281,
+   "Transporters": -0.093
+  }
+ },
+ "v3_dom_t0.5_check": {
+  "S1_class_medians": {
+   "Metabolic enzymes": 8.8,
+   "Transporters": 11.8,
+   "Secreted": 17.4,
+   "Kinases & phosphatases": 18.5,
+   "Receptors & channels": 21.5,
+   "Other membrane": 26.0,
+   "Cytoskeletal & structural": 28.3,
+   "Other / unclassified": 29.8,
+   "Chromatin & RNA processing": 35.2,
+   "Transcription co-regulators": 40.7,
+   "DNA-binding TFs": 56.3
+  },
+  "S1_genome_median_pct": 23.4,
+  "S1_spearman_with_stored": 1.0,
+  "S2_alt_minus_const": [
+   0.1427,
+   0.1323,
+   0.1505
+  ],
+  "S2_adjusted": [
+   0.0962,
+   0.0865,
+   0.1059
+  ],
+  "S2_classes_ci_above_0": 11,
+  "S3_young_exon_within_gene": [
+   0.1065,
+   0.0866,
+   0.1264,
+   9.3e-26
+  ],
+  "S4_slope_per_100Myr": [
+   -0.226,
+   -0.314,
+   -0.137
+  ],
+  "S4_slope_family_FE": [
+   0.042,
+   -0.045,
+   0.128,
+   0.35
+  ],
+  "S5_spearman_age_all_genes": [
+   -0.192,
+   0.0,
+   10450
+  ],
+  "S5_median_by_age_bin": {
+   "100-500": 30.1,
+   "500-1000": 25.7,
+   "<100": 29.2,
+   ">1000": 13.7
+  },
+  "S5_spearman_by_class": {
+   "Chromatin & RNA processing": -0.183,
+   "Cytoskeletal & structural": -0.267,
+   "DNA-binding TFs": 0.265,
+   "Kinases & phosphatases": -0.016,
+   "Metabolic enzymes": -0.034,
+   "Other / unclassified": -0.262,
+   "Other membrane": -0.228,
+   "Receptors & channels": -0.158,
+   "Secreted": -0.128,
+   "Transcription co-regulators": -0.281,
+   "Transporters": -0.096
+  }
+ },
+ "v3_dom_t0.4": {
+  "S1_class_medians": {
+   "Metabolic enzymes": 10.5,
+   "Transporters": 14.3,
+   "Kinases & phosphatases": 21.9,
+   "Secreted": 22.3,
+   "Receptors & channels": 25.0,
+   "Other membrane": 29.4,
+   "Cytoskeletal & structural": 33.6,
+   "Other / unclassified": 33.9,
+   "Chromatin & RNA processing": 38.1,
+   "Transcription co-regulators": 44.0,
+   "DNA-binding TFs": 60.2
+  },
+  "S1_genome_median_pct": 26.99,
+  "S1_spearman_with_stored": 0.991,
+  "S2_alt_minus_const": [
+   0.1546,
+   0.1468,
+   0.1639
+  ],
+  "S2_adjusted": [
+   0.1049,
+   0.0951,
+   0.1147
+  ],
+  "S2_classes_ci_above_0": 11,
+  "S3_young_exon_within_gene": [
+   0.1178,
+   0.0977,
+   0.138,
+   1.7e-30
+  ],
+  "S4_slope_per_100Myr": [
+   -0.232,
+   -0.323,
+   -0.141
+  ],
+  "S4_slope_family_FE": [
+   0.039,
+   -0.049,
+   0.127,
+   0.38
+  ],
+  "S5_spearman_age_all_genes": [
+   -0.2023,
+   0.0,
+   10450
+  ],
+  "S5_median_by_age_bin": {
+   "100-500": 34.9,
+   "500-1000": 29.4,
+   "<100": 32.5,
+   ">1000": 16.7
+  },
+  "S5_spearman_by_class": {
+   "Chromatin & RNA processing": -0.187,
+   "Cytoskeletal & structural": -0.275,
+   "DNA-binding TFs": 0.271,
+   "Kinases & phosphatases": -0.017,
+   "Metabolic enzymes": -0.056,
+   "Other / unclassified": -0.272,
+   "Other membrane": -0.244,
+   "Receptors & channels": -0.174,
+   "Secreted": -0.17,
+   "Transcription co-regulators": -0.281,
+   "Transporters": -0.103
+  }
+ },
+ "v3_dom_t0.6": {
+  "S1_class_medians": {
+   "Metabolic enzymes": 6.9,
+   "Transporters": 9.6,
+   "Secreted": 13.9,
+   "Kinases & phosphatases": 16.1,
+   "Receptors & channels": 18.8,
+   "Other membrane": 23.0,
+   "Cytoskeletal & structural": 25.0,
+   "Other / unclassified": 25.7,
+   "Chromatin & RNA processing": 32.6,
+   "Transcription co-regulators": 37.2,
+   "DNA-binding TFs": 52.6
+  },
+  "S1_genome_median_pct": 20.17,
+  "S1_spearman_with_stored": 1.0,
+  "S2_alt_minus_const": [
+   0.1317,
+   0.1227,
+   0.1407
+  ],
+  "S2_adjusted": [
+   0.0901,
+   0.0807,
+   0.0995
+  ],
+  "S2_classes_ci_above_0": 11,
+  "S3_young_exon_within_gene": [
+   0.1044,
+   0.0848,
+   0.124,
+   1.6e-25
+  ],
+  "S4_slope_per_100Myr": [
+   -0.198,
+   -0.284,
+   -0.111
+  ],
+  "S4_slope_family_FE": [
+   0.054,
+   -0.032,
+   0.139,
+   0.22
+  ],
+  "S5_spearman_age_all_genes": [
+   -0.1775,
+   0.0,
+   10450
+  ],
+  "S5_median_by_age_bin": {
+   "100-500": 26.2,
+   "500-1000": 22.4,
+   "<100": 25.6,
+   ">1000": 11.7
+  },
+  "S5_spearman_by_class": {
+   "Chromatin & RNA processing": -0.18,
+   "Cytoskeletal & structural": -0.263,
+   "DNA-binding TFs": 0.262,
+   "Kinases & phosphatases": -0.028,
+   "Metabolic enzymes": -0.015,
+   "Other / unclassified": -0.247,
+   "Other membrane": -0.2,
+   "Receptors & channels": -0.131,
+   "Secreted": -0.09,
+   "Transcription co-regulators": -0.279,
+   "Transporters": -0.066
+  }
+ },
+ "v3_dom_min10": {
+  "S1_class_medians": {
+   "Metabolic enzymes": 9.2,
+   "Transporters": 12.7,
+   "Secreted": 17.8,
+   "Kinases & phosphatases": 18.8,
+   "Receptors & channels": 22.3,
+   "Other membrane": 26.4,
+   "Cytoskeletal & structural": 28.9,
+   "Other / unclassified": 30.6,
+   "Chromatin & RNA processing": 35.5,
+   "Transcription co-regulators": 40.9,
+   "DNA-binding TFs": 56.8
+  },
+  "S1_genome_median_pct": 24.14,
+  "S1_spearman_with_stored": 1.0,
+  "S2_alt_minus_const": [
+   0.1588,
+   0.1491,
+   0.1675
+  ],
+  "S2_adjusted": [
+   0.1049,
+   0.0952,
+   0.1146
+  ],
+  "S2_classes_ci_above_0": 11,
+  "S3_young_exon_within_gene": [
+   0.1134,
+   0.0935,
+   0.1333,
+   5.5e-29
+  ],
+  "S4_slope_per_100Myr": [
+   -0.226,
+   -0.313,
+   -0.138
+  ],
+  "S4_slope_family_FE": [
+   0.04,
+   -0.045,
+   0.125,
+   0.36
+  ],
+  "S5_spearman_age_all_genes": [
+   -0.1988,
+   0.0,
+   10450
+  ],
+  "S5_median_by_age_bin": {
+   "100-500": 30.8,
+   "500-1000": 26.3,
+   "<100": 30.8,
+   ">1000": 14.5
+  },
+  "S5_spearman_by_class": {
+   "Chromatin & RNA processing": -0.185,
+   "Cytoskeletal & structural": -0.268,
+   "DNA-binding TFs": 0.262,
+   "Kinases & phosphatases": -0.017,
+   "Metabolic enzymes": -0.051,
+   "Other / unclassified": -0.266,
+   "Other membrane": -0.236,
+   "Receptors & channels": -0.162,
+   "Secreted": -0.158,
+   "Transcription co-regulators": -0.289,
+   "Transporters": -0.108
+  }
+ },
+ "v3_dom_min30": {
+  "S1_class_medians": {
+   "Metabolic enzymes": 7.3,
+   "Transporters": 10.1,
+   "Secreted": 15.5,
+   "Kinases & phosphatases": 17.5,
+   "Receptors & channels": 20.6,
+   "Other membrane": 24.7,
+   "Cytoskeletal & structural": 27.2,
+   "Other / unclassified": 28.3,
+   "Chromatin & RNA processing": 34.1,
+   "Transcription co-regulators": 39.6,
+   "DNA-binding TFs": 55.6
+  },
+  "S1_genome_median_pct": 21.84,
+  "S1_spearman_with_stored": 1.0,
+  "S2_alt_minus_const": [
+   0.118,
+   0.109,
+   0.125
+  ],
+  "S2_adjusted": [
+   0.0844,
+   0.0748,
+   0.0941
+  ],
+  "S2_classes_ci_above_0": 10,
+  "S3_young_exon_within_gene": [
+   0.1025,
+   0.0827,
+   0.1223,
+   3.3e-24
+  ],
+  "S4_slope_per_100Myr": [
+   -0.226,
+   -0.316,
+   -0.136
+  ],
+  "S4_slope_family_FE": [
+   0.038,
+   -0.05,
+   0.126,
+   0.4
+  ],
+  "S5_spearman_age_all_genes": [
+   -0.1785,
+   0.0,
+   10450
+  ],
+  "S5_median_by_age_bin": {
+   "100-500": 28.5,
+   "500-1000": 24.2,
+   "<100": 27.1,
+   ">1000": 12.2
+  },
+  "S5_spearman_by_class": {
+   "Chromatin & RNA processing": -0.184,
+   "Cytoskeletal & structural": -0.259,
+   "DNA-binding TFs": 0.262,
+   "Kinases & phosphatases": -0.017,
+   "Metabolic enzymes": -0.023,
+   "Other / unclassified": -0.253,
+   "Other membrane": -0.21,
+   "Receptors & channels": -0.115,
+   "Secreted": -0.095,
+   "Transcription co-regulators": -0.276,
+   "Transporters": -0.075
+  }
+ },
+ "v3_dom_min50": {
+  "S1_class_medians": {
+   "Metabolic enzymes": 0.0,
+   "Transporters": 0.0,
+   "Secreted": 5.7,
+   "Kinases & phosphatases": 15.1,
+   "Receptors & channels": 16.1,
+   "Other membrane": 21.2,
+   "Cytoskeletal & structural": 24.3,
+   "Other / unclassified": 24.6,
+   "Chromatin & RNA processing": 31.3,
+   "Transcription co-regulators": 38.3,
+   "DNA-binding TFs": 53.9
+  },
+  "S1_genome_median_pct": 18.98,
+  "S1_spearman_with_stored": 0.998,
+  "S2_alt_minus_const": [
+   0.0834,
+   0.0752,
+   0.0937
+  ],
+  "S2_adjusted": [
+   0.0667,
+   0.0573,
+   0.0762
+  ],
+  "S2_classes_ci_above_0": 10,
+  "S3_young_exon_within_gene": [
+   0.0861,
+   0.067,
+   0.1051,
+   8.1e-19
+  ],
+  "S4_slope_per_100Myr": [
+   -0.213,
+   -0.306,
+   -0.12
+  ],
+  "S4_slope_family_FE": [
+   0.046,
+   -0.046,
+   0.138,
+   0.33
+  ],
+  "S5_spearman_age_all_genes": [
+   -0.1679,
+   0.0,
+   10450
+  ],
+  "S5_median_by_age_bin": {
+   "100-500": 25.2,
+   "500-1000": 21.1,
+   "<100": 25.7,
+   ">1000": 6.4
+  },
+  "S5_spearman_by_class": {
+   "Chromatin & RNA processing": -0.157,
+   "Cytoskeletal & structural": -0.249,
+   "DNA-binding TFs": 0.254,
+   "Kinases & phosphatases": -0.016,
+   "Metabolic enzymes": -0.049,
+   "Other / unclassified": -0.246,
+   "Other membrane": -0.207,
+   "Receptors & channels": -0.075,
+   "Secreted": -0.082,
+   "Transcription co-regulators": -0.268,
+   "Transporters": -0.05
+  }
+ },
+ "v3_raw_t0.5": {
+  "S1_class_medians": {
+   "Metabolic enzymes": 8.1,
+   "Transporters": 11.0,
+   "Secreted": 16.9,
+   "Kinases & phosphatases": 17.6,
+   "Receptors & channels": 20.9,
+   "Other membrane": 24.2,
+   "Cytoskeletal & structural": 26.9,
+   "Other / unclassified": 28.3,
+   "Chromatin & RNA processing": 34.0,
+   "Transcription co-regulators": 39.2,
+   "DNA-binding TFs": 54.7
+  },
+  "S1_genome_median_pct": 22.33,
+  "S1_spearman_with_stored": 1.0,
+  "S2_alt_minus_const": [
+   0.1338,
+   0.1246,
+   0.1432
+  ],
+  "S2_adjusted": [
+   0.0889,
+   0.0795,
+   0.0983
+  ],
+  "S2_classes_ci_above_0": 11,
+  "S3_young_exon_within_gene": [
+   0.1037,
+   0.0839,
+   0.1235,
+   1.2e-24
+  ],
+  "S4_slope_per_100Myr": [
+   -0.206,
+   -0.293,
+   -0.12
+  ],
+  "S4_slope_family_FE": [
+   0.046,
+   -0.039,
+   0.131,
+   0.29
+  ],
+  "S5_spearman_age_all_genes": [
+   -0.1843,
+   0.0,
+   10450
+  ],
+  "S5_median_by_age_bin": {
+   "100-500": 28.3,
+   "500-1000": 24.7,
+   "<100": 26.9,
+   ">1000": 13.3
+  },
+  "S5_spearman_by_class": {
+   "Chromatin & RNA processing": -0.184,
+   "Cytoskeletal & structural": -0.267,
+   "DNA-binding TFs": 0.275,
+   "Kinases & phosphatases": -0.019,
+   "Metabolic enzymes": -0.028,
+   "Other / unclassified": -0.259,
+   "Other membrane": -0.207,
+   "Receptors & channels": -0.139,
+   "Secreted": -0.129,
+   "Transcription co-regulators": -0.277,
+   "Transporters": -0.071
+  }
+ },
+ "v1_dom_t0.3": {
+  "S1_class_medians": {
+   "Metabolic enzymes": 8.0,
+   "Transporters": 8.8,
+   "Secreted": 13.2,
+   "Receptors & channels": 14.9,
+   "Kinases & phosphatases": 17.9,
+   "Other membrane": 18.9,
+   "Other / unclassified": 28.0,
+   "Cytoskeletal & structural": 32.1,
+   "Chromatin & RNA processing": 32.3,
+   "Transcription co-regulators": 40.0,
+   "DNA-binding TFs": 47.2
+  },
+  "S1_genome_median_pct": 20.27,
+  "S1_spearman_with_stored": 0.982,
+  "S2_alt_minus_const": [
+   0.1141,
+   0.1047,
+   0.1229
+  ],
+  "S2_adjusted": [
+   0.0823,
+   0.0728,
+   0.0919
+  ],
+  "S2_classes_ci_above_0": 10,
+  "S3_young_exon_within_gene": [
+   0.0777,
+   0.0586,
+   0.0969,
+   1.6e-15
+  ],
+  "S4_slope_per_100Myr": [
+   0.011,
+   -0.076,
+   0.099
+  ],
+  "S4_slope_family_FE": [
+   0.092,
+   0.006,
+   0.177,
+   0.035
+  ],
+  "S5_spearman_age_all_genes": [
+   -0.1046,
+   0.0,
+   10450
+  ],
+  "S5_median_by_age_bin": {
+   "100-500": 23.4,
+   "500-1000": 22.8,
+   "<100": 18.1,
+   ">1000": 13.6
+  },
+  "S5_spearman_by_class": {
+   "Chromatin & RNA processing": -0.102,
+   "Cytoskeletal & structural": -0.252,
+   "DNA-binding TFs": 0.359,
+   "Kinases & phosphatases": 0.002,
+   "Metabolic enzymes": -0.032,
+   "Other / unclassified": -0.215,
+   "Other membrane": -0.164,
+   "Receptors & channels": -0.086,
+   "Secreted": -0.06,
+   "Transcription co-regulators": -0.225,
+   "Transporters": -0.019
+  }
+ },
+ "v1_raw_t0.3": {
+  "S1_class_medians": {
+   "Metabolic enzymes": 5.1,
+   "Transporters": 6.8,
+   "Secreted": 7.5,
+   "Receptors & channels": 10.9,
+   "Kinases & phosphatases": 13.5,
+   "Other membrane": 14.3,
+   "Other / unclassified": 20.8,
+   "Cytoskeletal & structural": 23.4,
+   "Chromatin & RNA processing": 25.3,
+   "Transcription co-regulators": 31.8,
+   "DNA-binding TFs": 35.3
+  },
+  "S1_genome_median_pct": 14.97,
+  "S1_spearman_with_stored": 0.982,
+  "S2_alt_minus_const": [
+   0.0728,
+   0.0655,
+   0.081
+  ],
+  "S2_adjusted": [
+   0.0531,
+   0.0447,
+   0.0616
+  ],
+  "S2_classes_ci_above_0": 10,
+  "S3_young_exon_within_gene": [
+   0.0506,
+   0.0336,
+   0.0677,
+   6.1e-09
+  ],
+  "S4_slope_per_100Myr": [
+   0.039,
+   -0.037,
+   0.114
+  ],
+  "S4_slope_family_FE": [
+   0.075,
+   -0.001,
+   0.152,
+   0.053
+  ],
+  "S5_spearman_age_all_genes": [
+   -0.0869,
+   0.0,
+   10450
+  ],
+  "S5_median_by_age_bin": {
+   "100-500": 17.0,
+   "500-1000": 16.9,
+   "<100": 12.8,
+   ">1000": 10.1
+  },
+  "S5_spearman_by_class": {
+   "Chromatin & RNA processing": -0.092,
+   "Cytoskeletal & structural": -0.23,
+   "DNA-binding TFs": 0.368,
+   "Kinases & phosphatases": 0.02,
+   "Metabolic enzymes": -0.036,
+   "Other / unclassified": -0.196,
+   "Other membrane": -0.151,
+   "Receptors & channels": -0.047,
+   "Secreted": -0.021,
+   "Transcription co-regulators": -0.222,
+   "Transporters": -0.043
+  }
+ },
+ "stored|v1_subset": {
+  "S1_class_medians": {
+   "Metabolic enzymes": 8.8,
+   "Transporters": 11.8,
+   "Secreted": 17.4,
+   "Kinases & phosphatases": 18.5,
+   "Receptors & channels": 21.5,
+   "Other membrane": 26.0,
+   "Cytoskeletal & structural": 28.3,
+   "Other / unclassified": 29.8,
+   "Chromatin & RNA processing": 35.2,
+   "Transcription co-regulators": 40.7,
+   "DNA-binding TFs": 56.3
+  },
+  "S1_genome_median_pct": 23.4,
+  "S1_spearman_with_stored": 1.0,
+  "S2_alt_minus_const": [
+   0.1427,
+   0.1357,
+   0.154
+  ],
+  "S2_adjusted": [
+   0.0962,
+   0.0865,
+   0.1059
+  ],
+  "S2_classes_ci_above_0": 11,
+  "S3_young_exon_within_gene": [
+   0.1065,
+   0.0866,
+   0.1264,
+   9.3e-26
+  ],
+  "S4_slope_per_100Myr": [
+   -0.226,
+   -0.314,
+   -0.137
+  ],
+  "S4_slope_family_FE": [
+   0.042,
+   -0.045,
+   0.128,
+   0.35
+  ],
+  "S5_spearman_age_all_genes": [
+   -0.1919,
+   0.0,
+   10450
+  ],
+  "S5_median_by_age_bin": {
+   "100-500": 30.1,
+   "500-1000": 25.7,
+   "<100": 29.2,
+   ">1000": 13.7
+  },
+  "S5_spearman_by_class": {
+   "Chromatin & RNA processing": -0.183,
+   "Cytoskeletal & structural": -0.267,
+   "DNA-binding TFs": 0.265,
+   "Kinases & phosphatases": -0.016,
+   "Metabolic enzymes": -0.034,
+   "Other / unclassified": -0.262,
+   "Other membrane": -0.228,
+   "Receptors & channels": -0.158,
+   "Secreted": -0.128,
+   "Transcription co-regulators": -0.281,
+   "Transporters": -0.093
+  }
+ },
+ "mobidb_lite|canonical": {
+  "S1_class_medians": {
+   "Metabolic enzymes": 0.0,
+   "Secreted": 0.0,
+   "Transporters": 0.0,
+   "Receptors & channels": 4.2,
+   "Other membrane": 6.6,
+   "Kinases & phosphatases": 6.7,
+   "Other / unclassified": 9.8,
+   "Cytoskeletal & structural": 11.3,
+   "Chromatin & RNA processing": 13.8,
+   "DNA-binding TFs": 17.1,
+   "Transcription co-regulators": 18.2
+  },
+  "S1_genome_median_pct": 6.71,
+  "S1_spearman_with_stored": 0.945,
+  "S2_alt_minus_const": [
+   0.0355,
+   0.0285,
+   0.0427
+  ],
+  "S2_adjusted": [
+   0.0243,
+   0.0169,
+   0.0316
+  ],
+  "S2_classes_ci_above_0": 10,
+  "S3_young_exon_within_gene": [
+   0.0456,
+   0.0255,
+   0.0658,
+   9.4e-06
+  ],
+  "S4_slope_per_100Myr": [
+   0.057,
+   0.001,
+   0.113
+  ],
+  "S4_slope_family_FE": [
+   0.048,
+   -0.012,
+   0.108,
+   0.12
+  ],
+  "S5_spearman_age_all_genes": [
+   -0.0558,
+   0.0,
+   10450
+  ],
+  "S5_median_by_age_bin": {
+   "100-500": 7.0,
+   "500-1000": 7.9,
+   "<100": 5.0,
+   ">1000": 4.0
+  },
+  "S5_spearman_by_class": {
+   "Chromatin & RNA processing": -0.055,
+   "Cytoskeletal & structural": -0.198,
+   "DNA-binding TFs": 0.353,
+   "Kinases & phosphatases": 0.013,
+   "Metabolic enzymes": 0.007,
+   "Other / unclassified": -0.157,
+   "Other membrane": -0.098,
+   "Receptors & channels": -0.025,
+   "Secreted": -0.019,
+   "Transcription co-regulators": -0.195,
+   "Transporters": -0.037
+  }
+ },
+ "stored|canonical": {
+  "S1_class_medians": {
+   "Metabolic enzymes": 8.8,
+   "Transporters": 11.8,
+   "Secreted": 17.4,
+   "Kinases & phosphatases": 18.5,
+   "Receptors & channels": 21.5,
+   "Other membrane": 26.0,
+   "Cytoskeletal & structural": 28.3,
+   "Other / unclassified": 29.8,
+   "Chromatin & RNA processing": 35.2,
+   "Transcription co-regulators": 40.7,
+   "DNA-binding TFs": 56.3
+  },
+  "S1_genome_median_pct": 23.4,
+  "S1_spearman_with_stored": 1.0,
+  "S2_alt_minus_const": [
+   0.0997,
+   0.0891,
+   0.1097
+  ],
+  "S2_adjusted": [
+   0.0626,
+   0.0518,
+   0.0734
+  ],
+  "S2_classes_ci_above_0": 10,
+  "S3_young_exon_within_gene": [
+   0.1308,
+   0.1039,
+   0.1576,
+   1.3e-21
+  ],
+  "S4_slope_per_100Myr": [
+   -0.226,
+   -0.314,
+   -0.137
+  ],
+  "S4_slope_family_FE": [
+   0.042,
+   -0.045,
+   0.128,
+   0.35
+  ],
+  "S5_spearman_age_all_genes": [
+   -0.1919,
+   0.0,
+   10450
+  ],
+  "S5_median_by_age_bin": {
+   "100-500": 30.1,
+   "500-1000": 25.7,
+   "<100": 29.2,
+   ">1000": 13.7
+  },
+  "S5_spearman_by_class": {
+   "Chromatin & RNA processing": -0.183,
+   "Cytoskeletal & structural": -0.267,
+   "DNA-binding TFs": 0.265,
+   "Kinases & phosphatases": -0.016,
+   "Metabolic enzymes": -0.034,
+   "Other / unclassified": -0.262,
+   "Other membrane": -0.228,
+   "Receptors & channels": -0.158,
+   "Secreted": -0.128,
+   "Transcription co-regulators": -0.281,
+   "Transporters": -0.093
+  }
+ }
+}

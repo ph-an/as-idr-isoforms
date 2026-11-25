@@ -1,0 +1,40 @@
+# Python / Jupyter / OS
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+Thumbs.db
+~$*
+
+# Data: raw inputs are obtained separately (data/README.md); derived tables are rebuilt by run.py
+data/raw/*
+!data/raw/README.md
+data/annotated/
+data/genomic/
+
+# Run byproducts
+results/logs/
+results/executed_notebooks/
+analysis/reanalysis_2026-10-26/outputs/*.csv
+!analysis/reanalysis_2026-10-26/outputs/R6_by_length.csv
+
+
+# large per-row analysis outputs (rebuilt by the scripts)
+analysis/idr_architecture/outputs/pairs.csv
+analysis/idr_architecture/outputs/canonical_idr_fate.csv
+analysis/idr_architecture/outputs/alt_idr_origin.csv
+analysis/idr_architecture/outputs/idr_chunk_composition.csv
+analysis/idr_landscape/outputs/alt_vs_canonical.csv
+analysis/idr_landscape/outputs/gene_disorder_class.csv
+
+# exon-age intermediates (rebuilt by analysis/exon_age/exon_age.py)
+analysis/exon_age/outputs/sites_unique.parquet
+analysis/exon_age/outputs/exon_conservation.csv
+
+# per-residue disorder scores (rebuilt by analysis/sensitivity/predict_*.py; ~160 MB)
+analysis/sensitivity/outputs/scores/
+analysis/sensitivity/outputs/v1/
+analysis/sensitivity/outputs/v1_all/
+analysis/sensitivity/*.log
+analysis/reference_free/outputs/fate_robustness*_log.txt

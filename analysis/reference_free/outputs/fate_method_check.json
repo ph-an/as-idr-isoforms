@@ -1,0 +1,64 @@
+{
+ "same_idrs": 24114,
+ "alignment_fate_pct": {
+  "intact": 58.9,
+  "internal deletion": 22.0,
+  "removed": 10.4,
+  "truncated": 8.7
+ },
+ "genomic_fate_pct": {
+  "intact": 58.9,
+  "truncated": 15.9,
+  "removed": 15.7,
+  "internal deletion": 9.5
+ },
+ "crosstab_alignment_rows_genomic_cols": {
+  "intact": {
+   "intact": 14155,
+   "internal deletion": 2,
+   "removed": 0,
+   "truncated": 42
+  },
+  "internal deletion": {
+   "intact": 25,
+   "internal deletion": 2288,
+   "removed": 973,
+   "truncated": 2028
+  },
+  "removed": {
+   "intact": 0,
+   "internal deletion": 0,
+   "removed": 2506,
+   "truncated": 1
+  },
+  "truncated": {
+   "intact": 16,
+   "internal deletion": 9,
+   "removed": 317,
+   "truncated": 1752
+  }
+ },
+ "alignment_internal_deletions_not_genomic": {
+  "n": 3026,
+  "of": 5314,
+  "genomic": {
+   "truncated": 2028,
+   "removed": 973,
+   "intact": 25
+  }
+ },
+ "genomic_fate_pct_by_direction": {
+  "alternative_to_canonical": {
+   "intact": 78.6,
+   "internal deletion": 3.7,
+   "removed": 2.8,
+   "truncated": 14.8
+  },
+  "canonical_to_alternative": {
+   "intact": 58.9,
+   "internal deletion": 9.5,
+   "removed": 15.7,
+   "truncated": 15.9
+  }
+ }
+}
